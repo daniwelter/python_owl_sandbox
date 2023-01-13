@@ -36,7 +36,7 @@ if __name__ == '__main__':
     with open('hp_groups.tsv', 'w') as out_file:
         tsv_writer = csv.writer(out_file, delimiter='\t')
 
-        with open('../tagger_dictionaries/other_classes.tsv', 'w') as second_out_file:
+        with open('../tagger_dictionaries/other_hp_classes.tsv', 'w') as second_out_file:
             second_writer = csv.writer(second_out_file, delimiter='\t')
 
 
