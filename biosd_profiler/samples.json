@@ -1,0 +1,2631 @@
+[{
+  "name" : "RS0000",
+  "accession" : "SAMN11893670",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:43.310Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893670",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847478"
+    } ],
+    "age" : [ {
+      "text" : "57",
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "JCRB",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "DMEM;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "HuH-7",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0005384" ],
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL 0336",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "cancer cell line",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0001639" ],
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "HuH-7_1",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "1",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "JCRB",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "HuH-7",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0005384" ],
+      "tag" : "attribute"
+    } ],
+    "disease" : [ {
+      "text" : "Hepatocellular carcinoma",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0000182" ],
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "male",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000384" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "liver",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0002107" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "HuH-7_1"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893670",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.313Z"
+},
+{
+  "name" : "RS0001",
+  "accession" : "SAMN11893671",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:43.325Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893671",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847477"
+    } ],
+    "age" : [ {
+      "text" : "47",
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "Sigma",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "DMEM;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "1321-N1",
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL 0110",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "cancer cell line",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0001639" ],
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "1321-N1_1",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "1",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "ECACC",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "1321-N1",
+      "tag" : "attribute"
+    } ],
+    "disease" : [ {
+      "text" : "Astrocytoma",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0000272" ],
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "male",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000384" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "brain",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0000955" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "1321-N1_1"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893671",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.340Z"
+},
+{
+  "name" : "RS0002",
+  "accession" : "SAMN11893672",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:43.332Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893672",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847476"
+    } ],
+    "age" : [ {
+      "text" : "51",
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "ATCC",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "DMEM;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "SK-MEL-28",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0003081" ],
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL 0526",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "cancer cell line",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0001639" ],
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "SK-MEL-28_1",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "1",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "ATCC",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "SK-MEL-28",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0003081" ],
+      "tag" : "attribute"
+    } ],
+    "disease" : [ {
+      "text" : "Cutaneous melanoma",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0000389" ],
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "male",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000384" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "skin",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0000014" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "SK-MEL-28_1"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893672",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.356Z"
+},
+{
+  "name" : "RS0003",
+  "accession" : "SAMN11893673",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:43.347Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893673",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847475"
+    } ],
+    "age" : [ {
+      "text" : "58",
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "Sigma",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "RPMI;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "LS 180",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0006640" ],
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL 0397",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "Colorectal cell line",
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "LS180_1",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "1",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "ECACC",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "LS180",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0006640" ],
+      "tag" : "attribute"
+    } ],
+    "disease" : [ {
+      "text" : "Colon adenocarcinoma",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0000365" ],
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "female",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000383" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "colon",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0001155" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "LS180_1"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893673",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.373Z"
+},
+{
+  "name" : "RS0004",
+  "accession" : "SAMN11893674",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:43.367Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893674",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847474"
+    } ],
+    "age" : [ {
+      "text" : "51",
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "ATCC",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "RPMI;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "MDA-MB-468",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0001216" ],
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL 0419",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "cancer cell line",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0001639" ],
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "MDA-MB-468_1",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "1",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "MD ANDERSON",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "MDA-MB-468",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0001216" ],
+      "tag" : "attribute"
+    } ],
+    "disease" : [ {
+      "text" : "Breast adenocarcinoma. Derived from metastatic site: Pleural effusion",
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "female",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000383" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "breast",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0000310" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "MDA-MB-468_1"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893674",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.390Z"
+},
+{
+  "name" : "RS0005",
+  "accession" : "SAMN11893675",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:43.378Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893675",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847473"
+    } ],
+    "age" : [ {
+      "text" : "48",
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "ATCC",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "McCoys 5A;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "HCT 116",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0002824" ],
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL 0291",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "Colorectal cell line",
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "HCT116_1",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "1",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "ATCC",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "HCT116",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0002824" ],
+      "tag" : "attribute"
+    } ],
+    "disease" : [ {
+      "text" : "Colon carcinoma",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0000365" ],
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "male",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000384" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "colon",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0001155" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "HCT116_1"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893675",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.410Z"
+},
+{
+  "name" : "RS0006",
+  "accession" : "SAMN11893676",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:43.390Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893676",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847472"
+    } ],
+    "age" : [ {
+      "text" : "fetus",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0000323" ],
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "ThermoFisher",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "DMEM;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "Jump In T-REx HEK 293",
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL D585",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "transformed cell line",
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "JumpIn_1",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "1",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "Thermo Fisher Sientific Jump In",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "JumpIn",
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "female",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000383" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "kidney",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0002113" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "JumpIN_1"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893676",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.426Z"
+},
+{
+  "name" : "RS0007",
+  "accession" : "SAMN11893677",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:43.399Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893677",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847471"
+    } ],
+    "age" : [ {
+      "text" : "57",
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "JCRB",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "DMEM;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "HuH-7",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0005384" ],
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL 0336",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "cancer cell line",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0001639" ],
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "HuH-7_2",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "2",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "JCRB",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "HuH-7",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0005384" ],
+      "tag" : "attribute"
+    } ],
+    "disease" : [ {
+      "text" : "Hepatocellular carcinoma",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0000182" ],
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "male",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000384" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "liver",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0002107" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "HuH-7_2"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893677",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.443Z"
+},
+{
+  "name" : "RS0008",
+  "accession" : "SAMN11893678",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:43.411Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893678",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847470"
+    } ],
+    "age" : [ {
+      "text" : "47",
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "Sigma",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "DMEM;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "1321-N1",
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL 0110",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "cancer cell line",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0001639" ],
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "1321-N1_2",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "2",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "ECACC",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "1321-N1",
+      "tag" : "attribute"
+    } ],
+    "disease" : [ {
+      "text" : "Astrocytoma",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0000272" ],
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "male",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000384" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "brain",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0000955" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "1321-N1_2"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893678",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.460Z"
+},
+{
+  "name" : "RS0009",
+  "accession" : "SAMN11893679",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:43.430Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893679",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847469"
+    } ],
+    "age" : [ {
+      "text" : "51",
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "ATCC",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "DMEM;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "SK-MEL-28",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0003081" ],
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL 0526",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "cancer cell line",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0001639" ],
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "SK-MEL-28_2",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "2",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "ATCC",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "SK-MEL-28",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0003081" ],
+      "tag" : "attribute"
+    } ],
+    "disease" : [ {
+      "text" : "Cutaneous melanoma",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0000389" ],
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "male",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000384" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "skin",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0000014" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "SK-MEL-28_2"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893679",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.480Z"
+},
+{
+  "name" : "RS000A",
+  "accession" : "SAMN11893680",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:43.447Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893680",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847463"
+    } ],
+    "age" : [ {
+      "text" : "58",
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "Sigma",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "RPMI;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "LS 180",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0006640" ],
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL 0397",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "Colorectal cell line",
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "LS180_2",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "2",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "ECACC",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "LS180",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0006640" ],
+      "tag" : "attribute"
+    } ],
+    "disease" : [ {
+      "text" : "Colon adenocarcinoma",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0000365" ],
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "female",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000383" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "colon",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0001155" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "LS180_2"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893680",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.496Z"
+},
+{
+  "name" : "RS000B",
+  "accession" : "SAMN11893681",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:43.447Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893681",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847462"
+    } ],
+    "age" : [ {
+      "text" : "51",
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "ATCC",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "RPMI;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "MDA-MB-468",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0001216" ],
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL 0419",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "cancer cell line",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0001639" ],
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "MDA-MB-468_2",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "2",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "MD ANDERSON",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "MDA-MB-468",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0001216" ],
+      "tag" : "attribute"
+    } ],
+    "disease" : [ {
+      "text" : "Breast adenocarcinoma. Derived from metastatic site: Pleural effusion",
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "female",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000383" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "breast",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0000310" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "MDA-MB-468_2"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893681",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.513Z"
+},
+{
+  "name" : "RS000C",
+  "accession" : "SAMN11893682",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:43.461Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893682",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847461"
+    } ],
+    "age" : [ {
+      "text" : "48",
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "ATCC",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "McCoys 5A;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "HCT 116",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0002824" ],
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL 0291",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "Colorectal cell line",
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "HCT116_2",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "2",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "ATCC",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "HCT116",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0002824" ],
+      "tag" : "attribute"
+    } ],
+    "disease" : [ {
+      "text" : "Colon carcinoma",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0000365" ],
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "male",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000384" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "colon",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0001155" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "HCT116_2"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893682",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.536Z"
+},
+{
+  "name" : "RS000E",
+  "accession" : "SAMN11893683",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:43.540Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893683",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847460"
+    } ],
+    "age" : [ {
+      "text" : "fetus",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0000323" ],
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "ThermoFisher",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "DMEM;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "Jump In T-REx HEK 293",
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL D585",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "transformed cell line",
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "JumpIn_2",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "2",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "Thermo Fisher Sientific Jump In",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "JumpIn",
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "female",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000383" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "kidney",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0002113" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "JumpIN_2"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893683",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.553Z"
+},
+{
+  "name" : "RS000F",
+  "accession" : "SAMN11893684",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:43.556Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893684",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847467"
+    } ],
+    "age" : [ {
+      "text" : "57",
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "JCRB",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "DMEM;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "HuH-7",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0005384" ],
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL 0336",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "cancer cell line",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0001639" ],
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "HuH-7_3",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "3",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "JCRB",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "HuH-7",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0005384" ],
+      "tag" : "attribute"
+    } ],
+    "disease" : [ {
+      "text" : "Hepatocellular carcinoma",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0000182" ],
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "male",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000384" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "liver",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0002107" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "HuH-7_3"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893684",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.570Z"
+},
+{
+  "name" : "RS000G",
+  "accession" : "SAMN11893685",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:43.551Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893685",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847466"
+    } ],
+    "age" : [ {
+      "text" : "47",
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "Sigma",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "DMEM;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "1321-N1",
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL 0110",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "cancer cell line",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0001639" ],
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "1321-N1_3",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "3",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "ECACC",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "1321-N1",
+      "tag" : "attribute"
+    } ],
+    "disease" : [ {
+      "text" : "Astrocytoma",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0000272" ],
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "male",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000384" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "brain",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0000955" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "1321-N1_3"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893685",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.586Z"
+},
+{
+  "name" : "RS000H",
+  "accession" : "SAMN11893686",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:45.125Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893686",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847465"
+    } ],
+    "age" : [ {
+      "text" : "51",
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "ATCC",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "DMEM;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "SK-MEL-28",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0003081" ],
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL 0526",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "cancer cell line",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0001639" ],
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "SK-MEL-28_3",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "3",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "ATCC",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "SK-MEL-28",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0003081" ],
+      "tag" : "attribute"
+    } ],
+    "disease" : [ {
+      "text" : "Cutaneous melanoma",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0000389" ],
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "male",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000384" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "skin",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0000014" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "SK-MEL-28_3"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893686",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.603Z"
+},
+{
+  "name" : "RS000K",
+  "accession" : "SAMN11893687",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:45.179Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893687",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847464"
+    } ],
+    "age" : [ {
+      "text" : "58",
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "Sigma",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "RPMI;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "LS 180",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0006640" ],
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL 0397",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "Colorectal cell line",
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "LS180_3",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "3",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "ECACC",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "LS180",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0006640" ],
+      "tag" : "attribute"
+    } ],
+    "disease" : [ {
+      "text" : "Colon adenocarcinoma",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0000365" ],
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "female",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000383" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "colon",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0001155" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "LS180_3"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893687",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.623Z"
+},
+{
+  "name" : "RS000M",
+  "accession" : "SAMN11893688",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:43.595Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893688",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847459"
+    } ],
+    "age" : [ {
+      "text" : "51",
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "ATCC",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "RPMI;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "MDA-MB-468",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0001216" ],
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL 0419",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "cancer cell line",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0001639" ],
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "MDA-MB-468_3",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "3",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "MD ANDERSON",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "MDA-MB-468",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0001216" ],
+      "tag" : "attribute"
+    } ],
+    "disease" : [ {
+      "text" : "Breast adenocarcinoma. Derived from metastatic site: Pleural effusion",
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "female",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000383" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "breast",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0000310" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "MDA-MB-468_3"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893688",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.640Z"
+},
+{
+  "name" : "RS000N",
+  "accession" : "SAMN11893689",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:43.586Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893689",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847458"
+    } ],
+    "age" : [ {
+      "text" : "48",
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "ATCC",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "McCoys 5A;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "HCT 116",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0002824" ],
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL 0291",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "Colorectal cell line",
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "HCT116_3",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "3",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "ATCC",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "HCT116",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0002824" ],
+      "tag" : "attribute"
+    } ],
+    "disease" : [ {
+      "text" : "Colon carcinoma",
+      "ontologyTerms" : [ "http://www.ebi.ac.uk/efo/EFO_0000365" ],
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "male",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000384" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "colon",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0001155" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "HCT116_3"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893689",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.656Z"
+},
+{
+  "name" : "RS000P",
+  "accession" : "SAMN11893690",
+  "domain" : "self.BiosampleImportNCBI",
+  "release" : "2019-05-30T00:00:00Z",
+  "update" : "2020-04-21T06:25:43.570Z",
+  "taxId" : 9606,
+  "characteristics" : {
+    "External Id" : [ {
+      "text" : "SAMN11893690",
+      "tag" : "Namespace:BioSample"
+    } ],
+    "INSDC center name" : [ {
+      "text" : "Research Center for Molecular Medicine of the Austrian Academy of Sciences",
+      "ontologyTerms" : [ "https://cemm.at/" ]
+    } ],
+    "INSDC first public" : [ {
+      "text" : "2019-05-30T00:00:00Z"
+    } ],
+    "INSDC status" : [ {
+      "text" : "live"
+    } ],
+    "NCBI submission model" : [ {
+      "text" : "Human"
+    } ],
+    "NCBI submission package" : [ {
+      "text" : "Human.1.0"
+    } ],
+    "SRA accession" : [ {
+      "text" : "SRS4847468"
+    } ],
+    "age" : [ {
+      "text" : "fetus",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0000323" ],
+      "tag" : "attribute"
+    } ],
+    "biomaterial provider" : [ {
+      "text" : "ThermoFisher",
+      "tag" : "attribute"
+    } ],
+    "cell culture" : [ {
+      "text" : "DMEM;10% FCS; Pen-Strep",
+      "tag" : "attribute"
+    } ],
+    "cell line" : [ {
+      "text" : "Jump In T-REx HEK 293",
+      "tag" : "attribute"
+    } ],
+    "cell line Cellosaurus ID" : [ {
+      "text" : "CVCL D585",
+      "tag" : "attribute"
+    } ],
+    "cell line additional info" : [ {
+      "text" : "Quality control tested for mycoplasma,STR profiling was performed for all cell lines to confirm identity.",
+      "tag" : "attribute"
+    } ],
+    "cell line category" : [ {
+      "text" : "transformed cell line",
+      "tag" : "attribute"
+    } ],
+    "cell line genotype" : [ {
+      "text" : "Wild type (WT)",
+      "tag" : "attribute"
+    } ],
+    "cell line name" : [ {
+      "text" : "JumpIn_3",
+      "tag" : "attribute"
+    } ],
+    "cell line replicate" : [ {
+      "text" : "3",
+      "tag" : "attribute"
+    } ],
+    "cell line source" : [ {
+      "text" : "Thermo Fisher Sientific Jump In",
+      "tag" : "attribute"
+    } ],
+    "cell line strain" : [ {
+      "text" : "JumpIn",
+      "tag" : "attribute"
+    } ],
+    "isolate" : [ {
+      "text" : "cell line",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/CL_0000010" ],
+      "tag" : "attribute"
+    } ],
+    "license" : [ {
+      "text" : "CC BY 4.0",
+      "tag" : "attribute"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "project" : [ {
+      "text" : "RESOLUTE",
+      "ontologyTerms" : [ "https://re-solute.eu/" ]
+    } ],
+    "sex" : [ {
+      "text" : "female",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PATO_0000383" ],
+      "tag" : "attribute"
+    } ],
+    "tissue" : [ {
+      "text" : "kidney",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/UBERON_0002113" ],
+      "tag" : "attribute"
+    } ],
+    "title" : [ {
+      "text" : "JumpIN_3"
+    } ]
+  },
+  "externalReferences" : [ {
+    "url" : "https://www.ebi.ac.uk/ena/data/view/SAMN11893690",
+    "duo" : [ ]
+  } ],
+  "releaseDate" : "2019-05-30",
+  "updateDate" : "2020-04-21",
+  "submittedVia" : "JSON_API",
+  "create" : "2019-05-30T14:12:04.673Z"
+}]
