@@ -1,0 +1,12 @@
+project	acronym	ESCulab
+dataset	0.distributions.0.dates.0.date	2016-01-01
+dataset	0.distributions.0.dates.0.type.value	creation date
+dataset	0.distributions.0.formats.0.value	SQL
+dataset	0.distributions.0.formats.0.valueIRI	format:3788
+dataset	0.title	Honest Data Broker
+dataset	0.types.0.value	high throughput screening (hts)
+dataset	0.creators.0.firstName	Jon	Person
+dataset	0.creators.0.lastName	de Vlieger	Person
+dataset	0.creators.0.fullName	Jon de Vlieger	Person
+dataset	0.creators.0.email	jon.devlieger@lygature.org	Person
+dataset	0.creators.0.affiliations.0.name	Lygature	Person

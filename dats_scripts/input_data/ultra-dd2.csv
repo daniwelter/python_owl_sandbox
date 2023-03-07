@@ -1,0 +1,7 @@
+project	acronym	ULTRA-DD
+dataset	title	ULTRA-DD Chemical Probes Dataset
+dataset	types.0.value	Chemical Probe
+dataset	types.0.valueIRI	NCIT:C73628
+dataset	distributions.0.access.landingPage	https://ultra-dd.org/probes/chemical-probes
+dataset	types.1.value	in vitro assay
+dataset	types.1.valueIRI	NCIT:C15958

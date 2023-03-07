@@ -1,0 +1,60 @@
+project	acronym	Foo
+project	endDate.date	31/12/2023
+project	endDate.type.value	end date
+project	endDate.type.valueIRI	SIO:000036
+project	startDate.date	01/01/2021
+project	startDate.type.value	start date
+project	startDate.type.valueIRI	SIO:000031
+project	fundedBy.identifier.identifier	12356
+project	fundedBy.name	IMI2 - Call 2
+project	projectWebsite	www.foo.com
+project	title	This is a test
+project	types.0.value	test
+project	types.1.value	data
+project	types.2.value	annotation
+study	name	Cool study
+study	types.0.value	clinical trial
+study	types.0.valueIRI	FOO:1357
+study	types.1.value	cancer study
+study	types.1.valueIRI	FOO:7809
+study	studyGroups.0.name	sick people
+study	studyGroups.0.size	200
+study	studyGroups.0.characteristics.0.name.value	age
+study	studyGroups.0.characteristics.0.name.valueIRI	NCIT:C12345
+study	studyGroups.0.characteristics.0.unit.value	year
+study	studyGroups.0.characteristics.0.unit.valueIRI	UO:00005
+study	studyGroups.0.characteristics.0.values.0.category	minimal value
+study	studyGroups.0.characteristics.0.values.0.categoryIRI	FOO:235
+study	studyGroups.0.characteristics.0.values.0.values.0.value	24
+study	studyGroups.0.characteristics.0.values.1.category	maximal value
+study	studyGroups.0.characteristics.0.values.1.categoryIRI	FOO:097
+study	studyGroups.0.characteristics.0.values.1.values.0.value	49
+study	studyGroups.0.characteristics.1.name.value	weight
+study	studyGroups.0.characteristics.1.name.valueIRI	NCIT:C7890
+study	studyGroups.0.characteristics.1.unit.value	kg
+study	studyGroups.0.characteristics.1.unit.valueIRI	UO:0072
+study	studyGroups.0.characteristics.1.values.0.category	minimal value
+study	studyGroups.0.characteristics.1.values.0.categoryIRI	FOO:235
+study	studyGroups.0.characteristics.1.values.0.values.0.value	47
+study	studyGroups.0.characteristics.1.values.1.category	maximal value
+study	studyGroups.0.characteristics.1.values.1.categoryIRI	FOO:097
+study	studyGroups.0.characteristics.1.values.1.values.0.value	98
+dataset	title	Really import dataset
+dataset	creators.0.affiliations.0.name	Research Institute	Person
+dataset	creators.0.email	foo@bar.com	Person
+dataset	creators.0.firstName	John	Person
+dataset	creators.0.fullName	John Smith	Person
+dataset	creators.0.lastName	Smith	Person
+dataset	creators.0.roles.value	Bioinformatics wizard	Person
+dataset	creators.1.name	University of Place	Organization
+dataset	dimensions.0.name.value	sample size
+dataset	dimensions.0.name.valueIRI	NCIT:C53190
+dataset	dimensions.0.values.0.value	>500
+dataset	distributions.0.access.landingPage	ftp://data.lives.here.com
+dataset	distributions.0.access.types.0.value	hosted at UL
+dataset	distributions.0.conformsTo.0.name	OMOP
+dataset	distributions.0.conformsTo.0.type.value	clincial data standard
+dataset	distributions.0.conformsTo.0.type.valueIRI	NCIT:C12345
+dataset	distributions.0.version	v1.0
+dataset	types.0.value	clinical trial data
+dataset	types.1.value	chemotherapy data

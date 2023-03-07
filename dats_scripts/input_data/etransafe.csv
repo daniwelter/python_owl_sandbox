@@ -1,0 +1,13 @@
+project	acronym	eTRANSAFE
+dataset	0.distributions.0.dates.0.date	2022-09-01
+dataset	0.distributions.0.dates.0.type.value	creation date
+dataset	0.distributions.0.version	1.0.0
+dataset	0.distributions.0.access.landingPage	FLAME Github repo
+dataset	0.distributions.0.access.accessURL	https://github.com/phi-grib/flame
+dataset	0.title	FLAME
+dataset	0.types.0.value	chemical toxicity prediction
+dataset	0.creators.0.firstName	Manuel	Person
+dataset	0.creators.0.lastName	Pastor	Person
+dataset	0.creators.0.fullName	Manuel Pastor	Person
+dataset	0.creators.0.email	manuel.pastor@upf.edu	Person
+dataset	0.creators.0.affiliations.0.name	Universitat Pompeu Fabra	Person

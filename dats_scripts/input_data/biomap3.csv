@@ -1,0 +1,11 @@
+project	acronym	BIOMAP
+dataset	title	BIOMAP microbiome
+dataset	types.0.value	microbiome
+dataset	isAbout.0.name	stool	AnatomicalPart
+dataset	isAbout.1.name	skin swab	AnatomicalPart
+dataset	isAbout.2.name	psoriasis	Disease
+dataset	isAbout.3.name	atopic dermatitis	Disease
+dataset	isAbout.4.name	healthy controls	Disease
+dataset	dimensions.0.name.value	sample size
+dataset	dimensions.0.name.valueIRI	NCIT:C53190
+dataset	dimensions.0.values.0.value	4752

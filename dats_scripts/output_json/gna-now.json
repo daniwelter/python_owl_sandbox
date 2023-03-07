@@ -1,0 +1,383 @@
+{
+    "title": "",
+    "description": "",
+    "@type": "Project",
+    "@context": [
+        "http://w3id.org/dats/context/sdo/dataset_sdo_context.jsonld",
+        "http://w3id.org/dats/context/obo/dataset_obo_context.jsonld"
+    ],
+    "types": [
+        {
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+            "value": ""
+        }
+    ],
+    "identifier": {
+        "identifier": "7bf48954-91c2-11ed-901b-acde48001122",
+        "@type": "Identifier",
+        "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld"
+    },
+    "startDate": {
+        "@type": "Date",
+        "@context": "https://w3id.org/dats/context/sdo/date_info_sdo_context.jsonld",
+        "date": "",
+        "type": {
+            "value": "",
+            "valueIRI": ""
+        }
+    },
+    "endDate": {
+        "@type": "Date",
+        "@context": "https://w3id.org/dats/context/sdo/date_info_sdo_context.jsonld",
+        "date": "",
+        "type": {
+            "value": "",
+            "valueIRI": ""
+        }
+    },
+    "projectLeads": [
+        {
+            "@type": "Person",
+            "@context": "https://w3id.org/dats/context/sdo/person_sdo_context.jsonld",
+            "firstName": "",
+            "lastName": "",
+            "email": "",
+            "phoneNumber": "",
+            "roles": [
+                {
+                    "@type": "Annotation",
+                    "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                    "value": "",
+                    "valueIRI": ""
+                }
+            ],
+            "affiliations": [
+                {
+                    "@type": "Organization",
+                    "@context": "https://w3id.org/dats/context/sdo/organization_sdo_context.jsonld",
+                    "name": "",
+                    "location": {
+                        "postalAddress": "",
+                        "@type": "Place",
+                        "@context": "https://w3id.org/dats/context/sdo/place_sdo_context.jsonld"
+                    }
+                }
+            ],
+            "fullName": ""
+        }
+    ],
+    "keywords": [
+        {
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+            "value": ""
+        }
+    ],
+    "fundedBy": [
+        {
+            "name": "",
+            "identifier": {
+                "identifier": "",
+                "@type": "Identifier",
+                "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld"
+            },
+            "@type": "Grant",
+            "@context": "https://w3id.org/dats/context/sdo/grant_sdo_context.jsonld"
+        }
+    ],
+    "projectAssets": [
+        {
+            "title": "NOSO-2G",
+            "identifier": {
+                "identifier": "7bf4a9a2-91c2-11ed-901b-acde48001122",
+                "@type": "Identifier",
+                "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld"
+            },
+            "@type": "Dataset",
+            "@context": "https://w3id.org/dats/context/sdo/dataset_sdo_context.jsonld",
+            "types": [
+                {
+                    "@type": "Annotation",
+                    "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                    "value": "dose-response"
+                }
+            ],
+            "isAbout": [],
+            "extraProperties": [
+                {
+                    "values": [
+                        {
+                            "value": "",
+                            "@type": "Annotation",
+                            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                        }
+                    ],
+                    "@type": "CategoryValuesPair",
+                    "category": ""
+                }
+            ],
+            "distributions": [
+                {
+                    "@type": "DatasetDistribution",
+                    "@context": "https://w3id.org/dats/context/sdo/dataset_distribution_sdo_context.jsonld",
+                    "access": {
+                        "accessURL": "",
+                        "landingPage": "",
+                        "@type": "Access",
+                        "@context": "https://w3id.org/dats/context/sdo/access_sdo_context.jsonld"
+                    },
+                    "dates": [
+                        {
+                            "date": "",
+                            "@type": "Date",
+                            "@context": "https://w3id.org/dats/context/sdo/date_info_sdo_context.jsonld",
+                            "type": {
+                                "@type": "Annotation",
+                                "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                                "value": "",
+                                "valueIRI": ""
+                            }
+                        }
+                    ],
+                    "conformsTo": [
+                        {
+                            "name": "",
+                            "type": {
+                                "@type": "Annotation",
+                                "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                                "value": ""
+                            },
+                            "@type": "DataStandard",
+                            "@context": "https://w3id.org/dats/context/sdo/data_standard_sdo_context.jsonld"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "@type": "Annotation",
+                            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                            "value": "",
+                            "valueIRI": ""
+                        }
+                    ],
+                    "version": ""
+                }
+            ],
+            "creators": [
+                {
+                    "@type": "Person",
+                    "@context": "https://w3id.org/dats/context/sdo/person_sdo_context.jsonld",
+                    "firstName": "Gesa",
+                    "lastName": "Witt",
+                    "email": "Gesa.Witt@itmp.fraunhofer.de",
+                    "affiliations": [
+                        {
+                            "@type": "Person",
+                            "@context": "https://w3id.org/dats/context/sdo/person_sdo_context.jsonld",
+                            "firstName": "",
+                            "lastName": "",
+                            "email": "",
+                            "affiliations": [
+                                {
+                                    "@type": "Organization",
+                                    "@context": "https://w3id.org/dats/context/sdo/organization_sdo_context.jsonld",
+                                    "name": ""
+                                }
+                            ],
+                            "fullName": "",
+                            "name": "Fraunhofer ITMP"
+                        }
+                    ],
+                    "fullName": "Gesa Witt"
+                }
+            ],
+            "dimensions": [
+                {
+                    "name": {
+                        "value": "",
+                        "valueIRI": "",
+                        "@type": "Annotation",
+                        "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                    },
+                    "values": [
+                        {
+                            "value": "",
+                            "@type": "Annotation",
+                            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                        }
+                    ],
+                    "@type": "Dimension",
+                    "@context": "https://w3id.org/dats/context/sdo/dimension_sdo_context.jsonld"
+                }
+            ]
+        },
+        {
+            "name": "Testing of antimicrobial compounds, hits in in-vitro system, on animal models such as mouse, rats, etc.",
+            "identifier": {
+                "identifier": "7bf49da4-91c2-11ed-901b-acde48001122",
+                "@type": "Identifier",
+                "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld"
+            },
+            "@type": "Study",
+            "@context": "https://w3id.org/dats/context/sdo/study_sdo_context.jsonld",
+            "description": "",
+            "types": [
+                {
+                    "value": "drug discovery",
+                    "@type": "Annotation",
+                    "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                    "valueIRI": "NCIT:C15802"
+                }
+            ],
+            "studyGroups": [
+                {
+                    "@type": "StudyGroup",
+                    "@context": "https://w3id.org/dats/context/sdo/studygroup_sdo_context.jsonld",
+                    "name": "",
+                    "size": "",
+                    "consentInformation": [
+                        {
+                            "name": {
+                                "value": "",
+                                "valueIRI": "",
+                                "@type": "Annotation",
+                                "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                            },
+                            "@type": "ConsentInfo",
+                            "@context": "https://w3id.org/dats/context/sdo/consent_info_obo_context.jsonld"
+                        }
+                    ],
+                    "characteristics": [
+                        {
+                            "name": {
+                                "value": "",
+                                "valueIRI": "",
+                                "@type": "Annotation",
+                                "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                            },
+                            "values": [
+                                {
+                                    "values": [
+                                        {
+                                            "value": "",
+                                            "@type": "Annotation",
+                                            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                                        }
+                                    ],
+                                    "@type": "CategoryValuesPair",
+                                    "category": "",
+                                    "categoryIRI": ""
+                                }
+                            ],
+                            "@type": "Dimension",
+                            "@context": "https://w3id.org/dats/context/sdo/dimension_sdo_context.jsonld",
+                            "unit": {
+                                "value": "",
+                                "valueIRI": "",
+                                "@type": "Annotation",
+                                "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "input": [
+                {
+                    "@type": "Material",
+                    "@context": "https://w3id.org/dats/context/sdo/material_sdo_context.jsonld",
+                    "name": "input material",
+                    "types": [
+                        {
+                            "value": "tissue sample",
+                            "valueIRI": "NCIT:C19697",
+                            "@type": "Annotation",
+                            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                        },
+                        {
+                            "value": "animal",
+                            "valueIRI": "NCIT:C14182",
+                            "@type": "Annotation",
+                            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                        },
+                        {
+                            "value": "bacteria",
+                            "valueIRI": "NCIT:C14187",
+                            "@type": "Annotation",
+                            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                        }
+                    ],
+                    "taxonomy": [
+                        {
+                            "@type": "TaxonomicInformation",
+                            "@context": "https://w3id.org/dats/context/sdo/taxonomic_info_sdo_context.jsonld",
+                            "name": "Mus musculus",
+                            "identifier": {
+                                "@type": "Identifier",
+                                "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld",
+                                "identifier": "NCBITaxon:10090",
+                                "identifierSource": "NCBI Taxon ID"
+                            }
+                        }
+                    ],
+                    "bearerOfDisease": [
+                        {
+                            "name": "bacterial infectious disease",
+                            "identifier": {
+                                "@type": "Identifier",
+                                "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld",
+                                "identifier": "MONDO:0005113"
+                            },
+                            "@type": "Disease",
+                            "@context": "https://w3id.org/dats/context/sdo/disease_sdo_context.jsonld"
+                        }
+                    ],
+                    "derivesFrom": [
+                        {
+                            "name": "cell",
+                            "identifier": {
+                                "@type": "Identifier",
+                                "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld",
+                                "identifier": "CL:0000000"
+                            },
+                            "@type": "AnatomicalPart",
+                            "@context": "https://w3id.org/dats/context/sdo/anatomical_part_sdo_context.jsonld"
+                        },
+                        {
+                            "name": "protein",
+                            "identifier": {
+                                "@type": "Identifier",
+                                "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld",
+                                "identifier": "CHEBI:36080"
+                            },
+                            "@type": "AnatomicalPart",
+                            "@context": "https://w3id.org/dats/context/sdo/anatomical_part_sdo_context.jsonld"
+                        }
+                    ]
+                }
+            ],
+            "output": [],
+            "acronym": "In vivo study",
+            "characteristics": [
+                {
+                    "name": {
+                        "value": "Multi-institution Indicator",
+                        "valueIRI": "NCIT:C93599",
+                        "@type": "Annotation",
+                        "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                    },
+                    "values": [
+                        {
+                            "value": "TRUE",
+                            "@type": "Annotation",
+                            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                        }
+                    ],
+                    "@type": "Dimension",
+                    "@context": "https://w3id.org/dats/context/sdo/dimension_sdo_context.jsonld"
+                }
+            ]
+        }
+    ],
+    "acronym": "GNA-NOW",
+    "projectWebsite": ""
+}

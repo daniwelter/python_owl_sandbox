@@ -1,0 +1,19 @@
+project	acronym	ULTRA-DD
+dataset	title	ULTRA-DD Cell Assay Dataset
+dataset	types.0.value	cellular assay
+dataset	types.0.valueIRI	NCIT:C15959
+dataset	distributions.0.access.landingPage	https://ultra-dd.org/tissue-platforms/cell-assay-datasets
+dataset	isAbout.0.name	tissue sample
+dataset	isAbout.1.name	familial Dupuytren contracture
+dataset	isAbout.2.name	inflammatory bowel disease
+dataset	isAbout.3.name	systemic sclerosis
+dataset	isAbout.4.name	ankylosing spondylitis
+dataset	isAbout.5.name	systemic lupus erythematosus
+dataset	isAbout.6.name	idiopathic inflammatory myositis
+dataset	isAbout.0.identifier.identifier	NCIT:C19697
+dataset	isAbout.1.identifier.identifier	MONDO:0007476
+dataset	isAbout.2.identifier.identifier	MONDO:0005265
+dataset	isAbout.3.identifier.identifier	MONDO:0005100
+dataset	isAbout.4.identifier.identifier	MONDO:0005306
+dataset	isAbout.5.identifier.identifier	MONDO:0007915
+dataset	isAbout.6.identifier.identifier	MONDO:0600023

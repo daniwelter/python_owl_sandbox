@@ -1,0 +1,166 @@
+{
+    "values": [
+        {
+            "value": "https://fairplus.github.io/fairification-results/2019-12-17-OncoTrack-pre-assessment/",
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+        }
+    ],
+    "@type": "CategoryValuesPair",
+    "category": "fairAssessmentLinkPre"
+},
+{
+    "values": [
+        {
+            "value": 0.33,
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+        }
+    ],
+    "@type": "CategoryValuesPair",
+    "category": "fairScoreRepresentationPre"
+},
+{
+    "values": [
+        {
+            "value": 0,
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+        }
+    ],
+    "@type": "CategoryValuesPair",
+    "category": "fairScoreContentPre"
+},
+{
+    "values": [
+        {
+            "value": 0,
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+        }
+    ],
+    "@type": "CategoryValuesPair",
+    "category": "fairScoreHostingPre"
+},
+{
+    "values": [
+        {
+            "value": 0,
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+        }
+    ],
+    "@type": "CategoryValuesPair",
+    "category": "fairScoreOverallPre"
+},
+{
+    "values": [
+        {
+            "value": "https://fairplus.github.io/Data-Maturity/docs/Indicators/",
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+        }
+    ],
+    "@type": "CategoryValuesPair",
+    "category": "fairIndicatorsHrefPre"
+},
+{
+    "values": [
+        {
+            "value": "FAIR Dataset Maturity (DSM) Model v1.0",
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+        }
+    ],
+    "@type": "CategoryValuesPair",
+    "category": "fairIndicatorsPre"
+},
+{
+    "values": [
+        {
+            "value": "https://fairplus.github.io/fairification-results/2019-12-17-OncoTrack-post-assessment/",
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+        }
+    ],
+    "@type": "CategoryValuesPair",
+    "category": "fairAssessmentLinkPost"
+},
+{
+    "values": [
+        {
+            "value": 2,
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+        }
+    ],
+    "@type": "CategoryValuesPair",
+    "category": "fairScoreRepresentationPost"
+},
+{
+    "values": [
+        {
+            "value": 1.86,
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+        }
+    ],
+    "@type": "CategoryValuesPair",
+    "category": "fairScoreContentPost"
+},
+{
+    "values": [
+        {
+            "value": 1.33,
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+        }
+    ],
+    "@type": "CategoryValuesPair",
+    "category": "fairScoreHostingPost"
+},
+{
+    "values": [
+        {
+            "value": 1,
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+        }
+    ],
+    "@type": "CategoryValuesPair",
+    "category": "fairScoreOverallPost"
+},
+{
+    "values": [
+        {
+            "value": "https://fairplus.github.io/Data-Maturity/docs/Indicators/",
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+        }
+    ],
+    "@type": "CategoryValuesPair",
+    "category": "fairIndicatorsHrefPost"
+},
+{
+    "values": [
+        {
+            "value": "FAIR Dataset Maturity (DSM) Model v1.0",
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+        }
+    ],
+    "@type": "CategoryValuesPair",
+    "category": "fairIndicatorsPost"
+},
+{
+    "values": [
+        {
+            "value": "true",
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+        }
+    ],
+    "@type": "CategoryValuesPair",
+    "category": "fairEvaluation"
+}
+}

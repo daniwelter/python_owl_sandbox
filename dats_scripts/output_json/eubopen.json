@@ -1,0 +1,371 @@
+{
+    "title": "",
+    "description": "",
+    "@type": "Project",
+    "@context": [
+        "http://w3id.org/dats/context/sdo/dataset_sdo_context.jsonld",
+        "http://w3id.org/dats/context/obo/dataset_obo_context.jsonld"
+    ],
+    "types": [
+        {
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+            "value": ""
+        }
+    ],
+    "identifier": {
+        "identifier": "1fd1bbe6-804d-11ed-b3d6-acde48001122",
+        "@type": "Identifier",
+        "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld"
+    },
+    "startDate": {
+        "@type": "Date",
+        "@context": "https://w3id.org/dats/context/sdo/date_info_sdo_context.jsonld",
+        "date": "",
+        "type": {
+            "value": "",
+            "valueIRI": ""
+        }
+    },
+    "endDate": {
+        "@type": "Date",
+        "@context": "https://w3id.org/dats/context/sdo/date_info_sdo_context.jsonld",
+        "date": "",
+        "type": {
+            "value": "",
+            "valueIRI": ""
+        }
+    },
+    "projectLeads": [
+        {
+            "@type": "Person",
+            "@context": "https://w3id.org/dats/context/sdo/person_sdo_context.jsonld",
+            "firstName": "",
+            "lastName": "",
+            "email": "",
+            "phoneNumber": "",
+            "roles": [
+                {
+                    "@type": "Annotation",
+                    "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                    "value": "",
+                    "valueIRI": ""
+                }
+            ],
+            "affiliations": [
+                {
+                    "@type": "Organization",
+                    "@context": "https://w3id.org/dats/context/sdo/organization_sdo_context.jsonld",
+                    "name": "",
+                    "location": {
+                        "postalAddress": "",
+                        "@type": "Place",
+                        "@context": "https://w3id.org/dats/context/sdo/place_sdo_context.jsonld"
+                    }
+                }
+            ],
+            "fullName": ""
+        }
+    ],
+    "keywords": [
+        {
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+            "value": ""
+        }
+    ],
+    "fundedBy": [
+        {
+            "name": "",
+            "identifier": {
+                "identifier": "",
+                "@type": "Identifier",
+                "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld"
+            },
+            "@type": "Grant",
+            "@context": "https://w3id.org/dats/context/sdo/grant_sdo_context.jsonld"
+        }
+    ],
+    "projectAssets": [
+        {
+            "name": "High-Content Live-Cell Multiplex Screen for Chemogenomic Compound Annotation",
+            "identifier": {
+                "identifier": "1fd1cb68-804d-11ed-b3d6-acde48001122",
+                "@type": "Identifier",
+                "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld"
+            },
+            "@type": "Study",
+            "@context": "https://w3id.org/dats/context/sdo/study_sdo_context.jsonld",
+            "description": "This submission holds the raw data and processed images for a high-content live-cell multiplex screen. The screen is used for chemogenomic compounnd annotation, i.e. the evaluation of e.g. cytotoxic effects. This submission is about a set of >550 chemogenomic candidate compounds, tested in a pre-screen and a primary screen. Further information about the EUbOPEN project, from which this set and experiment originated can be found in the links section.",
+            "types": [
+                {
+                    "value": "compound libraries and screening",
+                    "@type": "Annotation",
+                    "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                    "valueIRI": "topic:3343"
+                },
+                {
+                    "@type": "Annotation",
+                    "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                    "value": "bioimaging",
+                    "valueIRI": "topic:3383"
+                },
+                {
+                    "@type": "Annotation",
+                    "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                    "value": "confocal microscopy",
+                    "valueIRI": "NCIT:C17753"
+                },
+                {
+                    "@type": "Annotation",
+                    "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                    "value": "Brightfield microscopy",
+                    "valueIRI": "NCIT:C19827"
+                }
+            ],
+            "studyGroups": [
+                {
+                    "@type": "StudyGroup",
+                    "@context": "https://w3id.org/dats/context/sdo/studygroup_sdo_context.jsonld",
+                    "name": "",
+                    "size": "",
+                    "consentInformation": [
+                        {
+                            "name": {
+                                "value": "",
+                                "valueIRI": "",
+                                "@type": "Annotation",
+                                "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                            },
+                            "@type": "ConsentInfo",
+                            "@context": "https://w3id.org/dats/context/sdo/consent_info_obo_context.jsonld"
+                        }
+                    ],
+                    "characteristics": [
+                        {
+                            "name": {
+                                "value": "",
+                                "valueIRI": "",
+                                "@type": "Annotation",
+                                "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                            },
+                            "values": [
+                                {
+                                    "values": [
+                                        {
+                                            "value": "",
+                                            "@type": "Annotation",
+                                            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                                        }
+                                    ],
+                                    "@type": "CategoryValuesPair",
+                                    "category": "",
+                                    "categoryIRI": ""
+                                }
+                            ],
+                            "@type": "Dimension",
+                            "@context": "https://w3id.org/dats/context/sdo/dimension_sdo_context.jsonld",
+                            "unit": {
+                                "value": "",
+                                "valueIRI": "",
+                                "@type": "Annotation",
+                                "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "input": [
+                {
+                    "@type": "Material",
+                    "@context": "https://w3id.org/dats/context/sdo/material_sdo_context.jsonld",
+                    "name": "input material",
+                    "types": [
+                        {
+                            "value": "cell line",
+                            "valueIRI": "NCIT:C16403",
+                            "@type": "Annotation",
+                            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                        }
+                    ],
+                    "taxonomy": [
+                        {
+                            "@type": "TaxonomicInformation",
+                            "@context": "https://w3id.org/dats/context/sdo/taxonomic_info_sdo_context.jsonld",
+                            "name": "Homo sapiens",
+                            "identifier": {
+                                "@type": "Identifier",
+                                "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld",
+                                "identifier": "NCBITaxon:9606",
+                                "identifierSource": "NCBI Taxon ID"
+                            }
+                        }
+                    ],
+                    "bearerOfDisease": [
+                        {
+                            "name": "",
+                            "@type": "Disease",
+                            "@context": "https://w3id.org/dats/context/sdo/disease_sdo_context.jsonld"
+                        }
+                    ],
+                    "derivesFrom": [
+                        {
+                            "name": "fibroblast",
+                            "identifier": {
+                                "@type": "Identifier",
+                                "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld",
+                                "identifier": "CL:0000057",
+                                "identifierSource": ""
+                            },
+                            "@type": "AnatomicalPart",
+                            "@context": "https://w3id.org/dats/context/sdo/anatomical_part_sdo_context.jsonld"
+                        }
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "title": "EUbOPEN",
+                    "identifier": {
+                        "identifier": "1fd1d3c4-804d-11ed-b3d6-acde48001122",
+                        "@type": "Identifier",
+                        "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld"
+                    },
+                    "@type": "Dataset",
+                    "@context": "https://w3id.org/dats/context/sdo/dataset_sdo_context.jsonld",
+                    "types": [
+                        {
+                            "@type": "Annotation",
+                            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                            "value": "compound library",
+                            "valueIRI": "BAO:0000648"
+                        }
+                    ],
+                    "isAbout": [
+                        {
+                            "@type": "MolecularEntity",
+                            "@context": "https://w3id.org/dats/context/sdo/molecular_entity_sdo_context.jsonld",
+                            "name": "",
+                            "identifier": {},
+                            "roles": [
+                                {
+                                    "@type": "Annotation",
+                                    "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                                    "value": "",
+                                    "valueIRI": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "extraProperties": [
+                        {
+                            "values": [
+                                {
+                                    "value": "",
+                                    "@type": "Annotation",
+                                    "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                                }
+                            ],
+                            "@type": "CategoryValuesPair",
+                            "category": ""
+                        }
+                    ],
+                    "distributions": [
+                        {
+                            "@type": "DatasetDistribution",
+                            "@context": "https://w3id.org/dats/context/sdo/dataset_distribution_sdo_context.jsonld",
+                            "access": {
+                                "accessURL": "",
+                                "landingPage": "",
+                                "@type": "Access",
+                                "@context": "https://w3id.org/dats/context/sdo/access_sdo_context.jsonld",
+                                "types": [
+                                    {
+                                        "@type": "Annotation",
+                                        "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                                        "value": "",
+                                        "valueIRI": ""
+                                    }
+                                ]
+                            },
+                            "dates": [
+                                {
+                                    "date": "",
+                                    "@type": "Date",
+                                    "@context": "https://w3id.org/dats/context/sdo/date_info_sdo_context.jsonld",
+                                    "type": {
+                                        "@type": "Annotation",
+                                        "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                                        "value": "",
+                                        "valueIRI": ""
+                                    }
+                                }
+                            ],
+                            "conformsTo": [
+                                {
+                                    "name": "",
+                                    "type": {
+                                        "@type": "Annotation",
+                                        "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                                        "value": ""
+                                    },
+                                    "@type": "DataStandard",
+                                    "@context": "https://w3id.org/dats/context/sdo/data_standard_sdo_context.jsonld"
+                                }
+                            ],
+                            "version": ""
+                        }
+                    ],
+                    "creators": [
+                        {
+                            "@type": "Organization",
+                            "@context": "https://w3id.org/dats/context/sdo/organization_sdo_context.jsonld",
+                            "name": ""
+                        }
+                    ],
+                    "dimensions": [
+                        {
+                            "name": {
+                                "value": "",
+                                "valueIRI": "",
+                                "@type": "Annotation",
+                                "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                            },
+                            "values": [
+                                {
+                                    "value": "",
+                                    "@type": "Annotation",
+                                    "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                                }
+                            ],
+                            "@type": "Dimension",
+                            "@context": "https://w3id.org/dats/context/sdo/dimension_sdo_context.jsonld"
+                        }
+                    ]
+                }
+            ],
+            "acronym": "EUbOPEN wave 1",
+            "characteristics": [
+                {
+                    "name": {
+                        "value": "",
+                        "valueIRI": "",
+                        "@type": "Annotation",
+                        "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                    },
+                    "values": [
+                        {
+                            "value": "",
+                            "@type": "Annotation",
+                            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                        }
+                    ],
+                    "@type": "Dimension",
+                    "@context": "https://w3id.org/dats/context/sdo/dimension_sdo_context.jsonld"
+                }
+            ]
+        }
+    ],
+    "acronym": "EUbOPEN",
+    "projectWebsite": ""
+}

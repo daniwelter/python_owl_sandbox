@@ -1,0 +1,8 @@
+project	acronym	ULTRA-DD
+dataset	title	ULTRA-DD Biological Probes Dataset
+dataset	types.0.value	Biological probe
+dataset	distributions.0.access.landingPage	https://ultra-dd.org/probes/biological-probes
+dataset	types.1.value	in vitro assay
+dataset	types.1.valueIRI	NCIT:C15958
+dataset	types.2.value	biological agent
+dataset	types.2.valueIRI	NCIT:C307

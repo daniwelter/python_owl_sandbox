@@ -1,0 +1,5 @@
+project	acronym	ULTRA-DD
+dataset	title	ULTRA-DD Structures Dataset
+dataset	types.0.value	Chemical structure
+dataset	types.0.valueIRI	NCIT:C103240
+dataset	distributions.0.access.landingPage	https://ultra-dd.org/structures

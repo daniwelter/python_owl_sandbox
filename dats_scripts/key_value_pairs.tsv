@@ -1,0 +1,230 @@
+Glucose	CHEBI:17234
+Iron	CHEBI:18248
+Oxaliplatin	CHEBI:31941
+Insulin	CHEBI:5931
+Afatinib	CHEBI:61390
+Regorafenib	CHEBI:68647
+Adiponectin	CHEBI:81572
+Nintedanib	CHEBI:85164
+cell	CL:0000000
+fibroblast	CL:0000057
+Erythrocytes	CL:0000232
+CD4+ T-cells	CL:0000624
+Leukocytes	CL:0000738
+CD14+ monocytes	CL:0001054
+CD19+ B-cells	CL:0001201
+PBMCs	CL:2000001
+DNA methylation	GO:0006306
+impaired glucose tolerance	HP:0040270
+impaired fasting glycaemia	MONDO:0001343
+carcinoma of the colon	MONDO:0002032
+acute myocardial infarction	MONDO:0004781
+Alzheimer's disease	MONDO:0004975
+asthma	MONDO:0004979
+chronic obstructive pulmonary disease	MONDO:0005002
+epilepsy	MONDO:0005027
+psoriasis	MONDO:0005083
+respiratory disease	MONDO:0005087
+systemic sclerosis	MONDO:0005100
+ulcerative colitis	MONDO:0005101
+bacterial infectious disease	MONDO:0005113
+type I diabetes	MONDO:0005147
+type II diabetes	MONDO:0005148
+osteoarthritis	MONDO:0005178
+Parkinson disease	MONDO:0005180
+inflammatory bowel disease	MONDO:0005265
+multiple sclerosis	MONDO:0005301
+ankylosing spondylitis	MONDO:0005306
+knee osteoarthritis	MONDO:0005416
+familial hypercholesterolemia	MONDO:0005439
+Crohn's disease	MONDO:0005532
+infectious disease	MONDO:0005550
+lupus nephritis	MONDO:0005556
+breast cancer	MONDO:0007254
+familial Dupuytren contracture	MONDO:0007476
+systemic lupus erythematosus	MONDO:0007915
+rheumatoid arthritis	MONDO:0008383
+Multiple Myeloma	MONDO:0009693
+atopic dermatitis	MONDO:0011292
+juvenile idiopathic arthritis	MONDO:0011429
+atherosclerotic coronary artery disease	MONDO:0021661
+Irinotecan	MONDO:0027675
+complex chronic diseases	MONDO:0043693
+DNA from serum	MONDO:0043789
+COVID-19	MONDO:0100096
+mTOR FR	MONDO:0100283
+idiopathic inflammatory myositis	MONDO:0600023
+HOMA2IR	NCIT:C100447
+Hip Circumference	NCIT:C100947
+Waist Circumference	NCIT:C100948
+Carbohydrate Deficient Transferrin Measurement	NCIT:C101016
+whole genome sequencing	NCIT:C101294
+exome sequencing	NCIT:C101295
+36-Item Short Form Survey (SF-36) questionnaire	NCIT:C102122
+Chemical structure	NCIT:C103240
+Volitinib	NCIT:C104732
+HDL Cholesterol	NCIT:C105587
+LDL Cholesterol	NCIT:C105588
+methylome	NCIT:C106057
+Glomerular Filtration Rate Estimated	NCIT:C110935
+Body Fat Measurement	NCIT:C122232
+induced pluripotent stem cells	NCIT:C124144
+RNA sequencing	NCIT:C124261
+RNASeq	NCIT:C124261
+clinical assessment	NCIT:C124351
+dose-response	NCIT:C127803
+xenografts	NCIT:C12932
+clinical trial protocol	NCIT:C142451
+personal health data	NCIT:C142530
+raw data	NCIT:C142663
+biopsy (lesional)	NCIT:C15189
+biopsy (non-lesional)	NCIT:C15189
+in vitro drug screening assay	NCIT:C15229
+transcriptomics	NCIT:C153189
+lipidomics	NCIT:C153193
+Lipidomics - area ratio - 28 compounds	NCIT:C153193
+Lipidomics - lipid concentrations - 603 compounds	NCIT:C153193
+Lipidomics - oxylipin concentration - 7 compounds	NCIT:C153193
+Knee Injury and Osteoarthritis Outcome Score (KOOS) questionnaire	NCIT:C153299
+clinical data	NCIT:C15783
+clinical patient data	NCIT:C15783
+drug discovery	NCIT:C15802
+deep-Sequencing	NCIT:C158249
+high-quality blood DNA samples	NCIT:C158416
+in vitro assay	NCIT:C15958
+cellular assay	NCIT:C15959
+observational	NCIT:C16084
+Antibodies	NCIT:C16295
+biomarkers	NCIT:C16342
+Body Mass Index	NCIT:C16358
+RNA from serum	NCIT:C163995
+methylation array	NCIT:C165222
+raw sequencing data	NCIT:C165232
+Ferritin	NCIT:C16577
+genetics	NCIT:C16624
+MRI	NCIT:C16809
+MRI	NCIT:C16809
+MRI scan analysis - bone shape	NCIT:C16809
+MRI scan analysis - MOAKS (MRI Osteoarthritis Knee Score)	NCIT:C16809
+MRI scan analysis - quantitative MRI	NCIT:C16809
+Questionnaire	NCIT:C17048
+CT	NCIT:C17204
+CT scan analysis	NCIT:C17204
+CT scan analysis - bone texture	NCIT:C17204
+CT scans	NCIT:C17204
+Cetuximab	NCIT:C1723
+Non-coding RNA profiling by array	NCIT:C172858
+Smoking behaviour questionnaire	NCIT:C173060
+disease free	NCIT:C173158
+clinical imaging	NCIT:C17369
+confocal microscopy	NCIT:C17753
+Tumor Tissue	NCIT:C18009
+high throughput screening (hts)	NCIT:C18472
+medical history	NCIT:C18772
+recombinant antibody	NCIT:C18993
+tissue sample	NCIT:C19697
+Brightfield microscopy	NCIT:C19827
+proteomics	NCIT:C20085
+Avastin	NCIT:C2039
+physical assessment	NCIT:C20989
+Physical assessment - motion analysis, deformities, inflammation	NCIT:C20989
+Physical assessment - performance, motion analysis, deformities, inflammation, range of motion (ROM)	NCIT:C20989
+Physical examination	NCIT:C20989
+Pain Numeric Rating Scale (NRS) questionnaire	NCIT:C21082
+Albumin	NCIT:C214
+Weight	NCIT:C25208
+laboratory tests	NCIT:C25294
+Systolic Blood Pressure	NCIT:C25298
+Diastolic Blood Pressure	NCIT:C25299
+Height	NCIT:C25347
+Fibrinogen	NCIT:C25736
+Bilirubin	NCIT:C305
+biological agent	NCIT:C307
+Cholesterol	NCIT:C369
+X-ray	NCIT:C38101
+X-ray	NCIT:C38101
+X-ray analysis - 2D Statistical Shape Model	NCIT:C38101
+X-ray analysis - bone texture	NCIT:C38101
+X-ray analysis - Kellgren-Lawrence grading	NCIT:C38101
+X-ray analysis - Knee images digital analysis (KIDA)	NCIT:C38101
+Creatinine	NCIT:C399
+DNA	NCIT:C449
+genotyping	NCIT:C45447
+preclinical	NCIT:C48674
+metabolomics	NCIT:C49019
+Healthy individuals	NCIT:C49651
+5-FU	NCIT:C505
+skin biopsy	NCIT:C51692
+Lymphocytes Total Cells	NCIT:C51949
+Neutrophils Total Cells	NCIT:C51950
+Platelets	NCIT:C51951
+metadata	NCIT:C52095
+biomarker assays	NCIT:C63333
+Alanine Aminostransferase	NCIT:C64433
+Aspartame Aminotransferase	NCIT:C64467
+C Reactive Protein	NCIT:C64548
+Eosinophils Total Cells	NCIT:C64550
+Hematocrit	NCIT:C64796
+Urate	NCIT:C64814
+Monocytes Total Cells	NCIT:C64823
+Gamma Glutamyl Transferase	NCIT:C64847
+Hemoglobin A1C	NCIT:C64849
+AZD6244	NCIT:C66939
+microbiome	NCIT:C68564
+preprocessed anonymised data	NCIT:C68759
+Clinical trial	NCIT:C71104
+Lean Body Mass	NCIT:C71258
+Chemical Probe	NCIT:C73628
+Apolipoprotein A1	NCIT:C74733
+Apolipoprotein B	NCIT:C74734
+Homocysteine Acid Measurement 	NCIT:C74741
+Albumin To Creatinine Protein Ratio Measurement	NCIT:C74761
+Urine albumin creatinine ratio	NCIT:C74761
+Leptin	NCIT:C74866
+Potassium	NCIT:C765
+AZD8931	NCIT:C77887
+Cholesterol to HDL Cholesterol Ratio Measurement	NCIT:C80171
+Free Fatty Acid	NCIT:C80200
+Somatotrophin	NCIT:C80360
+RNA	NCIT:C812
+Glutamic Acid Decarboxylase 1	NCIT:C82015
+Lipoprotein a	NCIT:C82022
+Transferrin	NCIT:C82037
+Sodium	NCIT:C830
+Triglycerides	NCIT:C906
+Cystatin C	NCIT:C92290
+C peptide	NCIT:C94608
+CT scan analysis - bone mineral density	NCIT:C96950
+Basophils Total Cells	NCIT:C98865
+methylation profiling by array	OBI:0001332
+methylation profiling by genome tiling array	OBI:0001332
+microRNA array	OBI:0001335
+expression profiling by array	OBI:0001463
+transcriptomics array	OBI:0001463
+expression profiling by high throughput sequencing	OBI:0003090
+healthy baseline	SIO:001012
+Hip Disability and Osteoarthritis Outcome Score (HOOS) questionnaire	SNOMED:445989000
+systems biology	topic:2259
+biosamples	topic:3277
+compound libraries and screening	topic:3343
+bioimaging	topic:3383
+Omics	topic:3391
+pancreatic islet	UBERON:0000006
+blood	UBERON:0000178
+brain	UBERON:0000955
+Brain (For the imaging data)	UBERON:0000955
+rectum	UBERON:0001052
+urine	UBERON:0001088
+transverse colon	UBERON:0001157
+transverse colon	UBERON:0001157
+pancreas	UBERON:0001264
+CSF	UBERON:0001359
+saliva	UBERON:0001836
+plasma	UBERON:0001969
+serum	UBERON:0001977
+stool	UBERON:0001988
+faeces	UBERON:0001988
+lung	UBERON:0002048
+ileum	UBERON:0002116
+Sputum	UBERON:0007311
+creation date	SIO:001314

@@ -1,0 +1,23 @@
+project	acronym	EUbOPEN
+study	name	High-Content Live-Cell Multiplex Screen for Chemogenomic Compound Annotation
+study	description	This submission holds the raw data and processed images for a high-content live-cell multiplex screen. The screen is used for chemogenomic compounnd annotation, i.e. the evaluation of e.g. cytotoxic effects. This submission is about a set of >550 chemogenomic candidate compounds, tested in a pre-screen and a primary screen. Further information about the EUbOPEN project, from which this set and experiment originated can be found in the links section.
+study	types.0.value	compound libraries and screening
+study	types.0.valueIRI	topic:3343
+study	types.1.value	bioimaging
+study	types.1.valueIRI	topic:3383
+study	types.2.value	confocal microscopy
+study	types.2.valueIRI	NCIT:C17753
+study	types.3.value	Brightfield microscopy
+study	types.3.valueIRI	NCIT:C19827
+study	input.0.name	input material
+study	input.0.taxonomy.0.identifier.identifier	NCBITaxon:9606
+study	input.0.taxonomy.0.identifier.identifierSource	NCBI Taxon ID
+study	input.0.taxonomy.0.name	Homo sapiens
+study	input.0.types.0.value	cell line
+study	input.0.types.0.valueIRI	NCIT:C16403
+study	input.0.derivesFrom.0.name	fibroblast
+study	input.0.derivesFrom.0.identifier.identifier	CL:0000057
+study	acronym	EUbOPEN wave 1
+dataset	title	EUbOPEN
+dataset	types.0.value	compound library
+dataset	types.0.valueIRI	BAO:0000648

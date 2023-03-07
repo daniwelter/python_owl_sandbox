@@ -1,0 +1,223 @@
+{
+    "title": "",
+    "description": "",
+    "@type": "Project",
+    "@context": [
+        "http://w3id.org/dats/context/sdo/dataset_sdo_context.jsonld",
+        "http://w3id.org/dats/context/obo/dataset_obo_context.jsonld"
+    ],
+    "types": [
+        {
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+            "value": ""
+        }
+    ],
+    "identifier": {
+        "identifier": "219889f0-8066-11ed-af16-acde48001122",
+        "@type": "Identifier",
+        "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld"
+    },
+    "startDate": {
+        "@type": "Date",
+        "@context": "https://w3id.org/dats/context/sdo/date_info_sdo_context.jsonld",
+        "date": "",
+        "type": {
+            "value": "",
+            "valueIRI": ""
+        }
+    },
+    "endDate": {
+        "@type": "Date",
+        "@context": "https://w3id.org/dats/context/sdo/date_info_sdo_context.jsonld",
+        "date": "",
+        "type": {
+            "value": "",
+            "valueIRI": ""
+        }
+    },
+    "projectLeads": [
+        {
+            "@type": "Person",
+            "@context": "https://w3id.org/dats/context/sdo/person_sdo_context.jsonld",
+            "firstName": "",
+            "lastName": "",
+            "email": "",
+            "phoneNumber": "",
+            "roles": [
+                {
+                    "@type": "Annotation",
+                    "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                    "value": "",
+                    "valueIRI": ""
+                }
+            ],
+            "affiliations": [
+                {
+                    "@type": "Organization",
+                    "@context": "https://w3id.org/dats/context/sdo/organization_sdo_context.jsonld",
+                    "name": "",
+                    "location": {
+                        "postalAddress": "",
+                        "@type": "Place",
+                        "@context": "https://w3id.org/dats/context/sdo/place_sdo_context.jsonld"
+                    }
+                }
+            ],
+            "fullName": ""
+        }
+    ],
+    "keywords": [
+        {
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+            "value": ""
+        }
+    ],
+    "fundedBy": [
+        {
+            "name": "",
+            "identifier": {
+                "identifier": "",
+                "@type": "Identifier",
+                "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld"
+            },
+            "@type": "Grant",
+            "@context": "https://w3id.org/dats/context/sdo/grant_sdo_context.jsonld"
+        }
+    ],
+    "projectAssets": [
+        {
+            "title": "ULTRA-DD Biological Probes Dataset",
+            "identifier": {
+                "identifier": "2198a32c-8066-11ed-af16-acde48001122",
+                "@type": "Identifier",
+                "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld"
+            },
+            "@type": "Dataset",
+            "@context": "https://w3id.org/dats/context/sdo/dataset_sdo_context.jsonld",
+            "types": [
+                {
+                    "@type": "Annotation",
+                    "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                    "value": "Biological probe"
+                },
+                {
+                    "@type": "Annotation",
+                    "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                    "value": "in vitro assay",
+                    "valueIRI": "NCIT:C15958"
+                },
+                {
+                    "@type": "Annotation",
+                    "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                    "value": "biological agent",
+                    "valueIRI": "NCIT:C307"
+                }
+            ],
+            "isAbout": [
+                {
+                    "@type": "MolecularEntity",
+                    "@context": "https://w3id.org/dats/context/sdo/molecular_entity_sdo_context.jsonld",
+                    "name": "",
+                    "identifier": {},
+                    "roles": [
+                        {
+                            "@type": "Annotation",
+                            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                            "value": "",
+                            "valueIRI": ""
+                        }
+                    ]
+                }
+            ],
+            "extraProperties": [
+                {
+                    "values": [
+                        {
+                            "value": "",
+                            "@type": "Annotation",
+                            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                        }
+                    ],
+                    "@type": "CategoryValuesPair",
+                    "category": ""
+                }
+            ],
+            "distributions": [
+                {
+                    "@type": "DatasetDistribution",
+                    "@context": "https://w3id.org/dats/context/sdo/dataset_distribution_sdo_context.jsonld",
+                    "access": {
+                        "accessURL": "",
+                        "landingPage": "https://ultra-dd.org/probes/biological-probes",
+                        "@type": "Access",
+                        "@context": "https://w3id.org/dats/context/sdo/access_sdo_context.jsonld",
+                        "types": [
+                            {
+                                "@type": "Annotation",
+                                "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                                "value": "",
+                                "valueIRI": ""
+                            }
+                        ]
+                    },
+                    "dates": [
+                        {
+                            "date": "",
+                            "@type": "Date",
+                            "@context": "https://w3id.org/dats/context/sdo/date_info_sdo_context.jsonld",
+                            "type": {
+                                "@type": "Annotation",
+                                "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                                "value": "",
+                                "valueIRI": ""
+                            }
+                        }
+                    ],
+                    "conformsTo": [
+                        {
+                            "name": "",
+                            "type": {
+                                "@type": "Annotation",
+                                "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                                "value": ""
+                            },
+                            "@type": "DataStandard",
+                            "@context": "https://w3id.org/dats/context/sdo/data_standard_sdo_context.jsonld"
+                        }
+                    ],
+                    "version": ""
+                }
+            ],
+            "creators": [
+                {
+                    "@type": "Organization",
+                    "@context": "https://w3id.org/dats/context/sdo/organization_sdo_context.jsonld",
+                    "name": ""
+                }
+            ],
+            "dimensions": [
+                {
+                    "name": {
+                        "value": "",
+                        "valueIRI": "",
+                        "@type": "Annotation",
+                        "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                    },
+                    "values": [
+                        {
+                            "value": "",
+                            "@type": "Annotation",
+                            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                        }
+                    ],
+                    "@type": "Dimension",
+                    "@context": "https://w3id.org/dats/context/sdo/dimension_sdo_context.jsonld"
+                }
+            ]
+        }
+    ],
+    "acronym": "ULTRA-DD",
+    "projectWebsite": ""
+}

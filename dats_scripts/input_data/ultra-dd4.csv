@@ -1,0 +1,7 @@
+project	acronym	ULTRA-DD
+dataset	title	ULTRA-DD Antibodies Dataset
+dataset	types.0.value	Antibodies
+dataset	types.0.valueIRI	NCIT:C16295
+dataset	distributions.0.access.landingPage	https://ultra-dd.org/antibodies
+dataset	types.1.value	recombinant antibody
+dataset	types.1.valueIRI	NCIT:C18993

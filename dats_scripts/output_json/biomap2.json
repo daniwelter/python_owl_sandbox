@@ -1,0 +1,194 @@
+{
+    "title": "",
+    "description": "",
+    "@type": "Project",
+    "@context": [
+        "http://w3id.org/dats/context/sdo/dataset_sdo_context.jsonld",
+        "http://w3id.org/dats/context/obo/dataset_obo_context.jsonld"
+    ],
+    "types": [
+        {
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+            "value": ""
+        }
+    ],
+    "identifier": {
+        "identifier": "c7028886-813e-11ed-95b4-acde48001122",
+        "@type": "Identifier",
+        "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld"
+    },
+    "startDate": {
+        "@type": "Date",
+        "@context": "https://w3id.org/dats/context/sdo/date_info_sdo_context.jsonld",
+        "date": "",
+        "type": {
+            "value": "",
+            "valueIRI": ""
+        }
+    },
+    "endDate": {
+        "@type": "Date",
+        "@context": "https://w3id.org/dats/context/sdo/date_info_sdo_context.jsonld",
+        "date": "",
+        "type": {
+            "value": "",
+            "valueIRI": ""
+        }
+    },
+    "projectLeads": [
+        {
+            "@type": "Person",
+            "@context": "https://w3id.org/dats/context/sdo/person_sdo_context.jsonld",
+            "firstName": "",
+            "lastName": "",
+            "email": "",
+            "phoneNumber": "",
+            "roles": [
+                {
+                    "@type": "Annotation",
+                    "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                    "value": "",
+                    "valueIRI": ""
+                }
+            ],
+            "affiliations": [
+                {
+                    "@type": "Organization",
+                    "@context": "https://w3id.org/dats/context/sdo/organization_sdo_context.jsonld",
+                    "name": "",
+                    "location": {
+                        "postalAddress": "",
+                        "@type": "Place",
+                        "@context": "https://w3id.org/dats/context/sdo/place_sdo_context.jsonld"
+                    }
+                }
+            ],
+            "fullName": ""
+        }
+    ],
+    "keywords": [
+        {
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+            "value": ""
+        }
+    ],
+    "fundedBy": [
+        {
+            "name": "",
+            "identifier": {
+                "identifier": "",
+                "@type": "Identifier",
+                "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld"
+            },
+            "@type": "Grant",
+            "@context": "https://w3id.org/dats/context/sdo/grant_sdo_context.jsonld"
+        }
+    ],
+    "projectAssets": [
+        {
+            "title": "BIOMAP DNA methylation",
+            "identifier": {
+                "identifier": "c7029664-813e-11ed-95b4-acde48001122",
+                "@type": "Identifier",
+                "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld"
+            },
+            "@type": "Dataset",
+            "@context": "https://w3id.org/dats/context/sdo/dataset_sdo_context.jsonld",
+            "types": [
+                {
+                    "@type": "Annotation",
+                    "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                    "value": "DNA methylation"
+                }
+            ],
+            "isAbout": [
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "extraProperties": [
+                {
+                    "values": [
+                        {
+                            "value": "",
+                            "@type": "Annotation",
+                            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                        }
+                    ],
+                    "@type": "CategoryValuesPair",
+                    "category": ""
+                }
+            ],
+            "distributions": [
+                {
+                    "@type": "DatasetDistribution",
+                    "@context": "https://w3id.org/dats/context/sdo/dataset_distribution_sdo_context.jsonld",
+                    "access": {
+                        "accessURL": "",
+                        "landingPage": "",
+                        "@type": "Access",
+                        "@context": "https://w3id.org/dats/context/sdo/access_sdo_context.jsonld"
+                    },
+                    "dates": [
+                        {
+                            "date": "",
+                            "@type": "Date",
+                            "@context": "https://w3id.org/dats/context/sdo/date_info_sdo_context.jsonld",
+                            "type": {
+                                "@type": "Annotation",
+                                "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                                "value": "",
+                                "valueIRI": ""
+                            }
+                        }
+                    ],
+                    "conformsTo": [
+                        {
+                            "name": "",
+                            "type": {
+                                "@type": "Annotation",
+                                "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                                "value": ""
+                            },
+                            "@type": "DataStandard",
+                            "@context": "https://w3id.org/dats/context/sdo/data_standard_sdo_context.jsonld"
+                        }
+                    ],
+                    "version": ""
+                }
+            ],
+            "creators": [
+                {
+                    "@type": "Organization",
+                    "@context": "https://w3id.org/dats/context/sdo/organization_sdo_context.jsonld",
+                    "name": ""
+                }
+            ],
+            "dimensions": [
+                {
+                    "name": {
+                        "value": "sample size",
+                        "valueIRI": "NCIT:C53190",
+                        "@type": "Annotation",
+                        "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                    },
+                    "values": [
+                        {
+                            "value": "8789",
+                            "@type": "Annotation",
+                            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld"
+                        }
+                    ],
+                    "@type": "Dimension",
+                    "@context": "https://w3id.org/dats/context/sdo/dimension_sdo_context.jsonld"
+                }
+            ]
+        }
+    ],
+    "acronym": "BIOMAP",
+    "projectWebsite": ""
+}

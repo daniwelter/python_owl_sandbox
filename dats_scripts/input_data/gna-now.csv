@@ -1,0 +1,33 @@
+project	acronym	GNA-NOW
+study	0.acronym	In vivo study
+study	0.characteristics.0.name.value	Multi-institution Indicator
+study	0.characteristics.0.name.valueIRI	NCIT:C93599
+study	0.characteristics.0.values.0.value	TRUE
+study	0.input.0.bearerOfDisease.0.identifier.identifier	MONDO:0005113
+study	0.input.0.bearerOfDisease.0.name	bacterial infectious disease
+study	0.input.0.derivesFrom.0.identifier.identifier	CL:0000000	AnatomicalPart
+study	0.input.0.derivesFrom.0.name	cell	AnatomicalPart
+study	0.input.0.derivesFrom.1.identifier.identifier	CHEBI:36080	AnatomicalPart
+study	0.input.0.derivesFrom.1.name	protein	AnatomicalPart
+study	0.input.0.name	input material
+study	0.input.0.taxonomy.0.identifier.identifier	NCBITaxon:10090
+study	0.input.0.taxonomy.0.identifier.identifierSource	NCBI Taxon ID
+study	0.input.0.taxonomy.0.name	Mus musculus
+study	0.input.0.types.0.value	tissue sample
+study	0.input.0.types.0.valueIRI	NCIT:C19697
+study	0.input.0.types.1.value	animal
+study	0.input.0.types.1.valueIRI	NCIT:C14182
+study	0.input.0.types.2.value	bacteria
+study	0.input.0.types.2.valueIRI	NCIT:C14187
+study	0.name	Testing of antimicrobial compounds, hits in in-vitro system, on animal models such as mouse, rats, etc.
+study	0.types.0.value	drug discovery
+study	0.types.0.valueIRI	NCIT:C15802
+dataset	0.title	NOSO-2G
+dataset	0.types.0.value	metabolomics
+dataset	0.types.0.value	proteomics
+dataset	0.types.0.value	dose-response
+dataset	0.creators.0.firstName	Gesa	Person
+dataset	0.creators.0.lastName	Witt	Person
+dataset	0.creators.0.fullName	Gesa Witt	Person
+dataset	0.creators.0.email	Gesa.Witt@itmp.fraunhofer.de	Person
+dataset	0.creators.0.affiliations.0.name	Fraunhofer ITMP	Person

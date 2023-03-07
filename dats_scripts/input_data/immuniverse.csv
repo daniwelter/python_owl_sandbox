@@ -1,0 +1,158 @@
+project	acronym	Immuniverse
+study	0.acronym	P2N ADPSOKO
+study	0.characteristics.0.name.value	Multi-institution Indicator
+study	0.characteristics.0.name.valueIRI	NCIT:C93599
+study	0.characteristics.0.values.0.value	TRUE
+study	0.input.0.bearerOfDisease.0.identifier.identifier	MONDO:0011292	Disease
+study	0.input.0.bearerOfDisease.0.name	atopic dermatitis	Disease
+study	0.input.0.bearerOfDisease.1.identifier.identifier	MONDO:0005083	Disease
+study	0.input.0.bearerOfDisease.1.name	psoriasis	Disease
+study	0.input.0.bearerOfDisease.2.identifier.identifier	NCIT:C94342	Disease
+study	0.input.0.bearerOfDisease.2.name	healthy control	Disease
+study	0.input.0.derivesFrom.0.identifier.identifier	UBERON:0000178	AnatomicalPart
+study	0.input.0.derivesFrom.0.name	blood	AnatomicalPart
+study	0.input.0.derivesFrom.1.name	biopsy (non-lesional)	AnatomicalPart
+study	0.input.0.derivesFrom.2.name	biopsy (lesional)	AnatomicalPart
+study	0.input.0.name	input material
+study	0.input.0.taxonomy.0.identifier.identifier	NCBITaxon:9606
+study	0.input.0.taxonomy.0.identifier.identifierSource	NCBI Taxon ID
+study	0.input.0.taxonomy.0.name	Homo sapiens
+study	0.input.0.types.0.value	tissue sample
+study	0.input.0.types.0.valueIRI	NCIT:C19697
+study	0.name	P2N ADPSOKO
+study	0.studyGroups.0.name	P2N ADPSOKO - Retrospective study cohort
+study	0.studyGroups.0.consentInformation.0.name.value	informed consent
+study	0.studyGroups.0.consentInformation.0.name.valueIRI	NCIT:C16735
+study	0.studyGroups.0.size	122
+study	0.types.0.value	biosamples
+study	0.types.1.value	transcriptomics
+study	0.types.2.value	methylome
+dataset	0.distributions.0.dates.0.date	2023-01-10
+dataset	0.distributions.0.dates.0.type.value	creation date
+dataset	0.isAbout.0.name	atopic dermatitis	Disease
+dataset	0.isAbout.0.identifier.identifier	MONDO:0011292	Disease
+dataset	0.isAbout.1.name	psoriasis	Disease
+dataset	0.isAbout.1.identifier.identifier	MONDO:0005083	Disease
+dataset	0.isAbout.2.name	healthy control	Disease
+dataset	0.isAbout.2.identifier.identifier	NCIT:C94342	Disease
+dataset	0.isAbout.3.name	biopsy (lesional)	AnatomicalPart
+dataset	0.isAbout.3.name	biopsy (non-lesional)	AnatomicalPart
+dataset	0.study	0
+dataset	0.title	P2N ADPSOKO - Methylome
+dataset	0.types.0.value	methylome
+dataset	0.types.1.value	preprocessed anonymised data
+dataset	0.creators.0.firstName	Stephan	Person
+dataset	0.creators.0.lastName	Weidinger	Person
+dataset	0.creators.0.fullName	Stephan Weidinger	Person
+dataset	0.creators.0.email	sweidinger@dermatology.uni-kiel.de	Person
+dataset	0.creators.0.affiliations.0.name	Kiehl University	Person
+dataset	0.dimensions.0.name.value	sample size
+dataset	0.dimensions.0.name.valueIRI	NCIT:C53190
+dataset	0.dimensions.0.values.0.value	189
+dataset	1.distributions.0.dates.0.date	2023-01-10
+dataset	1.distributions.0.dates.0.type.value	creation date
+dataset	1.isAbout.0.name	atopic dermatitis	Disease
+dataset	1.isAbout.0.identifier.identifier	MONDO:0011292	Disease
+dataset	1.isAbout.1.name	psoriasis	Disease
+dataset	1.isAbout.1.identifier.identifier	MONDO:0005083	Disease
+dataset	1.isAbout.2.name	healthy control	Disease
+dataset	1.isAbout.2.identifier.identifier	NCIT:C94342	Disease
+dataset	1.isAbout.3.name	biopsy (lesional)	AnatomicalPart
+dataset	1.isAbout.3.name	biopsy (non-lesional)	AnatomicalPart
+dataset	1.isAbout.4.name	blood	AnatomicalPart
+dataset	1.isAbout.4.identifier.identifier	UBERON:0000178	AnatomicalPart
+dataset	1.study	0
+dataset	1.title	P2N ADPSOKO - Transcriptome
+dataset	1.types.0.value	transcriptomics
+dataset	1.types.1.value	RNA sequencing
+dataset	1.types.2.value	preprocessed anonymised data
+dataset	1.creators.0.firstName	Stephan	Person
+dataset	1.creators.0.lastName	Weidinger	Person
+dataset	1.creators.0.fullName	Stephan Weidinger	Person
+dataset	1.creators.0.email	sweidinger@dermatology.uni-kiel.de	Person
+dataset	1.creators.0.affiliations.0.name	Kiehl University	Person
+dataset	1.dimensions.0.name.value	sample size
+dataset	1.dimensions.0.name.valueIRI	NCIT:C53190
+dataset	1.dimensions.0.values.0.value	289
+study	1.acronym	Lucent-1
+study	1.characteristics.0.name.value	Multi-institution Indicator
+study	1.characteristics.0.name.valueIRI	NCIT:C93599
+study	1.characteristics.0.values.0.value	TRUE
+study	1.input.0.bearerOfDisease.0.identifier.identifier	MONDO:0005101	Disease
+study	1.input.0.bearerOfDisease.0.name	ulcerative colitis	Disease
+study	1.input.0.name	input material
+study	1.input.0.taxonomy.0.identifier.identifier	NCBITaxon:9606
+study	1.input.0.taxonomy.0.identifier.identifierSource	NCBI Taxon ID
+study	1.input.0.taxonomy.0.name	Homo sapiens
+study	1.input.0.types.0.value	tissue sample
+study	1.input.0.types.0.valueIRI	NCIT:C19697
+study	1.name	Lucent-1
+study	1.studyGroups.0.name	Lucent-1 retrospective study cohort
+study	1.studyGroups.0.consentInformation.0.name.value	informed consent
+study	1.studyGroups.0.consentInformation.0.name.valueIRI	NCIT:C16735
+study	1.studyGroups.0.size	250
+study	1.types.0.value	biosamples
+study	2.acronym	ImmUniverse UC
+study	2.characteristics.0.name.value	Multi-institution Indicator
+study	2.characteristics.0.name.valueIRI	NCIT:C93599
+study	2.characteristics.0.values.0.value	TRUE
+study	2.input.0.bearerOfDisease.0.identifier.identifier	MONDO:0005101	Disease
+study	2.input.0.bearerOfDisease.0.name	ulcerative colitis	Disease
+study	2.input.0.derivesFrom.0.identifier.identifier	UBERON:0000178	AnatomicalPart
+study	2.input.0.derivesFrom.0.name	blood	AnatomicalPart
+study	2.input.0.derivesFrom.1.name	biopsy (non-lesional)	AnatomicalPart
+study	2.input.0.derivesFrom.2.name	biopsy (lesional)	AnatomicalPart
+study	2.input.0.derivesFrom.3.identifier.identifier	NCIT:C13234	AnatomicalPart
+study	2.input.0.derivesFrom.3.name	stool	AnatomicalPart
+study	2.input.0.name	input material
+study	2.input.0.taxonomy.0.identifier.identifier	NCBITaxon:9606
+study	2.input.0.taxonomy.0.identifier.identifierSource	NCBI Taxon ID
+study	2.input.0.taxonomy.0.name	Homo sapiens
+study	2.input.0.types.0.value	tissue sample
+study	2.input.0.types.0.valueIRI	NCIT:C19697
+study	2.name	ImmUniverse UC
+study	2.studyGroups.0.name	ImmUniverse UC - retrospective and prospective study cohort
+study	2.studyGroups.0.consentInformation.0.name.value	informed consent
+study	2.studyGroups.0.consentInformation.0.name.valueIRI	NCIT:C16735
+study	2.studyGroups.0.size	199
+study	2.types.0.value	biosamples
+study	3.acronym	ImmUniverse AD-AUH
+study	3.characteristics.0.name.value	Multi-institution Indicator
+study	3.characteristics.0.name.valueIRI	NCIT:C93599
+study	3.characteristics.0.values.0.value	TRUE
+study	3.input.0.bearerOfDisease.0.identifier.identifier	MONDO:0011292	Disease
+study	3.input.0.bearerOfDisease.0.name	atopic dermatitis	Disease
+study	3.input.0.name	input material
+study	3.input.0.taxonomy.0.identifier.identifier	NCBITaxon:9606
+study	3.input.0.taxonomy.0.identifier.identifierSource	NCBI Taxon ID
+study	3.input.0.taxonomy.0.name	Homo sapiens
+study	3.input.0.types.0.value	tissue sample
+study	3.input.0.types.0.valueIRI	NCIT:C19697
+study	3.name	ImmUniverse AD-AUH
+study	3.studyGroups.0.name	ImmUniverse AD - prospective study cohort
+study	3.studyGroups.0.consentInformation.0.name.value	informed consent
+study	3.studyGroups.0.consentInformation.0.name.valueIRI	NCIT:C16735
+study	3.studyGroups.0.size	300
+study	3.types.0.value	biosamples
+study	4.acronym	Retrospective Cohort (MOLREM)
+study	4.characteristics.0.name.value	Multi-institution Indicator
+study	4.characteristics.0.name.valueIRI	NCIT:C93599
+study	4.characteristics.0.values.0.value	TRUE
+study	4.input.0.bearerOfDisease.0.identifier.identifier	MONDO:0005101	Disease
+study	4.input.0.bearerOfDisease.0.name	ulcerative colitis	Disease
+study	4.input.0.derivesFrom.1.name	biopsy (non-lesional)	AnatomicalPart
+study	4.input.0.derivesFrom.2.name	biopsy (lesional)	AnatomicalPart
+study	4.input.0.derivesFrom.3.identifier.identifier	NCIT:C13234	AnatomicalPart
+study	4.input.0.derivesFrom.3.name	stool	AnatomicalPart
+study	4.input.0.name	input material
+study	4.input.0.taxonomy.0.identifier.identifier	NCBITaxon:9606
+study	4.input.0.taxonomy.0.identifier.identifierSource	NCBI Taxon ID
+study	4.input.0.taxonomy.0.name	Homo sapiens
+study	4.input.0.types.0.value	tissue sample
+study	4.input.0.types.0.valueIRI	NCIT:C19697
+study	4.name	ImmUniverse UC retrospective
+study	4.studyGroups.0.name	ImmUniverse UC - retrospective study cohort
+study	4.studyGroups.0.consentInformation.0.name.value	informed consent
+study	4.studyGroups.0.consentInformation.0.name.valueIRI	NCIT:C16735
+study	4.studyGroups.0.size	411
+study	4.types.0.value	biosamples

@@ -1,0 +1,689 @@
+project	acronym	RHAPSODY
+study	0.acronym	RHAPSODY Cohort 1
+study	0.characteristics.0.name.value	Multi-institution Indicator
+study	0.characteristics.0.name.valueIRI	NCIT:C93599
+study	0.characteristics.0.values.0.value	TRUE
+study	0.input.0.bearerOfDisease.0.identifier.identifier	MONDO:0005148	Disease
+study	0.input.0.bearerOfDisease.0.name	type II diabetes	Disease
+study	0.input.0.derivesFrom.0.identifier.identifier	UBERON:0000178	AnatomicalPart
+study	0.input.0.derivesFrom.0.name	blood	AnatomicalPart
+study	0.input.0.name	input material
+study	0.input.0.taxonomy.0.identifier.identifier	NCBITaxon:9606
+study	0.input.0.taxonomy.0.identifier.identifierSource	NCBI Taxon ID
+study	0.input.0.taxonomy.0.name	Homo sapiens
+study	0.input.0.types.0.value	tissue sample
+study	0.input.0.types.0.valueIRI	NCIT:C19697
+study	0.name	Novel biomarkers for diabetes risk
+study	0.studyGroups.0.size	12049
+study	0.types.0.value	risk and progression of prediabetes and type 2 diabetes
+study	1.acronym	RHAPSODY Cohort 2
+study	1.characteristics.0.name.value	Multi-institution Indicator
+study	1.characteristics.0.name.valueIRI	NCIT:C93599
+study	1.characteristics.0.values.0.value	TRUE
+study	1.input.0.bearerOfDisease.0.identifier.identifier	MONDO:0005148	Disease
+study	1.input.0.bearerOfDisease.0.name	type II diabetes	Disease
+study	1.input.0.derivesFrom.0.identifier.identifier	UBERON:0000178	AnatomicalPart
+study	1.input.0.derivesFrom.0.name	blood	AnatomicalPart
+study	1.input.0.name	input material
+study	1.input.0.taxonomy.0.identifier.identifier	NCBITaxon:9606
+study	1.input.0.taxonomy.0.identifier.identifierSource	NCBI Taxon ID
+study	1.input.0.taxonomy.0.name	Homo sapiens
+study	1.input.0.types.0.value	tissue sample
+study	1.input.0.types.0.valueIRI	NCIT:C19697
+study	1.name	Novel biomarkers for diabetes risk
+study	1.studyGroups.0.size	5870
+study	1.types.0.value	risk and progression of prediabetes and type 2 diabetes
+study	10.acronym	RHAPSODY Cohort 11
+study	10.characteristics.0.name.value	Multi-institution Indicator
+study	10.characteristics.0.name.valueIRI	NCIT:C93599
+study	10.characteristics.0.values.0.value	TRUE
+study	10.input.0.bearerOfDisease.0.identifier.identifier	MONDO:0005148	Disease
+study	10.input.0.bearerOfDisease.0.name	type II diabetes	Disease
+study	10.input.0.derivesFrom.0.identifier.identifier	UBERON:0000178	AnatomicalPart
+study	10.input.0.derivesFrom.0.name	blood	AnatomicalPart
+study	10.input.0.name	input material
+study	10.input.0.taxonomy.0.identifier.identifier	NCBITaxon:9606
+study	10.input.0.taxonomy.0.identifier.identifierSource	NCBI Taxon ID
+study	10.input.0.taxonomy.0.name	Homo sapiens
+study	10.input.0.types.0.value	tissue sample
+study	10.input.0.types.0.valueIRI	NCIT:C19697
+study	10.name	Novel biomarkers for diabetes risk
+study	10.studyGroups.0.size	1533
+study	10.types.0.value	risk and progression of prediabetes and type 2 diabetes
+study	2.acronym	RHAPSODY Cohort 3
+study	2.characteristics.0.name.value	Multi-institution Indicator
+study	2.characteristics.0.name.valueIRI	NCIT:C93599
+study	2.characteristics.0.values.0.value	TRUE
+study	2.input.0.bearerOfDisease.0.identifier.identifier	MONDO:0005148	Disease
+study	2.input.0.bearerOfDisease.0.name	type II diabetes	Disease
+study	2.input.0.derivesFrom.0.identifier.identifier	UBERON:0000178	AnatomicalPart
+study	2.input.0.derivesFrom.0.name	blood	AnatomicalPart
+study	2.input.0.name	input material
+study	2.input.0.taxonomy.0.identifier.identifier	NCBITaxon:9606
+study	2.input.0.taxonomy.0.identifier.identifierSource	NCBI Taxon ID
+study	2.input.0.taxonomy.0.name	Homo sapiens
+study	2.input.0.types.0.value	tissue sample
+study	2.input.0.types.0.valueIRI	NCIT:C19697
+study	2.name	Novel biomarkers for diabetes risk
+study	2.studyGroups.0.size	5212
+study	2.types.0.value	risk and progression of prediabetes and type 2 diabetes
+study	3.acronym	RHAPSODY Cohort 4
+study	3.characteristics.0.name.value	Multi-institution Indicator
+study	3.characteristics.0.name.valueIRI	NCIT:C93599
+study	3.characteristics.0.values.0.value	TRUE
+study	3.input.0.bearerOfDisease.0.identifier.identifier	MONDO:0005148	Disease
+study	3.input.0.bearerOfDisease.0.name	type II diabetes	Disease
+study	3.input.0.derivesFrom.0.identifier.identifier	UBERON:0000178	AnatomicalPart
+study	3.input.0.derivesFrom.0.name	blood	AnatomicalPart
+study	3.input.0.name	input material
+study	3.input.0.taxonomy.0.identifier.identifier	NCBITaxon:9606
+study	3.input.0.taxonomy.0.identifier.identifierSource	NCBI Taxon ID
+study	3.input.0.taxonomy.0.name	Homo sapiens
+study	3.input.0.types.0.value	tissue sample
+study	3.input.0.types.0.valueIRI	NCIT:C19697
+study	3.name	Novel biomarkers for diabetes risk
+study	3.studyGroups.0.size	3354
+study	3.types.0.value	risk and progression of prediabetes and type 2 diabetes
+study	4.acronym	RHAPSODY Cohort 5
+study	4.characteristics.0.name.value	Multi-institution Indicator
+study	4.characteristics.0.name.valueIRI	NCIT:C93599
+study	4.characteristics.0.values.0.value	TRUE
+study	4.input.0.bearerOfDisease.0.identifier.identifier	MONDO:0005148	Disease
+study	4.input.0.bearerOfDisease.0.name	type II diabetes	Disease
+study	4.input.0.derivesFrom.0.identifier.identifier	UBERON:0000178	AnatomicalPart
+study	4.input.0.derivesFrom.0.name	blood	AnatomicalPart
+study	4.input.0.name	input material
+study	4.input.0.taxonomy.0.identifier.identifier	NCBITaxon:9606
+study	4.input.0.taxonomy.0.identifier.identifierSource	NCBI Taxon ID
+study	4.input.0.taxonomy.0.name	Homo sapiens
+study	4.input.0.types.0.value	tissue sample
+study	4.input.0.types.0.valueIRI	NCIT:C19697
+study	4.name	Novel biomarkers for diabetes risk
+study	4.studyGroups.0.size	3008
+study	4.types.0.value	risk and progression of prediabetes and type 2 diabetes
+study	5.acronym	RHAPSODY Cohort 6
+study	5.characteristics.0.name.value	Multi-institution Indicator
+study	5.characteristics.0.name.valueIRI	NCIT:C93599
+study	5.characteristics.0.values.0.value	TRUE
+study	5.input.0.bearerOfDisease.0.identifier.identifier	MONDO:0005148	Disease
+study	5.input.0.bearerOfDisease.0.name	type II diabetes	Disease
+study	5.input.0.derivesFrom.0.identifier.identifier	UBERON:0000178	AnatomicalPart
+study	5.input.0.derivesFrom.0.name	blood	AnatomicalPart
+study	5.input.0.name	input material
+study	5.input.0.taxonomy.0.identifier.identifier	NCBITaxon:9606
+study	5.input.0.taxonomy.0.identifier.identifierSource	NCBI Taxon ID
+study	5.input.0.taxonomy.0.name	Homo sapiens
+study	5.input.0.types.0.value	tissue sample
+study	5.input.0.types.0.valueIRI	NCIT:C19697
+study	5.name	Novel biomarkers for diabetes risk
+study	5.studyGroups.0.size	9081
+study	5.types.0.value	risk and progression of prediabetes and type 2 diabetes
+study	6.acronym	RHAPSODY Cohort 7
+study	6.characteristics.0.name.value	Multi-institution Indicator
+study	6.characteristics.0.name.valueIRI	NCIT:C93599
+study	6.characteristics.0.values.0.value	TRUE
+study	6.input.0.bearerOfDisease.0.identifier.identifier	MONDO:0005148	Disease
+study	6.input.0.bearerOfDisease.0.name	type II diabetes	Disease
+study	6.input.0.derivesFrom.0.identifier.identifier	UBERON:0000178	AnatomicalPart
+study	6.input.0.derivesFrom.0.name	blood	AnatomicalPart
+study	6.input.0.name	input material
+study	6.input.0.taxonomy.0.identifier.identifier	NCBITaxon:9606
+study	6.input.0.taxonomy.0.identifier.identifierSource	NCBI Taxon ID
+study	6.input.0.taxonomy.0.name	Homo sapiens
+study	6.input.0.types.0.value	tissue sample
+study	6.input.0.types.0.valueIRI	NCIT:C19697
+study	6.name	Novel biomarkers for diabetes risk
+study	6.studyGroups.0.size	249
+study	6.types.0.value	risk and progression of prediabetes and type 2 diabetes
+study	7.acronym	RHAPSODY Cohort 8
+study	7.characteristics.0.name.value	Multi-institution Indicator
+study	7.characteristics.0.name.valueIRI	NCIT:C93599
+study	7.characteristics.0.values.0.value	TRUE
+study	7.input.0.bearerOfDisease.0.identifier.identifier	MONDO:0005148	Disease
+study	7.input.0.bearerOfDisease.0.name	type II diabetes	Disease
+study	7.input.0.derivesFrom.0.identifier.identifier	UBERON:0000178	AnatomicalPart
+study	7.input.0.derivesFrom.0.name	blood	AnatomicalPart
+study	7.input.0.name	input material
+study	7.input.0.taxonomy.0.identifier.identifier	NCBITaxon:9606
+study	7.input.0.taxonomy.0.identifier.identifierSource	NCBI Taxon ID
+study	7.input.0.taxonomy.0.name	Homo sapiens
+study	7.input.0.types.0.value	tissue sample
+study	7.input.0.types.0.valueIRI	NCIT:C19697
+study	7.name	Novel biomarkers for diabetes risk
+study	7.studyGroups.0.size	6187
+study	7.types.0.value	risk and progression of prediabetes and type 2 diabetes
+study	8.acronym	RHAPSODY Cohort 9
+study	8.characteristics.0.name.value	Multi-institution Indicator
+study	8.characteristics.0.name.valueIRI	NCIT:C93599
+study	8.characteristics.0.values.0.value	TRUE
+study	8.input.0.bearerOfDisease.0.identifier.identifier	MONDO:0005148	Disease
+study	8.input.0.bearerOfDisease.0.name	type II diabetes	Disease
+study	8.input.0.derivesFrom.0.identifier.identifier	UBERON:0000178	AnatomicalPart
+study	8.input.0.derivesFrom.0.name	blood	AnatomicalPart
+study	8.input.0.name	input material
+study	8.input.0.taxonomy.0.identifier.identifier	NCBITaxon:9606
+study	8.input.0.taxonomy.0.identifier.identifierSource	NCBI Taxon ID
+study	8.input.0.taxonomy.0.name	Homo sapiens
+study	8.input.0.types.0.value	tissue sample
+study	8.input.0.types.0.valueIRI	NCIT:C19697
+study	8.name	Novel biomarkers for diabetes risk
+study	8.studyGroups.0.size	17608
+study	8.types.0.value	risk and progression of prediabetes and type 2 diabetes
+study	9.acronym	RHAPSODY Cohort 10
+study	9.characteristics.0.name.value	Multi-institution Indicator
+study	9.characteristics.0.name.valueIRI	NCIT:C93599
+study	9.characteristics.0.values.0.value	TRUE
+study	9.input.0.bearerOfDisease.0.identifier.identifier	MONDO:0005148	Disease
+study	9.input.0.bearerOfDisease.0.name	type II diabetes	Disease
+study	9.input.0.derivesFrom.0.identifier.identifier	UBERON:0000178	AnatomicalPart
+study	9.input.0.derivesFrom.0.name	blood	AnatomicalPart
+study	9.input.0.name	input material
+study	9.input.0.taxonomy.0.identifier.identifier	NCBITaxon:9606
+study	9.input.0.taxonomy.0.identifier.identifierSource	NCBI Taxon ID
+study	9.input.0.taxonomy.0.name	Homo sapiens
+study	9.input.0.types.0.value	tissue sample
+study	9.input.0.types.0.valueIRI	NCIT:C19697
+study	9.name	Novel biomarkers for diabetes risk
+study	9.studyGroups.0.size	2093
+study	9.types.0.value	risk and progression of prediabetes and type 2 diabetes
+dataset	0.distributions.0.dates.0.date	2021-01-12
+dataset	0.distributions.0.dates.0.type.value	creation date
+dataset	0.isAbout.0.category	Experiment name	CategoryValuesPair
+dataset	0.isAbout.0.values.0.value	C peptid	CategoryValuesPair
+dataset	0.isAbout.1.category	Experiment name	CategoryValuesPair
+dataset	0.isAbout.1.values.0.value	Cholesterol	CategoryValuesPair
+dataset	0.isAbout.10.category	Experiment name	CategoryValuesPair
+dataset	0.isAbout.10.values.0.value	LDL Cholesterol	CategoryValuesPair
+dataset	0.isAbout.11.category	Experiment name	CategoryValuesPair
+dataset	0.isAbout.11.values.0.value	Triglycerides	CategoryValuesPair
+dataset	0.isAbout.12.category	Experiment name	CategoryValuesPair
+dataset	0.isAbout.12.values.0.value	Body Mass Index	CategoryValuesPair
+dataset	0.isAbout.13.category	Experiment name	CategoryValuesPair
+dataset	0.isAbout.13.values.0.value	Diastolic Blood Pressure	CategoryValuesPair
+dataset	0.isAbout.14.category	Experiment name	CategoryValuesPair
+dataset	0.isAbout.14.values.0.value	Height	CategoryValuesPair
+dataset	0.isAbout.15.category	Experiment name	CategoryValuesPair
+dataset	0.isAbout.15.values.0.value	Systolic Blood Pressure	CategoryValuesPair
+dataset	0.isAbout.16.category	Experiment name	CategoryValuesPair
+dataset	0.isAbout.16.values.0.value	Weight	CategoryValuesPair
+dataset	0.isAbout.2.category	Experiment name	CategoryValuesPair
+dataset	0.isAbout.2.values.0.value	Creatinine	CategoryValuesPair
+dataset	0.isAbout.3.category	Experiment name	CategoryValuesPair
+dataset	0.isAbout.3.values.0.value	Glucose	CategoryValuesPair
+dataset	0.isAbout.4.category	Experiment name	CategoryValuesPair
+dataset	0.isAbout.4.values.0.value	Glutamic Acid Decarboxylase 1	CategoryValuesPair
+dataset	0.isAbout.5.category	Experiment name	CategoryValuesPair
+dataset	0.isAbout.5.values.0.value	HBA1C	CategoryValuesPair
+dataset	0.isAbout.6.category	Experiment name	CategoryValuesPair
+dataset	0.isAbout.6.values.0.value	HDL Cholesterol	CategoryValuesPair
+dataset	0.isAbout.7.category	Experiment name	CategoryValuesPair
+dataset	0.isAbout.7.values.0.value	HOMA2B	CategoryValuesPair
+dataset	0.isAbout.8.category	Experiment name	CategoryValuesPair
+dataset	0.isAbout.8.values.0.value	HOMA2IR	CategoryValuesPair
+dataset	0.isAbout.9.category	Experiment name	CategoryValuesPair
+dataset	0.isAbout.9.values.0.value	HOMA2S	CategoryValuesPair
+dataset	0.title	RHAPSODY Cohort 1 dataset
+dataset	0.types.0.value	transcriptomics
+dataset	0.types.1.value	genetics
+dataset	0.types.2.value	laboratory tests
+dataset	1.distributions.0.dates.0.date	2021-01-12
+dataset	1.distributions.0.dates.0.type.value	creation date
+dataset	1.isAbout.0.category	Experiment name	CategoryValuesPair
+dataset	1.isAbout.0.values.0.value	C peptide	CategoryValuesPair
+dataset	1.isAbout.1.category	Experiment name	CategoryValuesPair
+dataset	1.isAbout.1.values.0.value	Creatinine	CategoryValuesPair
+dataset	1.isAbout.10.category	Experiment name	CategoryValuesPair
+dataset	1.isAbout.10.values.0.value	Triglycerides	CategoryValuesPair
+dataset	1.isAbout.11.category	Experiment name	CategoryValuesPair
+dataset	1.isAbout.11.values.0.value	Body Mass Index	CategoryValuesPair
+dataset	1.isAbout.12.category	Experiment name	CategoryValuesPair
+dataset	1.isAbout.12.values.0.value	Diastolic Blood Pressure	CategoryValuesPair
+dataset	1.isAbout.13.category	Experiment name	CategoryValuesPair
+dataset	1.isAbout.13.values.0.value	Height	CategoryValuesPair
+dataset	1.isAbout.14.category	Experiment name	CategoryValuesPair
+dataset	1.isAbout.14.values.0.value	Systolic Blood Pressure	CategoryValuesPair
+dataset	1.isAbout.15.category	Experiment name	CategoryValuesPair
+dataset	1.isAbout.15.values.0.value	Weight	CategoryValuesPair
+dataset	1.isAbout.2.category	Experiment name	CategoryValuesPair
+dataset	1.isAbout.2.values.0.value	Glucose	CategoryValuesPair
+dataset	1.isAbout.3.category	Experiment name	CategoryValuesPair
+dataset	1.isAbout.3.values.0.value	Glutamic Acid Decarboxylase 1	CategoryValuesPair
+dataset	1.isAbout.4.category	Experiment name	CategoryValuesPair
+dataset	1.isAbout.4.values.0.value	HDL Cholesterol	CategoryValuesPair
+dataset	1.isAbout.5.category	Experiment name	CategoryValuesPair
+dataset	1.isAbout.5.values.0.value	Hemoglobin A1C	CategoryValuesPair
+dataset	1.isAbout.6.category	Experiment name	CategoryValuesPair
+dataset	1.isAbout.6.values.0.value	HOMA2B	CategoryValuesPair
+dataset	1.isAbout.7.category	Experiment name	CategoryValuesPair
+dataset	1.isAbout.7.values.0.value	HOMA2IR	CategoryValuesPair
+dataset	1.isAbout.8.category	Experiment name	CategoryValuesPair
+dataset	1.isAbout.8.values.0.value	HOMA2S	CategoryValuesPair
+dataset	1.isAbout.9.category	Experiment name	CategoryValuesPair
+dataset	1.isAbout.9.values.0.value	LDL Cholesterol	CategoryValuesPair
+dataset	1.title	RHAPSODY Cohort 2 dataset
+dataset	1.types.0.value	transcriptomics
+dataset	1.types.1.value	genetics
+dataset	1.types.2.value	laboratory tests
+dataset	10.distributions.0.dates.0.date	2021-01-12
+dataset	10.distributions.0.dates.0.type.value	creation date
+dataset	10.isAbout.0.category	Experiment name	CategoryValuesPair
+dataset	10.isAbout.0.values.0.value	Cholesterol	CategoryValuesPair
+dataset	10.isAbout.1.category	Experiment name	CategoryValuesPair
+dataset	10.isAbout.1.values.0.value	Creatinine	CategoryValuesPair
+dataset	10.isAbout.10.category	Experiment name	CategoryValuesPair
+dataset	10.isAbout.10.values.0.value	Height	CategoryValuesPair
+dataset	10.isAbout.11.category	Experiment name	CategoryValuesPair
+dataset	10.isAbout.11.values.0.value	Systolic Blood Pressure	CategoryValuesPair
+dataset	10.isAbout.12.category	Experiment name	CategoryValuesPair
+dataset	10.isAbout.12.values.0.value	Waist Circumference	CategoryValuesPair
+dataset	10.isAbout.13.category	Experiment name	CategoryValuesPair
+dataset	10.isAbout.13.values.0.value	Weight	CategoryValuesPair
+dataset	10.isAbout.2.category	Experiment name	CategoryValuesPair
+dataset	10.isAbout.2.values.0.value	Glucose	CategoryValuesPair
+dataset	10.isAbout.3.category	Experiment name	CategoryValuesPair
+dataset	10.isAbout.3.values.0.value	HDL Cholesterol	CategoryValuesPair
+dataset	10.isAbout.4.category	Experiment name	CategoryValuesPair
+dataset	10.isAbout.4.values.0.value	Hemoglobin A1C	CategoryValuesPair
+dataset	10.isAbout.5.category	Experiment name	CategoryValuesPair
+dataset	10.isAbout.5.values.0.value	LDL Cholesterol	CategoryValuesPair
+dataset	10.isAbout.6.category	Experiment name	CategoryValuesPair
+dataset	10.isAbout.6.values.0.value	Triglycerides	CategoryValuesPair
+dataset	10.isAbout.7.category	Experiment name	CategoryValuesPair
+dataset	10.isAbout.7.values.0.value	Body Fat Measurement	CategoryValuesPair
+dataset	10.isAbout.8.category	Experiment name	CategoryValuesPair
+dataset	10.isAbout.8.values.0.value	Body Mass Index	CategoryValuesPair
+dataset	10.isAbout.9.category	Experiment name	CategoryValuesPair
+dataset	10.isAbout.9.values.0.value	Diastolic Blood Pressure	CategoryValuesPair
+dataset	10.title	RHAPSODY Cohort 11 dataset
+dataset	10.types.0.value	transcriptomics
+dataset	10.types.1.value	genetics
+dataset	10.types.2.value	laboratory tests
+dataset	2.distributions.0.dates.0.date	2021-01-12
+dataset	2.distributions.0.dates.0.type.value	creation date
+dataset	2.isAbout.0.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.0.values.0.value	Alanine Aminostransferase	CategoryValuesPair
+dataset	2.isAbout.1.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.1.values.0.value	Albumin	CategoryValuesPair
+dataset	2.isAbout.10.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.10.values.0.value	Cystatin C	CategoryValuesPair
+dataset	2.isAbout.11.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.11.values.0.value	Eosinophils Total Cells	CategoryValuesPair
+dataset	2.isAbout.12.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.12.values.0.value	Body Mass Index	CategoryValuesPair
+dataset	2.isAbout.13.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.13.values.0.value	Diastolic Blood Pressure	CategoryValuesPair
+dataset	2.isAbout.14.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.14.values.0.value	Height	CategoryValuesPair
+dataset	2.isAbout.15.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.15.values.0.value	Hip Circumference	CategoryValuesPair
+dataset	2.isAbout.16.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.16.values.0.value	Systolic Blood Pressure	CategoryValuesPair
+dataset	2.isAbout.17.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.17.values.0.value	Waist Circumference	CategoryValuesPair
+dataset	2.isAbout.18.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.18.values.0.value	Weight	CategoryValuesPair
+dataset	2.isAbout.19.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.19.values.0.value	Erythrocytes	CategoryValuesPair
+dataset	2.isAbout.2.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.2.values.0.value	Apolipoprotein A1	CategoryValuesPair
+dataset	2.isAbout.20.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.20.values.0.value	Ferritin	CategoryValuesPair
+dataset	2.isAbout.21.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.21.values.0.value	Fibrinogen	CategoryValuesPair
+dataset	2.isAbout.22.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.22.values.0.value	Gamma Glutamyl Transferase	CategoryValuesPair
+dataset	2.isAbout.23.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.23.values.0.value	Glucose	CategoryValuesPair
+dataset	2.isAbout.24.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.24.values.0.value	HDL Cholesterol	CategoryValuesPair
+dataset	2.isAbout.25.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.25.values.0.value	Hematocrit	CategoryValuesPair
+dataset	2.isAbout.26.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.26.values.0.value	Hemoglobin	CategoryValuesPair
+dataset	2.isAbout.27.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.27.values.0.value	Hemoglobin A1C	CategoryValuesPair
+dataset	2.isAbout.28.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.28.values.0.value	Insulin	CategoryValuesPair
+dataset	2.isAbout.29.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.29.values.0.value	Iron	CategoryValuesPair
+dataset	2.isAbout.3.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.3.values.0.value	Apolipoprotein B	CategoryValuesPair
+dataset	2.isAbout.30.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.30.values.0.value	LDL Cholesterol	CategoryValuesPair
+dataset	2.isAbout.31.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.31.values.0.value	Leukocytes	CategoryValuesPair
+dataset	2.isAbout.32.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.32.values.0.value	Lipoprotein a	CategoryValuesPair
+dataset	2.isAbout.33.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.33.values.0.value	Lymphocytes Total Cells	CategoryValuesPair
+dataset	2.isAbout.34.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.34.values.0.value	Monocytes Total Cells	CategoryValuesPair
+dataset	2.isAbout.35.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.35.values.0.value	Neutrophils Total Cells	CategoryValuesPair
+dataset	2.isAbout.36.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.36.values.0.value	Platelets	CategoryValuesPair
+dataset	2.isAbout.37.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.37.values.0.value	Potassium	CategoryValuesPair
+dataset	2.isAbout.38.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.38.values.0.value	Sodium	CategoryValuesPair
+dataset	2.isAbout.39.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.39.values.0.value	Somatotrophin	CategoryValuesPair
+dataset	2.isAbout.4.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.4.values.0.value	Aspartame Aminotransferase	CategoryValuesPair
+dataset	2.isAbout.40.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.40.values.0.value	Transferrin	CategoryValuesPair
+dataset	2.isAbout.41.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.41.values.0.value	Triglycerides	CategoryValuesPair
+dataset	2.isAbout.42.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.42.values.0.value	Urate	CategoryValuesPair
+dataset	2.isAbout.5.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.5.values.0.value	Basophils Total Cells	CategoryValuesPair
+dataset	2.isAbout.6.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.6.values.0.value	Bilirubin	CategoryValuesPair
+dataset	2.isAbout.7.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.7.values.0.value	C Reactive Protein	CategoryValuesPair
+dataset	2.isAbout.8.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.8.values.0.value	Cholesterol	CategoryValuesPair
+dataset	2.isAbout.9.category	Experiment name	CategoryValuesPair
+dataset	2.isAbout.9.values.0.value	Creatinine	CategoryValuesPair
+dataset	2.title	RHAPSODY Cohort 3 dataset
+dataset	2.types.0.value	transcriptomics
+dataset	2.types.1.value	genetics
+dataset	2.types.2.value	laboratory tests
+dataset	3.distributions.0.dates.0.date	2021-01-12
+dataset	3.distributions.0.dates.0.type.value	creation date
+dataset	3.isAbout.0.category	Experiment name	CategoryValuesPair
+dataset	3.isAbout.0.values.0.value	Cholesterol	CategoryValuesPair
+dataset	3.isAbout.1.category	Experiment name	CategoryValuesPair
+dataset	3.isAbout.1.values.0.value	Free Fatty Acid	CategoryValuesPair
+dataset	3.isAbout.10.category	Experiment name	CategoryValuesPair
+dataset	3.isAbout.10.values.0.value	Diastolic Blood Pressure	CategoryValuesPair
+dataset	3.isAbout.11.category	Experiment name	CategoryValuesPair
+dataset	3.isAbout.11.values.0.value	Height	CategoryValuesPair
+dataset	3.isAbout.12.category	Experiment name	CategoryValuesPair
+dataset	3.isAbout.12.values.0.value	Hip Circumference	CategoryValuesPair
+dataset	3.isAbout.13.category	Experiment name	CategoryValuesPair
+dataset	3.isAbout.13.values.0.value	Lean Body Mass	CategoryValuesPair
+dataset	3.isAbout.14.category	Experiment name	CategoryValuesPair
+dataset	3.isAbout.14.values.0.value	Systolic Blood Pressure	CategoryValuesPair
+dataset	3.isAbout.15.category	Experiment name	CategoryValuesPair
+dataset	3.isAbout.15.values.0.value	Waist Circumference	CategoryValuesPair
+dataset	3.isAbout.16.category	Experiment name	CategoryValuesPair
+dataset	3.isAbout.16.values.0.value	Weight	CategoryValuesPair
+dataset	3.isAbout.2.category	Experiment name	CategoryValuesPair
+dataset	3.isAbout.2.values.0.value	Glomerular Filtration Rate Estimated	CategoryValuesPair
+dataset	3.isAbout.3.category	Experiment name	CategoryValuesPair
+dataset	3.isAbout.3.values.0.value	Glucose	CategoryValuesPair
+dataset	3.isAbout.4.category	Experiment name	CategoryValuesPair
+dataset	3.isAbout.4.values.0.value	HDL Cholesterol	CategoryValuesPair
+dataset	3.isAbout.5.category	Experiment name	CategoryValuesPair
+dataset	3.isAbout.5.values.0.value	Hemoglobin A1C	CategoryValuesPair
+dataset	3.isAbout.6.category	Experiment name	CategoryValuesPair
+dataset	3.isAbout.6.values.0.value	Hemoglobin A1C	CategoryValuesPair
+dataset	3.isAbout.7.category	Experiment name	CategoryValuesPair
+dataset	3.isAbout.7.values.0.value	Insulin	CategoryValuesPair
+dataset	3.isAbout.8.category	Experiment name	CategoryValuesPair
+dataset	3.isAbout.8.values.0.value	LDL Cholesterol	CategoryValuesPair
+dataset	3.isAbout.9.category	Experiment name	CategoryValuesPair
+dataset	3.isAbout.9.values.0.value	Triglycerides	CategoryValuesPair
+dataset	3.title	RHAPSODY Cohort 4 dataset
+dataset	3.types.0.value	transcriptomics
+dataset	3.types.1.value	genetics
+dataset	3.types.2.value	laboratory tests
+dataset	4.distributions.0.dates.0.date	2021-01-12
+dataset	4.distributions.0.dates.0.type.value	creation date
+dataset	4.isAbout.0.category	Experiment name	CategoryValuesPair
+dataset	4.isAbout.0.values.0.value	Cholesterol	CategoryValuesPair
+dataset	4.isAbout.1.category	Experiment name	CategoryValuesPair
+dataset	4.isAbout.1.values.0.value	Creatinine	CategoryValuesPair
+dataset	4.isAbout.10.category	Experiment name	CategoryValuesPair
+dataset	4.isAbout.10.values.0.value	Height	CategoryValuesPair
+dataset	4.isAbout.11.category	Experiment name	CategoryValuesPair
+dataset	4.isAbout.11.values.0.value	Hip Circumference	CategoryValuesPair
+dataset	4.isAbout.12.category	Experiment name	CategoryValuesPair
+dataset	4.isAbout.12.values.0.value	Systolic Blood Pressure	CategoryValuesPair
+dataset	4.isAbout.13.category	Experiment name	CategoryValuesPair
+dataset	4.isAbout.13.values.0.value	Waist Circumference	CategoryValuesPair
+dataset	4.isAbout.14.category	Experiment name	CategoryValuesPair
+dataset	4.isAbout.14.values.0.value	Weight	CategoryValuesPair
+dataset	4.isAbout.2.category	Experiment name	CategoryValuesPair
+dataset	4.isAbout.2.values.0.value	Glucose	CategoryValuesPair
+dataset	4.isAbout.3.category	Experiment name	CategoryValuesPair
+dataset	4.isAbout.3.values.0.value	HDL Cholesterol	CategoryValuesPair
+dataset	4.isAbout.4.category	Experiment name	CategoryValuesPair
+dataset	4.isAbout.4.values.0.value	Hemoglobin A1C	CategoryValuesPair
+dataset	4.isAbout.5.category	Experiment name	CategoryValuesPair
+dataset	4.isAbout.5.values.0.value	Insulin	CategoryValuesPair
+dataset	4.isAbout.6.category	Experiment name	CategoryValuesPair
+dataset	4.isAbout.6.values.0.value	LDL Cholesterol	CategoryValuesPair
+dataset	4.isAbout.7.category	Experiment name	CategoryValuesPair
+dataset	4.isAbout.7.values.0.value	Triglycerides	CategoryValuesPair
+dataset	4.isAbout.8.category	Experiment name	CategoryValuesPair
+dataset	4.isAbout.8.values.0.value	Body Fat Measurement	CategoryValuesPair
+dataset	4.isAbout.9.category	Experiment name	CategoryValuesPair
+dataset	4.isAbout.9.values.0.value	Diastolic Blood Pressure	CategoryValuesPair
+dataset	4.title	RHAPSODY Cohort 5 dataset
+dataset	4.types.0.value	transcriptomics
+dataset	4.types.1.value	genetics
+dataset	4.types.2.value	laboratory tests
+dataset	5.distributions.0.dates.0.date	2021-01-12
+dataset	5.distributions.0.dates.0.type.value	creation date
+dataset	5.isAbout.0.category	Experiment name	CategoryValuesPair
+dataset	5.isAbout.0.values.0.value	Alanine Aminostransferase	CategoryValuesPair
+dataset	5.isAbout.1.category	Experiment name	CategoryValuesPair
+dataset	5.isAbout.1.values.0.value	Aspartame Aminotransferase	CategoryValuesPair
+dataset	5.isAbout.10.category	Experiment name	CategoryValuesPair
+dataset	5.isAbout.10.values.0.value	Triglycerides	CategoryValuesPair
+dataset	5.isAbout.11.category	Experiment name	CategoryValuesPair
+dataset	5.isAbout.11.values.0.value	Urine albumin creatinine ratio	CategoryValuesPair
+dataset	5.isAbout.12.category	Experiment name	CategoryValuesPair
+dataset	5.isAbout.12.values.0.value	Body Mass Index	CategoryValuesPair
+dataset	5.isAbout.13.category	Experiment name	CategoryValuesPair
+dataset	5.isAbout.13.values.0.value	Diastolic Blood Pressure	CategoryValuesPair
+dataset	5.isAbout.14.category	Experiment name	CategoryValuesPair
+dataset	5.isAbout.14.values.0.value	Systolic Blood Pressure	CategoryValuesPair
+dataset	5.isAbout.15.category	Experiment name	CategoryValuesPair
+dataset	5.isAbout.15.values.0.value	Weight	CategoryValuesPair
+dataset	5.isAbout.2.category	Experiment name	CategoryValuesPair
+dataset	5.isAbout.2.values.0.value	C peptide	CategoryValuesPair
+dataset	5.isAbout.3.category	Experiment name	CategoryValuesPair
+dataset	5.isAbout.3.values.0.value	Cholesterol	CategoryValuesPair
+dataset	5.isAbout.4.category	Experiment name	CategoryValuesPair
+dataset	5.isAbout.4.values.0.value	Creatinine	CategoryValuesPair
+dataset	5.isAbout.5.category	Experiment name	CategoryValuesPair
+dataset	5.isAbout.5.values.0.value	Glutamic Acid Decarboxylase 1	CategoryValuesPair
+dataset	5.isAbout.6.category	Experiment name	CategoryValuesPair
+dataset	5.isAbout.6.values.0.value	HDL Cholesterol	CategoryValuesPair
+dataset	5.isAbout.7.category	Experiment name	CategoryValuesPair
+dataset	5.isAbout.7.values.0.value	Hemoglobin A1C	CategoryValuesPair
+dataset	5.isAbout.8.category	Experiment name	CategoryValuesPair
+dataset	5.isAbout.8.values.0.value	Hemoglobin A1C	CategoryValuesPair
+dataset	5.isAbout.9.category	Experiment name	CategoryValuesPair
+dataset	5.isAbout.9.values.0.value	LDL Cholesterol	CategoryValuesPair
+dataset	5.title	RHAPSODY Cohort 6 dataset
+dataset	5.types.0.value	transcriptomics
+dataset	5.types.1.value	genetics
+dataset	5.types.2.value	laboratory tests
+dataset	6.distributions.0.dates.0.date	2021-01-12
+dataset	6.distributions.0.dates.0.type.value	creation date
+dataset	6.isAbout.0.category	Experiment name	CategoryValuesPair
+dataset	6.isAbout.0.values.0.value	C peptide	CategoryValuesPair
+dataset	6.isAbout.1.category	Experiment name	CategoryValuesPair
+dataset	6.isAbout.1.values.0.value	Cholesterol	CategoryValuesPair
+dataset	6.isAbout.10.category	Experiment name	CategoryValuesPair
+dataset	6.isAbout.10.values.0.value	Systolic Blood Pressure	CategoryValuesPair
+dataset	6.isAbout.2.category	Experiment name	CategoryValuesPair
+dataset	6.isAbout.2.values.0.value	Glucose	CategoryValuesPair
+dataset	6.isAbout.3.category	Experiment name	CategoryValuesPair
+dataset	6.isAbout.3.values.0.value	HDL Cholesterol	CategoryValuesPair
+dataset	6.isAbout.4.category	Experiment name	CategoryValuesPair
+dataset	6.isAbout.4.values.0.value	Hemoglobin A1C	CategoryValuesPair
+dataset	6.isAbout.5.category	Experiment name	CategoryValuesPair
+dataset	6.isAbout.5.values.0.value	Insulin	CategoryValuesPair
+dataset	6.isAbout.6.category	Experiment name	CategoryValuesPair
+dataset	6.isAbout.6.values.0.value	LDL Cholesterol	CategoryValuesPair
+dataset	6.isAbout.7.category	Experiment name	CategoryValuesPair
+dataset	6.isAbout.7.values.0.value	Triglycerides	CategoryValuesPair
+dataset	6.isAbout.8.category	Experiment name	CategoryValuesPair
+dataset	6.isAbout.8.values.0.value	Body Mass Index	CategoryValuesPair
+dataset	6.isAbout.9.category	Experiment name	CategoryValuesPair
+dataset	6.isAbout.9.values.0.value	Diastolic Blood Pressure	CategoryValuesPair
+dataset	6.title	RHAPSODY Cohort 7 dataset
+dataset	6.types.0.value	transcriptomics
+dataset	6.types.1.value	genetics
+dataset	6.types.2.value	laboratory tests
+dataset	7.distributions.0.dates.0.date	2021-01-12
+dataset	7.distributions.0.dates.0.type.value	creation date
+dataset	7.isAbout.0.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.0.values.0.value	Adiponectin	CategoryValuesPair
+dataset	7.isAbout.1.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.1.values.0.value	Alanine Aminostransferase	CategoryValuesPair
+dataset	7.isAbout.10.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.10.values.0.value	Gamma Glutamyl Transferase	CategoryValuesPair
+dataset	7.isAbout.11.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.11.values.0.value	Glucose	CategoryValuesPair
+dataset	7.isAbout.12.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.12.values.0.value	Body Fat Measurement	CategoryValuesPair
+dataset	7.isAbout.13.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.13.values.0.value	Body Mass Index	CategoryValuesPair
+dataset	7.isAbout.14.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.14.values.0.value	Diastolic Blood Pressure	CategoryValuesPair
+dataset	7.isAbout.15.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.15.values.0.value	Height	CategoryValuesPair
+dataset	7.isAbout.16.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.16.values.0.value	Hip Circumference	CategoryValuesPair
+dataset	7.isAbout.17.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.17.values.0.value	Systolic Blood Pressure	CategoryValuesPair
+dataset	7.isAbout.18.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.18.values.0.value	Waist Circumference	CategoryValuesPair
+dataset	7.isAbout.19.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.19.values.0.value	Weight	CategoryValuesPair
+dataset	7.isAbout.2.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.2.values.0.value	Albumin	CategoryValuesPair
+dataset	7.isAbout.20.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.20.values.0.value	HDL Cholesterol	CategoryValuesPair
+dataset	7.isAbout.21.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.21.values.0.value	Hemoglobin A1C	CategoryValuesPair
+dataset	7.isAbout.22.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.22.values.0.value	Homocysteine Acid Measurement 	CategoryValuesPair
+dataset	7.isAbout.23.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.23.values.0.value	Insulin	CategoryValuesPair
+dataset	7.isAbout.24.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.24.values.0.value	LDL Cholesterol	CategoryValuesPair
+dataset	7.isAbout.25.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.25.values.0.value	Leptin	CategoryValuesPair
+dataset	7.isAbout.26.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.26.values.0.value	Transferrin	CategoryValuesPair
+dataset	7.isAbout.27.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.27.values.0.value	Triglycerides	CategoryValuesPair
+dataset	7.isAbout.3.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.3.values.0.value	Albumin To Creatinine Protein Ratio Measurement	CategoryValuesPair
+dataset	7.isAbout.4.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.4.values.0.value	Aspartame Aminotransferase	CategoryValuesPair
+dataset	7.isAbout.5.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.5.values.0.value	C Reactive Protein	CategoryValuesPair
+dataset	7.isAbout.6.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.6.values.0.value	Carbohydrate Deficient Transferrin Measurement	CategoryValuesPair
+dataset	7.isAbout.7.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.7.values.0.value	Cholesterol	CategoryValuesPair
+dataset	7.isAbout.8.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.8.values.0.value	Cholesterol to HDL Cholesterol Ratio Measurement	CategoryValuesPair
+dataset	7.isAbout.9.category	Experiment name	CategoryValuesPair
+dataset	7.isAbout.9.values.0.value	Creatinine	CategoryValuesPair
+dataset	7.title	RHAPSODY Cohort 8 dataset
+dataset	7.types.0.value	transcriptomics
+dataset	7.types.1.value	genetics
+dataset	7.types.2.value	laboratory tests
+dataset	8.distributions.0.dates.0.date	2021-01-12
+dataset	8.distributions.0.dates.0.type.value	creation date
+dataset	8.isAbout.0.category	Experiment name	CategoryValuesPair
+dataset	8.isAbout.0.values.0.value	Glucose	CategoryValuesPair
+dataset	8.isAbout.1.category	Experiment name	CategoryValuesPair
+dataset	8.isAbout.1.values.0.value	Body Mass Index	CategoryValuesPair
+dataset	8.isAbout.2.category	Experiment name	CategoryValuesPair
+dataset	8.isAbout.2.values.0.value	Diastolic Blood Pressure	CategoryValuesPair
+dataset	8.isAbout.3.category	Experiment name	CategoryValuesPair
+dataset	8.isAbout.3.values.0.value	Height	CategoryValuesPair
+dataset	8.isAbout.4.category	Experiment name	CategoryValuesPair
+dataset	8.isAbout.4.values.0.value	Systolic Blood Pressure	CategoryValuesPair
+dataset	8.isAbout.5.category	Experiment name	CategoryValuesPair
+dataset	8.isAbout.5.values.0.value	Weight	CategoryValuesPair
+dataset	8.title	RHAPSODY Cohort 9 dataset
+dataset	8.types.0.value	transcriptomics
+dataset	8.types.1.value	genetics
+dataset	8.types.2.value	laboratory tests
+dataset	9.distributions.0.dates.0.date	2021-01-12
+dataset	9.distributions.0.dates.0.type.value	creation date
+dataset	9.isAbout.0.category	Experiment name	CategoryValuesPair
+dataset	9.isAbout.0.values.0.value	Albumin	CategoryValuesPair
+dataset	9.isAbout.1.category	Experiment name	CategoryValuesPair
+dataset	9.isAbout.1.values.0.value	Cholesterol	CategoryValuesPair
+dataset	9.isAbout.10.category	Experiment name	CategoryValuesPair
+dataset	9.isAbout.10.values.0.value	Body Fat Measurement	CategoryValuesPair
+dataset	9.isAbout.11.category	Experiment name	CategoryValuesPair
+dataset	9.isAbout.11.values.0.value	Body Mass Index	CategoryValuesPair
+dataset	9.isAbout.12.category	Experiment name	CategoryValuesPair
+dataset	9.isAbout.12.values.0.value	Diastolic Blood Pressure	CategoryValuesPair
+dataset	9.isAbout.13.category	Experiment name	CategoryValuesPair
+dataset	9.isAbout.13.values.0.value	Height	CategoryValuesPair
+dataset	9.isAbout.14.category	Experiment name	CategoryValuesPair
+dataset	9.isAbout.14.values.0.value	Hip Circumference	CategoryValuesPair
+dataset	9.isAbout.15.category	Experiment name	CategoryValuesPair
+dataset	9.isAbout.15.values.0.value	Systolic Blood Pressure	CategoryValuesPair
+dataset	9.isAbout.16.category	Experiment name	CategoryValuesPair
+dataset	9.isAbout.16.values.0.value	Waist Circumference	CategoryValuesPair
+dataset	9.isAbout.17.category	Experiment name	CategoryValuesPair
+dataset	9.isAbout.17.values.0.value	Weight	CategoryValuesPair
+dataset	9.isAbout.2.category	Experiment name	CategoryValuesPair
+dataset	9.isAbout.2.values.0.value	Creatinine	CategoryValuesPair
+dataset	9.isAbout.3.category	Experiment name	CategoryValuesPair
+dataset	9.isAbout.3.values.0.value	Glomerular Filtration Rate Estimated	CategoryValuesPair
+dataset	9.isAbout.4.category	Experiment name	CategoryValuesPair
+dataset	9.isAbout.4.values.0.value	Glucose	CategoryValuesPair
+dataset	9.isAbout.5.category	Experiment name	CategoryValuesPair
+dataset	9.isAbout.5.values.0.value	HDL Cholesterol	CategoryValuesPair
+dataset	9.isAbout.6.category	Experiment name	CategoryValuesPair
+dataset	9.isAbout.6.values.0.value	Hemoglobin A1C	CategoryValuesPair
+dataset	9.isAbout.7.category	Experiment name	CategoryValuesPair
+dataset	9.isAbout.7.values.0.value	Insulin	CategoryValuesPair
+dataset	9.isAbout.8.category	Experiment name	CategoryValuesPair
+dataset	9.isAbout.8.values.0.value	LDL Cholesterol	CategoryValuesPair
+dataset	9.isAbout.9.category	Experiment name	CategoryValuesPair
+dataset	9.isAbout.9.values.0.value	Triglycerides	CategoryValuesPair
+dataset	9.title	RHAPSODY Cohort 10 dataset
+dataset	9.types.0.value	transcriptomics
+dataset	9.types.1.value	genetics
+dataset	9.types.2.value	laboratory tests
+dataset	0.study	0
+dataset	1.study	1
+dataset	2.study	2
+dataset	3.study	3
+dataset	4.study	4
+dataset	5.study	5
+dataset	6.study	6
+dataset	7.study	7
+dataset	8.study	8
+dataset	9.study	9
+dataset	10.study	10
+study	0.studyGroups.0.consentInformation.0.name.value	informed consent
+study	1.studyGroups.0.consentInformation.0.name.value	informed consent
+study	2.studyGroups.0.consentInformation.0.name.value	informed consent
+study	3.studyGroups.0.consentInformation.0.name.value	informed consent
+study	4.studyGroups.0.consentInformation.0.name.value	informed consent
+study	5.studyGroups.0.consentInformation.0.name.value	informed consent
+study	6.studyGroups.0.consentInformation.0.name.value	informed consent
+study	7.studyGroups.0.consentInformation.0.name.value	informed consent
+study	8.studyGroups.0.consentInformation.0.name.value	informed consent
+study	9.studyGroups.0.consentInformation.0.name.value	informed consent
+study	10.studyGroups.0.consentInformation.0.name.value	informed consent
+study	0.studyGroups.0.consentInformation.0.name.valueIRI	NCIT:C16735
+study	1.studyGroups.0.consentInformation.0.name.valueIRI	NCIT:C16735
+study	2.studyGroups.0.consentInformation.0.name.valueIRI	NCIT:C16735
+study	3.studyGroups.0.consentInformation.0.name.valueIRI	NCIT:C16735
+study	4.studyGroups.0.consentInformation.0.name.valueIRI	NCIT:C16735
+study	5.studyGroups.0.consentInformation.0.name.valueIRI	NCIT:C16735
+study	6.studyGroups.0.consentInformation.0.name.valueIRI	NCIT:C16735
+study	7.studyGroups.0.consentInformation.0.name.valueIRI	NCIT:C16735
+study	8.studyGroups.0.consentInformation.0.name.valueIRI	NCIT:C16735
+study	9.studyGroups.0.consentInformation.0.name.valueIRI	NCIT:C16735
+study	10.studyGroups.0.consentInformation.0.name.valueIRI	NCIT:C16735

@@ -1,0 +1,34 @@
+project	acronym	BIOMAP
+study	name	BIOMAP combined cohorts
+study	description	Aggregation of all BIOMAP cohorts
+study	types.0.value	biomarker discovery
+study	studyGroups.0.name	Collection of 68 cohorts including a total of 72121 atopic dermatitis patients, 66968 psoriasis patients and 7583907 healthy controls
+study	studyGroups.0.size	7692906
+study	studyGroups.0.consentInformation.0.name.value	informed consent
+study	studyGroups.0.consentInformation.0.name.valueIRI	NCIT:C16735
+study	input.0.name	input material
+study	input.0.taxonomy.0.identifier.identifier	NCBITaxon:9606
+study	input.0.taxonomy.0.identifier.identifierSource	NCBI Taxon ID
+study	input.0.taxonomy.0.name	Homo sapiens
+study	input.0.types.0.value	tissue sample
+study	input.0.types.0.valueIRI	NCIT:C19697
+study	input.0.bearerOfDisease.0.name	psoriasis
+study	input.0.bearerOfDisease.0.identifier.identifier	MONDO:0005083
+study	input.0.bearerOfDisease.1.name	atopic dermatitis
+study	input.0.bearerOfDisease.1.identifier.identifier	MONDO:0011292
+study	input.0.bearerOfDisease.2.name	healthy individuals
+study	input.0.derivesFrom.0.name	blood
+study	input.0.derivesFrom.1.name	skin biopsy
+study	input.0.derivesFrom.2.name	stool
+study	input.0.derivesFrom.3.name	skin swab
+study	acronym	BIOMAP
+dataset	title	BIOMAP transcriptomics
+dataset	types.0.value	transcriptomics
+dataset	isAbout.0.name	blood	AnatomicalPart
+dataset	isAbout.1.name	skin biopsy	AnatomicalPart
+dataset	isAbout.2.name	psoriasis	Disease
+dataset	isAbout.3.name	atopic dermatitis	Disease
+dataset	isAbout.4.name	healthy controls	Disease
+dataset	dimensions.0.name.value	sample size
+dataset	dimensions.0.name.valueIRI	NCIT:C53190
+dataset	dimensions.0.values.0.value	9445
