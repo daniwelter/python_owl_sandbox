@@ -1,0 +1,352 @@
+{
+    "title": "Waste and Ressources - Municipal waste",
+    "description": "Statistics and indicators on municipal/household waste management in Luxembourg.",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2013-01-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "ANNUAL",
+    "themes": [
+        "ENVIRONMENT"
+    ],
+    "keywords": [
+        "MUNICIPAL_WASTE",
+        "RESSOURCES",
+        "WASTE",
+        "WASTE_MANAGEMENT"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "Data on waste management in the Grand Duchy of Luxembourg - household waste and household-like waste 2021",
+            "description": "Report in German language",
+            "access_url": "https://download.data.public.lu/resources/waste-and-ressources-municipal-waste/20231004-153735/daten-2021.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Data set 2 - Household waste and household-like waste \u2013 2021",
+            "description": "Table in German language",
+            "access_url": "https://download.data.public.lu/resources/waste-and-ressources-municipal-waste/20231004-153715/mengen-2021.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Data set 1 - Household waste and household-like waste \u2013 2021",
+            "description": "Table in German language",
+            "access_url": "https://download.data.public.lu/resources/waste-and-ressources-municipal-waste/20231004-153612/kapitel-1-4-2021.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Annual reporting of municipal waste 2021",
+            "description": "Annual reporting of municipal waste 2021",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20230719-112015/annual-reporting-of-mw-questionnaire2021.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Annual reporting of municipal waste 2020",
+            "description": "Annual reporting of municipal waste 2020",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20230719-112049/annual-reporting-of-municipal-waste-questionnaire2020.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Datensatz 1 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle \u2013 2020",
+            "description": "Datensatz 1 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle \u2013 2020",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20220830-091942/kapitel-1-4-2020.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Recycling-Quoten - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2020",
+            "description": "Recycling-Quoten - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2020",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20220830-091923/mengen-2020-ua.xls",
+            "file_type": "XLS",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Daten zur Abfallwirtschaft im Gro\u00dfherzogtum Luxemburg - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle 2020",
+            "description": "Daten zur Abfallwirtschaft im Gro\u00dfherzogtum Luxemburg - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle 2020",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20220830-091839/daten-2020.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Daten zur Abfallwirtschaft im Gro\u00dfherzogtum Luxemburg - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle 2019",
+            "description": "Daten zur Abfallwirtschaft im Gro\u00dfherzogtum Luxemburg - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle 2019",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20210803-145737/abfallwirtschaft-lux-daten-2019.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Datensatz 2 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle \u2013 2019",
+            "description": "Datensatz 2 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle \u2013 2019",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20210803-145355/kapitel-5-2019.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Datensatz 1 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle \u2013 2019",
+            "description": "Datensatz 1 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle \u2013 2019",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20210803-145251/kapitel-1-4-2019.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Recycling-Quoten - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2019",
+            "description": "Recycling-Quoten - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2019",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20210803-145057/recyclingquote-2019.xls",
+            "file_type": "XLS",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Sperrm\u00fcllanalyse im Gro\u00dfherzogtum Luxemburg 2020",
+            "description": "Sperrm\u00fcllanalyse im Gro\u00dfherzogtum Luxemburg 2020",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20210317-103751/20210308-sperrmuellanalyse-gelayouted.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Datensatz 1 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2018",
+            "description": "Datensatz 1 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2018",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20201203-153148/datensatz1-2018.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Datensatz 2 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2017",
+            "description": "Datensatz 2 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2017",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20201203-153134/datensatz2-2017.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Datensatz 1 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2017",
+            "description": "Datensatz 1 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2017",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20201203-153121/datensatz1-2017.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Datensatz 2 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2016",
+            "description": "Datensatz 2 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2016",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20201203-153107/datensatz2-2016.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Datensatz 1 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2016",
+            "description": "Datensatz 1 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2016",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20201203-153057/datensatz1-2016.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Recycling-Quoten - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2018",
+            "description": "Recycling-Quoten - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2018",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20201203-153015/rec-quote-2018.xls",
+            "file_type": "XLS",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Recycling-Quoten - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2017",
+            "description": "Recycling-Quoten - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2017",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20201203-153004/rec-quote-2017.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Recycling-Quoten - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2016",
+            "description": "Recycling-Quoten - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2016",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20201203-152954/rec-quote-2016.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Daten zur Abfallwirtschaft im Gro\u00dfherzogtum Luxemburg - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle 2018",
+            "description": "Daten zur Abfallwirtschaft im Gro\u00dfherzogtum Luxemburg - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle 2018",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20201203-152919/hausmull-und-hausmullahnliche-abfalle-2018.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Daten zur Abfallwirtschaft im Gro\u00dfherzogtum Luxemburg - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle 2017",
+            "description": "Daten zur Abfallwirtschaft im Gro\u00dfherzogtum Luxemburg - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle 2017",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20201203-152849/hausmull-und-hausmullahnliche-abfalle-2017.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Daten zur Abfallwirtschaft im Gro\u00dfherzogtum Luxemburg - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle 2016 ",
+            "description": "Daten zur Abfallwirtschaft im Gro\u00dfherzogtum Luxemburg - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle 2016 ",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20201203-152825/hausmull-und-hausmullahnliche-abfalle-2016.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Sperrm\u00fcllanalyse im Gro\u00dfherzogtum Luxemburg 2015",
+            "description": "Sperrm\u00fcllanalyse im Gro\u00dfherzogtum Luxemburg 2015",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-dechets-municipaux/20180206-103118/SMA-2015-Bericht-3.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Daten zur Abfallwirtschaft im Gro\u00dfherzogtum Luxemburg - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle 2015 ",
+            "description": "Daten zur Abfallwirtschaft im Gro\u00dfherzogtum Luxemburg 2015 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-dechets-municipaux/20171019-141015/menagers_LUXUS_Daten_2015.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Recycling-Quoten - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2015",
+            "description": "Recycling-Quoten - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2015",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20180302-084753/REC-QUOTE-2015_neu.xls",
+            "file_type": "XLS",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Datensatz 1 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2015",
+            "description": "Datensatz 1 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2015",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20180302-084817/Kap_1-4_2015.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Datensatz 2 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2015",
+            "description": "Datensatz 2 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle - 2015",
+            "access_url": "https://download.data.public.lu/resources/dechets-municipaux/20180302-084839/Kap_5_2015.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Daten zur Abfallwirtschaft im Grossherzogtum Luxemburg - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle 2014 ",
+            "description": "Daten zur Abfallwirtschaft im Grossherzogtum Luxemburg 2014 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-dechets-municipaux/20161222-152840/2016_12_22_LUXUS_Daten_2014_UPDATE2.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Restabfallanalyse 2013/2014 im Gro\u00dfherzogtum Luxemburg / Band 1 - Endbericht",
+            "description": "Restabfallanalyse 2013/2014 im Gro\u00dfherzogtum Luxemburg / Band 1 - Endbericht",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-dechets-municipaux/20180206-103213/anal_dech_municipaux_2014_volume1.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Restabfallanalyse 2013/2014 im Gro\u00dfherzogtum Luxemburg / Band 2 - Ausgew\u00e4hlte Resultate f\u00fcr die abfallwirtschaftliche Praxis",
+            "description": "Restabfallanalyse 2013/2014 im Gro\u00dfherzogtum Luxemburg / Band 2 - Ausgew\u00e4hlte Resultate f\u00fcr die abfallwirtschaftliche Praxis",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-dechets-municipaux/20180206-103239/anal_dech_municipaux_2014_volume2.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Daten zur Abfallwirtschaft im Gro\u00dfherzogtum  Luxemburg - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle 2013 ",
+            "description": "Daten zur Abfallwirtschaft im Gro\u00dfherzogtum  Luxemburg 2013 - Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Abf\u00e4lle",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets/20161129-114543/LUXUS_Daten_2013.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

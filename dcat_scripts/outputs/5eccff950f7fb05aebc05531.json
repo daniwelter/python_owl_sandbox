@@ -1,0 +1,52 @@
+{
+    "title": "Environmental Noise - Potential quiet rural areas",
+    "description": "The quiet areas in rural areas include large, cohesive and intact open spaces of supraregional importance with a high recreational function and corresponding development for leisure and recreation. These spacious areas allow for example extensive walks without crossing noisy areas.",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2015-03-12",
+    "rights_statement": "PUBLIC",
+    "periodicity": "UNKNOWN",
+    "themes": [
+        "ENERGY",
+        "ENVIRONMENT"
+    ],
+    "keywords": [
+        "QUIET_AREAS",
+        "QUIETNESS",
+        "SPATIAL_PLANNING"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "report-potential-quiet-rural-areas.pdf",
+            "description": "report-potential-quiet-rural-areas.pdf",
+            "access_url": "https://download.data.public.lu/resources/potential-quiet-rural-areas/20200526-152622/report-potential-quiet-rural-areas.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "potential-quiet-rural-areas.geojson",
+            "description": "potential-quiet-rural-areas.geojson",
+            "access_url": "https://download.data.public.lu/resources/potential-quiet-rural-areas/20200526-152003/potential-quiet-rural-areas.geojson",
+            "file_type": "GEOJSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "potential-quiet-rural-areas-shapefile.zip",
+            "description": "potential-quiet-rural-areas-shapefile.zip",
+            "access_url": "https://download.data.public.lu/resources/potential-quiet-rural-areas/20200526-151957/potential-quiet-rural-areas-shapefile.zip",
+            "file_type": "ZIP",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

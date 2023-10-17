@@ -1,0 +1,32 @@
+{
+    "title": "Waste and Ressources - Inert waste",
+    "description": "Annual report on construction and demolition waste",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2021-01-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "ANNUAL",
+    "themes": [
+        "REGIONS_AND_CITIES"
+    ],
+    "keywords": [
+        "CONSTRUCTION",
+        "DEMOLITION",
+        "RESSOURCES",
+        "WASTE"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "Annual reporting of construction and demolition waste 2021",
+            "description": "Annual reporting of construction and demolition waste 2021",
+            "access_url": "https://download.data.public.lu/resources/dechets-inert-waste/20230719-115310/questionnaire-for-c-d-waste-2023.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

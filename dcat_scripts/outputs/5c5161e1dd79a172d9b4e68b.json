@@ -1,0 +1,424 @@
+{
+    "title": "Air Quality - Non-telemetric networks",
+    "description": "This dataset includes data from non-telemetric air quality networks:\n- Dust deposition network\n- Fine dust collection network using the reference filter method",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2014-01-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "IRREGULAR",
+    "themes": [
+        "ENVIRONMENT"
+    ],
+    "keywords": [
+        "AIR",
+        "ENVIRONNEMENT",
+        "POLLUTION",
+        "QUALITE",
+        "QUALITY",
+        "RESEAU"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "pm10-plb02t-2023.pdf",
+            "description": "pm10-plb02t-2023.pdf",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20230711-050031/pm10-plb02t-2023.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm10-pwa01p-2023.pdf",
+            "description": "pm10-pwa01p-2023.pdf",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20230711-050027/pm10-pwa01p-2023.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm10-pdf01t-2023.pdf",
+            "description": "pm10-pdf01t-2023.pdf",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20230711-050026/pm10-pdf01t-2023.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm10-pes07p-2023.pdf",
+            "description": "pm10-pes07p-2023.pdf",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20230711-050024/pm10-pes07p-2023.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm10-pbw02e-2023.pdf",
+            "description": "pm10-pbw02e-2023.pdf",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20230711-050023/pm10-pbw02e-2023.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "bergerhoff-2023.csv",
+            "description": "bergerhoff-2023.csv",
+            "access_url": "https://download.data.public.lu/resources/air-quality-non-telemetric-networks/20230921-050025/bergerhoff-2023.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm10-ml-2023.csv",
+            "description": "pm10-ml-2023.csv",
+            "access_url": "https://download.data.public.lu/resources/air-quality-non-telemetric-networks/20230920-050023/pm10-ml-2023.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm10-2023.csv",
+            "description": "pm10-2023.csv",
+            "access_url": "https://download.data.public.lu/resources/air-quality-non-telemetric-networks/20230915-050026/pm10-2023.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm2-5-2023.csv",
+            "description": "pm2-5-2023.csv",
+            "access_url": "https://download.data.public.lu/resources/air-quality-non-telemetric-networks/20230915-050024/pm2-5-2023.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "bergerhoff-2022.csv",
+            "description": "bergerhoff-2022.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20221115-040051/bergerhoff-2022.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm10-2022.csv",
+            "description": "pm10-2022.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20230310-040047/pm10-2022.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm2-5-2022.csv",
+            "description": "pm2-5-2022.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20230310-040045/pm2-5-2022.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "bergerhoff-2021.csv",
+            "description": "bergerhoff-2021.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20220402-050043/bergerhoff-2021.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm10-2021.csv",
+            "description": "pm10-2021.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20230524-050049/pm10-2021.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm2-5-2021.csv",
+            "description": "pm2-5-2021.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20220401-050040/pm2-5-2021.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "network-h-bergerhoff.csv",
+            "description": " ",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200427-125334/network-h-bergerhoff.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "network-b-biomonitor.csv",
+            "description": "network-b-biomonitor.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200527-050027/network-b-biomonitor.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "network-p-pm10-pm25.csv",
+            "description": "network-p-pm10-pm25.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200427-153514/network-p-pm10-pm25.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "bergerhoff-2020.csv",
+            "description": "bergerhoff-2020.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20210302-040136/bergerhoff-2020.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "bergerhoff-2019.csv",
+            "description": "bergerhoff-2019.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200425-232438/bergerhoff-2019.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "bergerhoff-2018.csv",
+            "description": "bergerhoff-2018.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200425-232428/bergerhoff-2018.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "bergerhoff-2017.csv",
+            "description": "bergerhoff-2017.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200425-232451/bergerhoff-2017.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "bio-leg-2019.csv",
+            "description": "bio-leg-2019.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200618-050031/bio-leg-2019.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "bio-leg-2018.csv",
+            "description": "bio-leg-2018.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200425-232420/bio-leg-2018.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "bio-leg-2017.csv",
+            "description": "bio-leg-2017.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200425-232452/bio-leg-2017.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "bio-leg-2016.csv",
+            "description": "bio-leg-2016.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200425-232442/bio-leg-2016.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm2-5-2020.csv",
+            "description": "pm2-5-2020.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20210323-040123/pm2-5-2020.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm2-5-2019.csv",
+            "description": "pm2-5-2019.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200425-232424/pm2-5-2019.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm2-5-2018.csv",
+            "description": "pm2-5-2018.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200425-232423/pm2-5-2018.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm2-5-2017.csv",
+            "description": "pm2-5-2017.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200425-232447/pm2-5-2017.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm2-5-2016.csv",
+            "description": "pm2-5-2016.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200425-232439/pm2-5-2016.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm2-5-2015.csv",
+            "description": "pm2-5-2015.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200425-232431/pm2-5-2015.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm2-5-2014.csv",
+            "description": "pm2-5-2014.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200425-232436/pm2-5-2014.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm10-2020.csv",
+            "description": "pm10-2020.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20210323-040121/pm10-2020.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm10-2019.csv",
+            "description": "pm10-2019.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200425-232433/pm10-2019.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm10-2018.csv",
+            "description": "pm10-2018.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200425-232441/pm10-2018.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm10-2017.csv",
+            "description": "pm10-2017.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200425-232449/pm10-2017.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm10-2016.csv",
+            "description": "pm10-2016.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200425-232419/pm10-2016.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm10-2015.csv",
+            "description": "pm10-2015.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200425-232432/pm10-2015.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "pm10-2014.csv",
+            "description": "pm10-2014.csv",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseaux-non-telemetriques/20200425-232435/pm10-2014.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

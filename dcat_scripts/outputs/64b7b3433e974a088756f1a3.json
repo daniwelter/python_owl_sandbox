@@ -1,0 +1,32 @@
+{
+    "title": "Waste and Ressources - Electrical and electronic equipment",
+    "description": "Annual report on waste electrical and electronic equipment 2021",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2021-01-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "ANNUAL",
+    "themes": [
+        "REGIONS_AND_CITIES"
+    ],
+    "keywords": [
+        "ELECTRICAL_EQUIPMENT",
+        "ELECTRONIC_EQUIPMENT",
+        "RESSOURCES",
+        "WASTE"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "Annual reporting of waste electrical and electronic equipment 2021",
+            "description": "Annual reporting of waste electrical and electronic equipment 2021",
+            "access_url": "https://download.data.public.lu/resources/dechets-electrical-and-electronic-equipment/20230719-115621/waste-weeedat-a-lu-2021.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

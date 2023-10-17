@@ -1,0 +1,86 @@
+{
+    "title": "Environmental Noise - Strategic noise maps",
+    "description": "Noise, or noise pollution, is a daily nuisance for many people. The impact on human beings can be physical and/or psychological (reduced ability to concentrate, insomnia, stress, hearing loss, cardiovascular disease). Noise is also detrimental to the well-being of animals.\n\nIn the Grand Duchy, noise is caused primarily by road, rail and air traffic, but also by construction sites, industry and the use of machinery in the neighbourhood. Given the wide range of emission sources, it is important to monitor the propagation of environmental noise (-> mapping) and, if limit values are exceeded, to adopt measures to limit its impact. The impact of noise varies depending on where you are, the proximity of the various sources (roads, airport, rail) and the insulation of your home. Measures to reduce environmental noise must be tailored to these criteria.\n",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2011-01-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "QUINQUENNIAL",
+    "themes": [
+        "ENVIRONMENT"
+    ],
+    "keywords": [
+        "AIRCRAFT_NOISE",
+        "NOISE",
+        "RAIL_NOISE",
+        "ROAD_NOISE",
+        "SPATIAL_PLANNING",
+        "STRATEGIC_NOISE_MAPS",
+        "TRAFFIC",
+        "URBAN"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "Strategic noise maps 2016 on major railways - Documentation",
+            "description": "Noise maps of the major railways of more than 30'000 trains per year located on the territory of the Grand-duchy of Luxembourg and inside of agglomeration. This map is representative for the year 2016 and is using the noise index Lden and Lnight. This noise map has been elaborated in the context of the DIRECTIVE 2002/49/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 June 2002 relating to the assessment and management of environmental noise, transposed into national law by the loi du 2 ao\u00fbt 2006 modifiant la loi modifi\u00e9e du 21 juin 1976 relative \u00e0 la lutte contre le bruit and the r\u00e8glement grand-ducal du 2 ao\u00fbt 2006 portant application de la directive 2002/49/CE relative \u00e0 l'\u00e9valuation et \u00e0 la gestion du bruit dans l'environnement.-",
+            "access_url": "https://download.data.public.lu/resources/bruit/20181031-120853/snm-rail-2016.zip",
+            "file_type": "ZIP",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Strategic noise maps 2016 on major roads - Documentation",
+            "description": "Noise maps of all the major roads of more than 3 million vehicles per year located on the territory of the Grand-duchy of Luxembourg and all roads inside of the agglomeration. This map is representative for the year 2016 and is using the noise index Lden and Lnight. This noise map has been elaborated in the context of the DIRECTIVE 2002/49/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 June 2002 relating to the assessment and management of environmental noise, transposed into national law by the loi du 2 ao\u00fbt 2006 modifiant la loi modifi\u00e9e du 21 juin 1976 relative \u00e0 la lutte contre le bruit and the r\u00e8glement grand-ducal du 2 ao\u00fbt 2006 portant application de la directive 2002/49/CE relative \u00e0 l'\u00e9valuation et \u00e0 la gestion du bruit dans l'environnement.-",
+            "access_url": "https://download.data.public.lu/resources/bruit/20181031-120758/snm-road-2016.zip",
+            "file_type": "ZIP",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Strategic noise maps 2016 on major airport - Documentation",
+            "description": "Noise maps of the major airports of more than 50'000 movements per year. This map is representative for the year 2016 and is using the noise index Lden and Lnight. This noise map has been elaborated in the context of the DIRECTIVE 2002/49/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 June 2002 relating to the assessment and management of environmental noise, transposed into national law by the loi du 2 ao\u00fbt 2006 modifiant la loi modifi\u00e9e du 21 juin 1976 relative \u00e0 la lutte contre le bruit and the r\u00e8glement grand-ducal du 2 ao\u00fbt 2006 portant application de la directive 2002/49/CE relative \u00e0 l'\u00e9valuation et \u00e0 la gestion du bruit dans l'environnement.-",
+            "access_url": "https://download.data.public.lu/resources/bruit/20181031-120923/snm-air-2016.zip",
+            "file_type": "ZIP",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Strategic noise maps 2011 on major railways - Documentation",
+            "description": "Noise maps of the major railways of more than 30\u2019000 trains per year located on the territory of the Grand-duchy of Luxembourg and inside of agglomeration. This map is representative for the year 2011 and is using the noise index Lden and Lnight. This noise map has been elaborated in the context of the DIRECTIVE 2002/49/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 June 2002 relating to the assessment and management of environmental noise, transposed into national law by the loi du 2 ao\u00fbt 2006 modifiant la loi modifi\u00e9e du 21 juin 1976 relative \u00e0 la lutte contre le bruit and the r\u00e8glement grand-ducal du 2 ao\u00fbt 2006 portant application de la directive 2002/49/CE relative \u00e0 l\u2019\u00e9valuation et \u00e0 la gestion du bruit dans l\u2019environnement.-",
+            "access_url": "https://download.data.public.lu/resources/bruit-environnemental/20201110-141307/snm-rail-2011.zip",
+            "file_type": "ZIP",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Strategic noise maps 2011 on major roads - Documentation",
+            "description": "Noise maps of all the major roads of more than 3 million vehicles per year located on the territory of the Grand-duchy of Luxembourg and all roads inside of the agglomeration. This map is representative for the year 2011 and is using the noise index Lden and Lnight. This noise map has been elaborated in the context of the DIRECTIVE 2002/49/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 June 2002 relating to the assessment and management of environmental noise, transposed into national law by the loi du 2 ao\u00fbt 2006 modifiant la loi modifi\u00e9e du 21 juin 1976 relative \u00e0 la lutte contre le bruit and the r\u00e8glement grand-ducal du 2 ao\u00fbt 2006 portant application de la directive 2002/49/CE relative \u00e0 l\u2019\u00e9valuation et \u00e0 la gestion du bruit dans l\u2019environnement.-",
+            "access_url": "https://download.data.public.lu/resources/bruit-environnemental/20201110-141421/snm-road-2011.zip",
+            "file_type": "ZIP",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Strategic noise maps 2011 on major airport - Documentation",
+            "description": "Noise maps of the major airports of more than 50\u2019000 movements per year. This map is representative for the year 2011 and is using the noise index Lden and Lnight. This noise map has been elaborated in the context of the DIRECTIVE 2002/49/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 June 2002 relating to the assessment and management of environmental noise, transposed into national law by the loi du 2 ao\u00fbt 2006 modifiant la loi modifi\u00e9e du 21 juin 1976 relative \u00e0 la lutte contre le bruit and the r\u00e8glement grand-ducal du 2 ao\u00fbt 2006 portant application de la directive 2002/49/CE relative \u00e0 l\u2019\u00e9valuation et \u00e0 la gestion du bruit dans l\u2019environnement.-",
+            "access_url": "https://download.data.public.lu/resources/bruit-environnemental/20201110-141139/snm-air-2011.zip",
+            "file_type": "ZIP",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

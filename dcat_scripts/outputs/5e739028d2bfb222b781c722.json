@@ -1,0 +1,43 @@
+{
+    "title": "Classified Establishments - Wind turbines",
+    "description": "The present location map shows the distribution of wind turbines authorized by the Minister of the Environment under the legislation on classified establishments. Depending on the data availability, information on the installed power, hub height and diameter of the propeller can be consulted. \n\"Autoris\u00e9\" is the project of a wind turbine that has been authorized under the legislation on classified establishments, while \"existant\" is a wind turbine built by the constructor and according to the implementation report. \nIt should be noted that the coordinates of existing wind turbines listed in the authorization files do not always correspond exactly to the coordinates of the actual locations of the wind turbines after construction, and may vary slightly depending on the construction. Where applicable, the coordinates of wind turbines validated by an official surveyor are indicated by an attribute.- ",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2020-03-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "MONTHLY",
+    "themes": [
+        "ENVIRONMENT",
+        "REGIONS_AND_CITIES",
+        "ENERGY"
+    ],
+    "keywords": [
+        "AUTHORISATION",
+        "RENEWABLE_ENERGY",
+        "WIND_TURBINES"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "eoliennes.geojson",
+            "description": "eoliennes.geojson",
+            "access_url": "https://download.data.public.lu/resources/classified-establishments-wind-turbines/20231005-090632/eoliennes.geojson",
+            "file_type": "GEOJSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "eoliennes-shapefiles.zip",
+            "description": "eoliennes-shapefiles.zip",
+            "access_url": "https://download.data.public.lu/resources/classified-establishments-wind-turbines/20231005-090601/eoliennes-shapefiles.zip",
+            "file_type": "ZIP",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

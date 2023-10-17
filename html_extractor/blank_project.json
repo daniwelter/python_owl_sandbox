@@ -1,0 +1,98 @@
+{
+    "title": "",
+    "description": "",
+    "@type": "Project",
+    "@context": [
+        "http://w3id.org/dats/context/sdo/dataset_sdo_context.jsonld",
+        "http://w3id.org/dats/context/obo/dataset_obo_context.jsonld"
+    ],
+    "types": [
+        {
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+            "value": "IMI projects"
+        }
+    ],
+    "identifier": {
+        "identifier": "",
+        "@type": "Identifier",
+        "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld"
+    },
+    "startDate": {
+        "@type": "Date",
+        "@context": "https://w3id.org/dats/context/sdo/date_info_sdo_context.jsonld",
+        "date": "",
+        "type": {
+            "value": "start date",
+            "valueIRI": "SIO:000031"
+        }
+    },
+    "endDate": {
+        "@type": "Date",
+        "@context": "https://w3id.org/dats/context/sdo/date_info_sdo_context.jsonld",
+        "date": "",
+        "type": {
+            "value": "end date",
+            "valueIRI": "SIO:000036"
+        }
+    },
+    "projectLeads": [
+        {
+            "@type": "Person",
+            "@context": "https://w3id.org/dats/context/sdo/person_sdo_context.jsonld",
+            "firstName": "",
+            "lastName": "",
+            "email": "",
+            "phoneNumber": "",
+            "roles": [
+                {
+                    "@type": "Annotation",
+                    "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+                    "value": "",
+                    "valueIRI": ""
+                }
+            ],
+            "affiliations": [
+                {
+                    "@type": "Organization",
+                    "@context": "https://w3id.org/dats/context/sdo/organization_sdo_context.jsonld",
+                    "name": "",
+                    "location": {
+                        "postalAddress": "",
+                        "@type": "Place",
+                        "@context": "https://w3id.org/dats/context/sdo/place_sdo_context.jsonld"
+                    }
+                }
+            ],
+            "fullName": ""
+        }
+    ],
+    "keywords": [
+        {
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+            "value": "IMI projects"
+        },
+        {
+            "@type": "Annotation",
+            "@context": "https://w3id.org/dats/context/sdo/annotation_sdo_context.jsonld",
+            "value": ""
+        }
+    ],
+    "fundedBy": [
+        {
+            "name": "",
+            "identifier": {
+                "identifier": "",
+                "@type": "Identifier",
+                "@context": "https://w3id.org/dats/context/sdo/identifier_info_sdo_context.jsonld"
+            },
+            "@type": "Grant",
+            "@context": "https://w3id.org/dats/context/sdo/grant_sdo_context.jsonld"
+        }
+    ],
+    "projectAssets": [
+    ],
+    "acronym": "",
+    "projectWebsite": ""
+}

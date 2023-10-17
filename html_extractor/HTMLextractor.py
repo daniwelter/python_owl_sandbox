@@ -8,12 +8,12 @@ from bs4 import BeautifulSoup
 def extractData(contents, dats, file_name):
     soup = BeautifulSoup(contents, 'lxml')
 
-    project_title = soup.h1.text.rstrip()
+    project_title = soup.h1.text.rstrip().lstrip()
     title = soup.find_all("div", class_="field--name-field-project-title")
 
     dats['title'] = project_title
-    dats['projectAssets'][0]['name'] = project_title
-    dats['projectAssets'][0]['output'][0]['title'] = project_title
+    # dats['projectAssets'][0]['name'] = project_title
+    # dats['projectAssets'][0]['output'][0]['title'] = project_title
 
     expanded_title = ''
     for t in title:
@@ -23,7 +23,7 @@ def extractData(contents, dats, file_name):
             print("Multiple expanded titles for project " + project_title)
 
     dats['description'] = expanded_title
-    dats['projectAssets'][0]['description'] = expanded_title
+    # dats['projectAssets'][0]['description'] = expanded_title
 
     status = soup.find_all("span", class_="project-status")
     project_status = ''
@@ -129,11 +129,8 @@ def extractData(contents, dats, file_name):
     #     if d.next_element.name == 'p':
     #         project_description = d.text.rstrip()
 
-    for prop in dats['extraProperties']:
-        if prop['category'] == 'projectAcronym':
-            prop['values'][0]['value'] = project_title
-        elif prop['category'] == 'website':
-            prop['values'][0]['value'] = project_website
+    dats['acronym'] = project_title
+    dats['projectWebsite'] = project_website
 
     generate_identifers(dats)
 
@@ -160,19 +157,33 @@ def save_json(dats, filename):
 
 def generate_identifers(dats):
     dats['identifier']['identifier'] = str(uuid.uuid1())
-    dats['projectAssets'][0]['identifier']['identifier'] = str(uuid.uuid1())
-    dats['projectAssets'][0]['output'][0]['identifier']['identifier'] = str(uuid.uuid1())
+    # dats['projectAssets'][0]['identifier']['identifier'] = str(uuid.uuid1())
+    # dats['projectAssets'][0]['output'][0]['identifier']['identifier'] = str(uuid.uuid1())
 
 if __name__ == "__main__":
-    path_to_files = "/Users/danielle.welter/Documents/FAIRplus/IMI projects"
-
+    path_to_files = "/Users/danielle.welter/Development/IMI-Europa/projects-results/project-factsheets/"
     path = os.path.join(os.path.dirname(__file__), path_to_files)
 
-    blank_json = 'dats_blank.json'
+    projects = ['epnd',
+                'facilitate',
+                'hippocrates',
+                'persist-seq',
+                'primavera',
+                'prism-2',
+                'promise',
+                'protect-trial',
+                'realhope',
+                'resolution',
+                'screen4care',
+                'sisaqol-imi',
+                't2evolve',
+                'unite4tb']
+
+    blank_json = 'blank_project.json'
 
     with os.scandir(path) as data_files:
         for data_file in data_files:
-            if ".html" in data_file.name:
+            if data_file.name[:-5] in projects:
                 with open(data_file, 'r') as htmlfile:
                     dats = get_json_from_file(blank_json)
                     contents = htmlfile.read()

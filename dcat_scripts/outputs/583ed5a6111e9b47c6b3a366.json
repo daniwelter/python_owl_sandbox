@@ -1,0 +1,163 @@
+{
+    "title": "Waste and Ressources - Sewage sludge",
+    "description": "These reports and data concern residual sludge from wastewater treatment plants treating domestic or urban wastewater and other wastewater treatment plants treating wastewater of a similar composition to domestic and urban wastewater, and residual sludge from septic tanks and other similar wastewater treatment plants.",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2010-01-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "ANNUAL",
+    "themes": [
+        "ENVIRONMENT"
+    ],
+    "keywords": [
+        "RESSOURCES",
+        "SEWAGE_SLUDGE",
+        "WASTE",
+        "WASTEWATER",
+        "WASTEWATER_TREATMENT"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "Jahresbericht der kl\u00e4ranlagenspezifischen Abf\u00e4lle 2021",
+            "description": "Jahresbericht der kl\u00e4ranlagenspezifischen Abf\u00e4lle 2021",
+            "access_url": "https://download.data.public.lu/resources/boues-depuration/20230719-111548/klarschlammjahresbericht2021-versionaev20230313.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Jahresbericht der kl\u00e4ranlagenspezifischen Abf\u00e4lle 2020",
+            "description": "Jahresbericht der kl\u00e4ranlagenspezifischen Abf\u00e4lle 2020",
+            "access_url": "https://download.data.public.lu/resources/boues-depuration/20220520-151833/220119-klarschlammjahresbericht-2020-vf-2.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Jahresbericht der kl\u00e4ranlagenspezifischen Abf\u00e4lle 2019",
+            "description": "Jahresbericht der kl\u00e4ranlagenspezifischen Abf\u00e4lle 2019",
+            "access_url": "https://download.data.public.lu/resources/boues-depuration/20210209-100254/210202-klarschlammjahresbericht-2019.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Jahresbericht der kl\u00e4ranlagenspezifischen Abf\u00e4lle 2018 (Microsoft Word Dokument)",
+            "description": "Die Umweltverwaltung in Luxembourg erfasst j\u00e4hrlich die Betriebsdaten von kommunalen Kl\u00e4ranlagen zur Erstellung eines statistischen Jahresberichtes \u00fcber die kl\u00e4ranlagenspezifischen Abf\u00e4lle.",
+            "access_url": "https://download.data.public.lu/resources/boues-depuration/20200330-121319/klarschlammjahresbericht-2018-20200325.docx",
+            "file_type": "DOCX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Jahresbericht der kl\u00e4ranlagenspezifischen Abf\u00e4lle 2018",
+            "description": "Die Umweltverwaltung in Luxembourg erfasst j\u00e4hrlich die Betriebsdaten von kommunalen Kl\u00e4ranlagen zur Erstellung eines statistischen Jahresberichtes \u00fcber die kl\u00e4ranlagenspezifischen Abf\u00e4lle.",
+            "access_url": "https://download.data.public.lu/resources/boues-depuration/20200330-122558/klarschlammjahresbericht-2018-20200325.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Jahresbericht der kl\u00e4ranlagenspezifischen Abf\u00e4lle 2017 (Microsoft Word Dokument)",
+            "description": "Jahresbericht der kl\u00e4ranlagenspezifischen Abf\u00e4lle 2017 (Microsoft Word Dokument)",
+            "access_url": "https://download.data.public.lu/resources/boues-depuration/20190107-135210/klarschlammjahresbericht-2017.docx",
+            "file_type": "DOCX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Jahresbericht der kl\u00e4ranlagenspezifischen Abf\u00e4lle 2017",
+            "description": "Die Umweltverwaltung in Luxembourg erfasst j\u00e4hrlich die Betriebsdaten von kommunalen Kl\u00e4ranlagen zur Erstellung eines statistischen Jahresberichtes \u00fcber die kl\u00e4ranlagenspezifischen Abf\u00e4lle.\nF\u00fcr das Berichtsjahr 2017 wurden bis zum Redaktionsschluss dieses Berichtes (November 2018) von 41 Kl\u00e4ranlagen Betriebsdaten vorgelegt. Neben diesen werden - entsprechend gekennzeichnet - in den folgenden Zusammenfassungen von zwei weiteren Anlagen, die bis November 2018 keinen Bericht f\u00fcr 2017 einreichten, Angaben aus den Berichten der Jahre 2016 bzw. 2015 wiedergegeben.",
+            "access_url": "https://download.data.public.lu/resources/boues-depuration/20190107-135230/klarschlammjahresbericht-2017.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Jahresbericht der kl\u00e4ranlagenspezifischen Abf\u00e4lle 2016",
+            "description": "Die Umweltverwaltung in Luxembourg erfasst j\u00e4hrlich die Betriebsdaten von kommunalen Kl\u00e4ranlagen zur Erstellung eines statistischen Jahresberichtes \u00fcber die kl\u00e4ranlagenspezifischen Abf\u00e4lle.\nF\u00fcr den Jahresbericht 2016 erfolgte die Auswertung der Betriebsdaten von 42 kommunalen Kl\u00e4ranlagen in Luxembourg.",
+            "access_url": "https://download.data.public.lu/resources/boues-depuration/20180507-084400/Klarschlammjahresbericht-2016.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Jahresbericht der kl\u00e4ranlagenspezifischen Abf\u00e4lle 2015",
+            "description": "Jahresbericht der kl\u00e4ranlagenspezifischen Abf\u00e4lle 2015",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-boues-depuration/20171121-133149/boues_d_epuration_2015.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Jahresbericht der kl\u00e4ranlagenspezifischen Abf\u00e4lle 2014",
+            "description": "Auf Veranlassung der Umweltverwaltung in Luxembourg werden die Betriebs-daten von kommunalen Kl\u00e4ranlagen mit einer Ausbaugr\u00f6\u00dfe von > 2.000 EW zur Erstellung eines statistischen Jahresberichtes \u00fcber die kl\u00e4ranlagenspezifischen Abf\u00e4lle erfasst.",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-boues-depuration/20161130-143809/RA_boues_d_epuration_2014.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Jahresbericht der kl\u00e4ranlagenspezifischen Abf\u00e4lle 2013",
+            "description": "Auf Veranlassung der Umweltverwaltung in Luxembourg werden die Betriebs-daten von kommunalen Kl\u00e4ranlagen mit einer Ausbaugr\u00f6\u00dfe von > 2.000 EW zur Erstellung eines statistischen Jahresberichtes \u00fcber die kl\u00e4ranlagenspezifischen Abf\u00e4lle erfasst.",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-boues-depuration/20161130-143922/boues_d_epuration_2013.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Jahresbericht der kl\u00e4ranlagenspezifischen Abf\u00e4lle 2012",
+            "description": "Auf Veranlassung der Umweltverwaltung in Luxembourg werden die Betriebs-daten von kommunalen Kl\u00e4ranlagen mit einer Ausbaugr\u00f6\u00dfe von > 2.000 EW zur Erstellung eines statistischen Jahresberichtes \u00fcber die kl\u00e4ranlagenspezifischen Abf\u00e4lle erfasst.",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-boues-depuration/20161130-144002/boues_d_epuration_2012.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Jahresbericht der kl\u00e4ranlagenspezifischen Abf\u00e4lle 2011",
+            "description": "Auf Veranlassung der Umweltverwaltung in Luxembourg werden die Betriebs-daten von kommunalen Kl\u00e4ranlagen mit einer Ausbaugr\u00f6\u00dfe von > 2.000 EW zur Erstellung eines statistischen Jahresberichtes \u00fcber die kl\u00e4ranlagenspezifischen Abf\u00e4lle erfasst.",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-boues-depuration/20161130-144059/boues_d_epuration_2011.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Jahresbericht der kl\u00e4ranlagenspezifischen Abf\u00e4lle 2010",
+            "description": "Auf Veranlassung der Umweltverwaltung in Luxembourg werden die Betriebs-daten von kommunalen Kl\u00e4ranlagen mit einer Ausbaugr\u00f6\u00dfe von > 2.000 EW zur Erstellung eines statistischen Jahresberichtes \u00fcber die kl\u00e4ranlagenspezifischen Abf\u00e4lle erfasst.",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-boues-depuration/20161130-144253/boues_d_epuration_2010.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

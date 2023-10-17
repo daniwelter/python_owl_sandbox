@@ -1,0 +1,231 @@
+{
+    "title": "Air Quality - Geostatistical interpolation ",
+    "description": "The geostatistical interpolation map shows in real time the most likely modelled distribution of the pollutant O3, NO2, PM10, or PM2.5 between the various fixed measurement points that make up the telemetric network in Luxembourg, at a spatial resolution of 1 km2. ",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2017-12-31",
+    "rights_statement": "PUBLIC",
+    "periodicity": "DAILY",
+    "themes": [
+        "ENVIRONMENT",
+        "HEALTH"
+    ],
+    "keywords": [
+        "AIR_QUALITY",
+        "DATA_MODELING"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "lux-data-pm25-24hour.json",
+            "description": "lux-data-pm25-24hour.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-geostatistical-interpolation/20231006-040421/lux-data-pm25-24hour.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-o3-1hour.json",
+            "description": "lux-data-o3-1hour.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-geostatistical-interpolation/20231006-040414/lux-data-o3-1hour.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-no2-1hour.json",
+            "description": "lux-data-no2-1hour.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-modelisation-interpolation-geostatistique/20210521-110621/lux-data-no2-1hour.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-no2-1hour.json",
+            "description": "lux-data-no2-1hour.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-modelisation-interpolation-geostatistique/20210521-103652/lux-data-no2-1hour.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-pm10-24hour.json",
+            "description": "lux-data-pm10-24hour.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-geostatistical-interpolation/20231006-040418/lux-data-pm10-24hour.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-pm25-year-20191231-2300.png.asc.json",
+            "description": "lux-data-pm25-year-20191231-2300.png.asc.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-modelisation-interpolation-geostatistique/20201203-131340/lux-data-pm25-year-20191231-2300.png.asc.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-pm25-year-20181231-2300.png.asc.json",
+            "description": "lux-data-pm25-year-20181231-2300.png.asc.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-modelisation-interpolation-geostatistique/20201203-131335/lux-data-pm25-year-20181231-2300.png.asc.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-pm25-year-20171231-2300.png.asc.json",
+            "description": "lux-data-pm25-year-20171231-2300.png.asc.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-modelisation-interpolation-geostatistique/20201203-131331/lux-data-pm25-year-20171231-2300.png.asc.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-pm10-year-20191231-2300.png.asc.json",
+            "description": "lux-data-pm10-year-20191231-2300.png.asc.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-modelisation-interpolation-geostatistique/20201203-131326/lux-data-pm10-year-20191231-2300.png.asc.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-pm10-year-20181231-2300.png.asc.json",
+            "description": "lux-data-pm10-year-20181231-2300.png.asc.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-modelisation-interpolation-geostatistique/20201203-131322/lux-data-pm10-year-20181231-2300.png.asc.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-pm10-year-20171231-2300.png.asc.json",
+            "description": "lux-data-pm10-year-20171231-2300.png.asc.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-modelisation-interpolation-geostatistique/20201203-131318/lux-data-pm10-year-20171231-2300.png.asc.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-o3-year-20191231-2300.png.asc.json",
+            "description": "lux-data-o3-year-20191231-2300.png.asc.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-modelisation-interpolation-geostatistique/20201203-131313/lux-data-o3-year-20191231-2300.png.asc.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-o3-year-20181231-2300.png.asc.json",
+            "description": "lux-data-o3-year-20181231-2300.png.asc.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-modelisation-interpolation-geostatistique/20201203-131309/lux-data-o3-year-20181231-2300.png.asc.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-o3-year-20171231-2300.png.asc.json",
+            "description": "lux-data-o3-year-20171231-2300.png.asc.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-modelisation-interpolation-geostatistique/20201203-131304/lux-data-o3-year-20171231-2300.png.asc.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-no2-year-20191231-2300.png.asc.json",
+            "description": "lux-data-no2-year-20191231-2300.png.asc.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-modelisation-interpolation-geostatistique/20201203-131300/lux-data-no2-year-20191231-2300.png.asc.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-no2-year-20181231-2300.png.asc.json",
+            "description": "lux-data-no2-year-20181231-2300.png.asc.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-modelisation-interpolation-geostatistique/20201203-131256/lux-data-no2-year-20181231-2300.png.asc.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-no2-year-20171231-2300.png.asc.json",
+            "description": "lux-data-no2-year-20171231-2300.png.asc.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-modelisation-interpolation-geostatistique/20201203-131251/lux-data-no2-year-20171231-2300.png.asc.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-no2-1hour.json",
+            "description": "lux-data-no2-1hour.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-geostatistical-interpolation/20231006-040412/lux-data-no2-1hour.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-pm25-24hour.json",
+            "description": "lux-data-pm25-24hour.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-modelisation-interpolation-geostatistique/20230122-030233/lux-data-pm25-24hour.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-pm10-24hour.json",
+            "description": "lux-data-pm10-24hour.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-modelisation-interpolation-geostatistique/20210520-040351/lux-data-pm10-24hour.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-o3-1hour.json",
+            "description": "lux-data-o3-1hour.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-modelisation-interpolation-geostatistique/20230122-030225/lux-data-o3-1hour.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

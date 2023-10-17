@@ -1,0 +1,44 @@
+{
+    "title": "Classified Establishments - Wind turbines (INSPIRE - Annex III Theme Energy Resources)",
+    "description": "The present location map shows the distribution of wind turbines authorized by the Minister of the Environment under the legislation on classified establishments. Depending on the data availability, information on the installed power, hub height and diameter of the propeller can be consulted. \n\n\"Autoris\u00e9\" is the project of a wind turbine that has been authorized under the legislation on classified establishments, while \"existant\" is a wind turbine built by the constructor and according to the implementation report. \n\nIt should be noted that the coordinates of existing wind turbines listed in the authorization files do not always correspond exactly to the coordinates of the actual locations of the wind turbines after construction, and may vary slightly depending on the construction. Where applicable, the coordinates of wind turbines validated by an official surveyor are indicated by an attribute.\n\nDescription copied from [here](https://catalog.inspire.geoportail.lu/geonetwork/srv/eng/catalog.search#/metadata/8c22acfc-5743-4b6c-a56e-1c1f46f9e31a).",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2020-04-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "UNKNOWN",
+    "themes": [
+        "ENVIRONMENT"
+    ],
+    "keywords": [
+        "AUTHORISATION",
+        "INSPIRE",
+        "RENEWABLE_ENERGY",
+        "WIND_TURBINES"
+    ],
+    "legal_frameworks": [
+        "INSPIRE"
+    ],
+    "distributions": [
+        {
+            "title": "WMS View Service for ER.WindTurbines",
+            "description": "WMS View Service for ER.WindTurbines",
+            "access_url": "https://wms.inspire.geoportail.lu/geoserver/er/wms?service=WMS&version=1.3.0&request=GetCapabilities",
+            "file_type": "WMS",
+            "access_type": "API",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "er.windturbines.gml",
+            "description": "er.windturbines.gml",
+            "access_url": "https://download.data.public.lu/resources/inspire-annex-iii-theme-energy-resources-wind-turbines/20200414-181233/er.windturbines.gml",
+            "file_type": "GML",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

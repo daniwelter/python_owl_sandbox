@@ -1,0 +1,63 @@
+{
+    "title": "Environmental Noise - Potential quiet urban areas",
+    "description": "The quiet urban landscape areas include relatively large, continuous open spaces of at least regional importance with a high recreational function and corresponding development for leisure and recreation. Its importance lies in the balancing function to the noisy and densely populated areas of the agglomeration of Luxembourg. The quiet urban landscape close to the residential area allows, for example, extensive walks with only occasional crossing of areas with higher noise levels.",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2018-04-06",
+    "rights_statement": "PUBLIC",
+    "periodicity": "UNKNOWN",
+    "themes": [
+        "ENVIRONMENT"
+    ],
+    "keywords": [
+        "PUBLIC_SPACE",
+        "QUIET_AREAS",
+        "QUIETNESS",
+        "SPATIAL_PLANNING",
+        "URBAN"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "report-potential-quiet-urban-areas-oases-sud.pdf",
+            "description": "report-potential-quiet-urban-areas-oases-sud.pdf",
+            "access_url": "https://download.data.public.lu/resources/potential-quiet-urban-areas/20200526-154830/report-potential-quiet-urban-areas-oases-sud.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "report-potential-quiet-urban-areas-oases-agglo.pdf",
+            "description": "report-potential-quiet-urban-areas-oases-agglo.pdf",
+            "access_url": "https://download.data.public.lu/resources/potential-quiet-urban-areas/20200526-154735/report-potential-quiet-urban-areas-oases-agglo.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "potential-quiet-urban-areas-shapefile.zip",
+            "description": "potential-quiet-urban-areas-shapefile.zip",
+            "access_url": "https://download.data.public.lu/resources/potential-quiet-urban-areas/20200526-152010/potential-quiet-urban-areas-shapefile.zip",
+            "file_type": "ZIP",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "potential-quiet-urban-areas.geojson",
+            "description": "potential-quiet-urban-areas.geojson",
+            "access_url": "https://download.data.public.lu/resources/potential-quiet-urban-areas/20200526-152016/potential-quiet-urban-areas.geojson",
+            "file_type": "GEOJSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

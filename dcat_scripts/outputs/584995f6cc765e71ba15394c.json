@@ -1,0 +1,153 @@
+{
+    "title": "Waste and Ressources - Recycling centres",
+    "description": "Data on waste treatment and collection facilities in Luxembourg",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2013-01-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "ANNUAL",
+    "themes": [
+        "ENVIRONMENT"
+    ],
+    "keywords": [
+        "RECYCLING",
+        "RESSOURCES",
+        "WASTE",
+        "WASTE_COLLECTION",
+        "WASTE_TREATMENT"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "Parc \u00e0 conteneurs au G-D de Luxembourg - rapports annuels 2020",
+            "description": "Parc \u00e0 conteneurs au G-D de Luxembourg - rapports annuels 2020",
+            "access_url": "https://download.data.public.lu/resources/centres-de-recyclage/20211129-130245/rp-bericht-2020.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Parc \u00e0 conteneurs au G-D de Luxembourg - rapports annuels 2019",
+            "description": "Parc \u00e0 conteneurs au G-D de Luxembourg - rapports annuels 2019",
+            "access_url": "https://download.data.public.lu/resources/centres-de-recyclage/20210209-100130/rp-bericht-2019.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "recycling-centers.shp.zip",
+            "description": "recycling-centers.shp.zip",
+            "access_url": "https://download.data.public.lu/resources/centres-de-recyclage/20200129-144722/2018-recycling-centers.shp.zip",
+            "file_type": "SHP.ZIP",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Parc \u00e0 conteneurs au G-D de Luxembourg - rapports annuels 2018",
+            "description": "Passer au parc de recyclage ou utiliser les autres syst\u00e8mes de collecte pour d\u00e9chets recyclables devrait devenir aussi courant que faire ses courses au supermarch\u00e9. Tout comme on prend soin de soi-m\u00eame en faisant ses courses, on fait de m\u00eame en remettant ses d\u00e9chets au centre de recyclage.",
+            "access_url": "https://download.data.public.lu/resources/centres-de-recyclage/20200221-105334/rp-bericht-2018.docx",
+            "file_type": "DOCX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Parc \u00e0 conteneurs au G-D de Luxembourg - rapports annuels 2018",
+            "description": "Passer au parc de recyclage ou utiliser les autres syst\u00e8mes de collecte pour d\u00e9chets recyclables devrait devenir aussi courant que faire ses courses au supermarch\u00e9. Tout comme on prend soin de soi-m\u00eame en faisant ses courses, on fait de m\u00eame en remettant ses d\u00e9chets au centre de recyclage.",
+            "access_url": "https://download.data.public.lu/resources/centres-de-recyclage/20200221-105230/rp-bericht-2018.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Parc \u00e0 conteneurs au G-D de Luxembourg - rapports annuels 2017",
+            "description": "Dans beaucoup de communes, les parcs de recyclage constituent le noyau de la gestion des d\u00e9chets. Les clients peuvent demander conseil et se renseigner sur toutes les questions qui tournent autour du probl\u00e8me des d\u00e9chets. Plusieurs parcs disposent d\u2019espaces d\u2019exposition o\u00f9 sont pr\u00e9sent\u00e9es la gestion des d\u00e9chets et la protection de l\u2019environnement sous ses aspects les plus divers. De nombreux \u00e9tablissements sont \u00e9quip\u00e9s d\u2019un Second-Hand-Shop: on peut y remettre gratuitement des articles d\u2019occasion encore intacts ou r\u00e9parables qui peuvent \u00eatre emport\u00e9s \u2013 gratuitement \u2013 par des personnes int\u00e9ress\u00e9es.\nLe r\u00e8glement grand-ducal de 1993 relatif \u00e0 l\u2019am\u00e9nagement et \u00e0 la gestion des parcs \u00e0 conteneurs stipule qu\u2019en principe, chaque commune doit se rattacher \u00e0 un parc de recyclage. Selon la taille des communes, celles-ci peuvent elles-m\u00eames installer et g\u00e9rer un parc ou s\u2019associer avec des communes voisines pour accomplir cette t\u00e2che. Pour les petites communes situ\u00e9es dans les parties moins peupl\u00e9es du pays, il existe la possibilit\u00e9 d\u2019installer d\u2019autres syst\u00e8mes fonctionnels et adapt\u00e9s aux structures locales pour la collecte des mat\u00e9riaux recyclables. En outre, le r\u00e8glement contient des dispositions d\u00e9taill\u00e9es qui sont \u00e0 respecter lors de l\u2019am\u00e9nagement et de la gestion d\u2019un parc de recyclage.\n",
+            "access_url": "https://download.data.public.lu/resources/centres-de-recyclage/20181220-171412/rp-bericht-2017.docx",
+            "file_type": "DOCX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Parc \u00e0 conteneurs au G-D de Luxembourg - rapports annuels 2017",
+            "description": "Dans beaucoup de communes, les parcs de recyclage constituent le noyau de la gestion des d\u00e9chets. Les clients peuvent demander conseil et se renseigner sur toutes les questions qui tournent autour du probl\u00e8me des d\u00e9chets. Plusieurs parcs disposent d\u2019espaces d\u2019exposition o\u00f9 sont pr\u00e9sent\u00e9es la gestion des d\u00e9chets et la protection de l\u2019environnement sous ses aspects les plus divers. De nombreux \u00e9tablissements sont \u00e9quip\u00e9s d\u2019un Second-Hand-Shop: on peut y remettre gratuitement des articles d\u2019occasion encore intacts ou r\u00e9parables qui peuvent \u00eatre emport\u00e9s \u2013 gratuitement \u2013 par des personnes int\u00e9ress\u00e9es.\n\nLe r\u00e8glement grand-ducal de 1993 relatif \u00e0 l\u2019am\u00e9nagement et \u00e0 la gestion des parcs \u00e0 conteneurs stipule qu\u2019en principe, chaque commune doit se rattacher \u00e0 un parc de recyclage. Selon la taille des communes, celles-ci peuvent elles-m\u00eames installer et g\u00e9rer un parc ou s\u2019associer avec des communes voisines pour accomplir cette t\u00e2che. Pour les petites communes situ\u00e9es dans les parties moins peupl\u00e9es du pays, il existe la possibilit\u00e9 d\u2019installer d\u2019autres syst\u00e8mes fonctionnels et adapt\u00e9s aux structures locales pour la collecte des mat\u00e9riaux recyclables. En outre, le r\u00e8glement contient des dispositions d\u00e9taill\u00e9es qui sont \u00e0 respecter lors de l\u2019am\u00e9nagement et de la gestion d\u2019un parc de recyclage.\n",
+            "access_url": "https://download.data.public.lu/resources/centres-de-recyclage/20181220-171155/rp-bericht-2017.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Parcs \u00e0 conteneurs au G-D de Luxembourg - rapport annuel 2016",
+            "description": "Le parc de recyclage \u2013 maillon d\u2019une gestion \u00e9cologique des d\u00e9chets\nUne gestion \u00e9cologique des d\u00e9chets ne peut fonctionner que si toutes les parties concern\u00e9es sont pr\u00eates \u00e0 g\u00e9rer leurs d\u00e9chets d\u2019une autre mani\u00e8re. C\u2019est pourquoi l\u2019information et la sensibilisation sont des \u00e9l\u00e9ments cl\u00e9s d\u2019une gestion moderne des d\u00e9chets. Mais il faut \u00e9galement cr\u00e9er des infrastructures permettant \u00e0 la population de pratiquer une gestion moderne des d\u00e9chets dans la vie quotidienne. Il faut donc indiquer des voies alternatives pour \u00e9viter les d\u00e9chets et mettre en place des syst\u00e8mes de collecte pour les d\u00e9chets recyclables.",
+            "access_url": "https://download.data.public.lu/resources/collecte-et-traitement-des-dechets/20180723-080218/RP-Bericht-2016.docx",
+            "file_type": "DOCX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Parcs \u00e0 conteneurs au G-D de Luxembourg - rapport annuel 2016",
+            "description": "Le parc de recyclage \u2013 maillon d\u2019une gestion \u00e9cologique des d\u00e9chets\nUne gestion \u00e9cologique des d\u00e9chets ne peut fonctionner que si toutes les parties concern\u00e9es sont pr\u00eates \u00e0 g\u00e9rer leurs d\u00e9chets d\u2019une autre mani\u00e8re. C\u2019est pourquoi l\u2019information et la sensibilisation sont des \u00e9l\u00e9ments cl\u00e9s d\u2019une gestion moderne des d\u00e9chets. Mais il faut \u00e9galement cr\u00e9er des infrastructures permettant \u00e0 la population de pratiquer une gestion moderne des d\u00e9chets dans la vie quotidienne. Il faut donc indiquer des voies alternatives pour \u00e9viter les d\u00e9chets et mettre en place des syst\u00e8mes de collecte pour les d\u00e9chets recyclables.",
+            "access_url": "https://download.data.public.lu/resources/collecte-et-traitement-des-dechets/20180723-080117/RP-Bericht-2016.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Parcs \u00e0 conteneurs au G-D de Luxembourg - rapport annuel 2015",
+            "description": "Dans beaucoup de communes, les parcs de recyclage constituent le noyau de la gestion des d\u00e9chets. Les clients peuvent demander conseil et se renseigner sur toutes les questions qui tournent autour du probl\u00e8me des d\u00e9chets. Plusieurs parcs disposent d\u2019espaces d\u2019exposition o\u00f9 sont pr\u00e9sent\u00e9es la gestion des d\u00e9chets et la protection de l\u2019environnement sous ses aspects les plus divers. De nombreux \u00e9tablissements sont \u00e9quip\u00e9s d\u2019un Second-Hand-Shop: on peut y remettre gratuitement des articles d\u2019occasion encore intacts ou r\u00e9parables qui peuvent \u00eatre emport\u00e9s \u2013 gratuitement \u2013 par des personnes int\u00e9ress\u00e9es.",
+            "access_url": "https://download.data.public.lu/resources/collecte-et-traitement-des-dechets/20161208-182105/RP-Bericht-2015.docx",
+            "file_type": "DOCX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Parcs \u00e0 conteneurs au G-D de Luxembourg - rapport annuel 2015",
+            "description": "Dans beaucoup de communes, les parcs de recyclage constituent le noyau de la gestion des d\u00e9chets. Les clients peuvent demander conseil et se renseigner sur toutes les questions qui tournent autour du probl\u00e8me des d\u00e9chets. Plusieurs parcs disposent d\u2019espaces d\u2019exposition o\u00f9 sont pr\u00e9sent\u00e9es la gestion des d\u00e9chets et la protection de l\u2019environnement sous ses aspects les plus divers. De nombreux \u00e9tablissements sont \u00e9quip\u00e9s d\u2019un Second-Hand-Shop: on peut y remettre gratuitement des articles d\u2019occasion encore intacts ou r\u00e9parables qui peuvent \u00eatre emport\u00e9s \u2013 gratuitement \u2013 par des personnes int\u00e9ress\u00e9es.",
+            "access_url": "https://download.data.public.lu/resources/collecte-et-traitement-des-dechets/20161208-182005/RP-Bericht-2015.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Parcs \u00e0 conteneurs au G-D de Luxembourg rapports annuels de l\u2019ann\u00e9e 2014",
+            "description": "Parcs \u00e0 conteneurs au G-D de Luxembourg rapports annuels de l\u2019ann\u00e9e 2014",
+            "access_url": "https://download.data.public.lu/resources/collecte-et-traitement-des-dechets/20161208-182216/RP-Bericht-2014.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Parcs \u00e0 conteneurs au G-D de Luxembourg rapports annuels de l\u2019ann\u00e9e 2013",
+            "description": "Parcs \u00e0 conteneurs au G-D de Luxembourg rapports annuels de l\u2019ann\u00e9e 2013",
+            "access_url": "https://download.data.public.lu/resources/collecte-et-traitement-des-dechets/20161208-182252/RP-Bericht-2013.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

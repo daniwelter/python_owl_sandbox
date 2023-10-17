@@ -1,0 +1,131 @@
+{
+    "title": "Waste and Ressources - Packaging and packaging waste",
+    "description": "Packaging is defined by Grand-Ducal regulation as \"a product made of materials of any kind, intended to contain and protect specific goods\". As a result, the term \"packaging waste\" refers to all packaging that is disposed of by the holder after the products it contained have been used.",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2010-01-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "ANNUAL",
+    "themes": [
+        "ENVIRONMENT"
+    ],
+    "keywords": [
+        "PACKAGING",
+        "RESSOURCES",
+        "WASTE"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "Annual reporting of packaging and packaging waste 2021",
+            "description": "Annual reporting of packaging and packaging waste 2021",
+            "access_url": "https://download.data.public.lu/resources/dechets-emballages-et-dechets-demballage/20230719-114810/ppw-questionnaire-and-methodology-quality-report.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Annual consumption of lightweight plastic carrier bags 2021",
+            "description": "Annual consumption of lightweight plastic carrier bags 2021",
+            "access_url": "https://download.data.public.lu/resources/dechets-emballages-et-dechets-demballage/20230719-114844/waste-pbag-a-lu-2021.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Biologisch abbaubare Kunststoffe / Literatur- und Internetrecherche, sowie Betrachtungen zum Ist-Zustrand in Luxemburg",
+            "description": "Biologisch abbaubare Kunststoffe sind solche Kunststoffe, die ganz oder teilweise durch spezielle\nMikroorganismen, deren Enzyme die Polymerketten des Materials in kleine Teile zerlegen, zersetzt\nwerden.",
+            "access_url": "https://download.data.public.lu/resources/emballages-et-dechets-demballage/20190226-121343/20190124-bioplastik-final-layout.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Papier/Karton/Pappe (PKP) - Verpackungsanteile Luxemburg - 2017/2018",
+            "description": "Neben der vorrangigen Absch\u00e4tzung von PKP-Verpackungsanteilen und einer ad\u00e4quaten Differenzierung der PKP-Verpackungsstruktur innerhalb der PKP-Fraktion bestand das Ziel der Untersuchung ferner in der Darstellung des Anteils an Nicht-Verpackungen aus PKP (insb.Zeitungen, Zeitschriften, andere Druckerzeugnisse) und des PKP-fremden St\u00f6rstoffgehalts.",
+            "access_url": "https://download.data.public.lu/resources/emballages-et-dechets-demballage/20181127-104629/pkp-analyse-2017-18.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Literatur- /Internetrecherche zum Themenfeld Kunststoffe und ihre Umwelteinwirkungen - Mai 2018",
+            "description": "INHALT:\n- KUNSTSTOFF - EIN \u00dcBERBLICK\n- KUNSTSTOFF \u2013 SCHL\u00dcSSELWERKSTOFF DER MODERNEN WELT UND \u00d6KOLOGISCHES RISIKO\n- KUNSTSTOFF \u2013 TAGT\u00c4GLICH\n- BIOLOGISCH ABBAUBARE KUNSTSTOFFE \u2013 ENTSCH\u00c4RFUNG DER KUNSTSTOFFPROBLEMATIK?\n- MEHRWEGSYSTEME UND MEHRFACHNUTZUNG ZUR VERRINGERUNG DES KUNSTSTOFFABFALLS\n- KUNSTSTOFFEINSPARUNGSPOTENZIALE ERSCHLIESSEN UND AUSBAUEN\n- BEITRAG LUXEMBURGS ZUR UMWELTVERSCHMUTZUNG DURCH KUNSTSTOFFE (PLASTIC POLLUTION)\n",
+            "access_url": "https://download.data.public.lu/resources/emballages-et-dechets-demballage/20180530-180807/20180523_Kunststoff-Ecoconseil-2018.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Mehrwegquote im Getr\u00e4nkebereich im Gro\u00dfherzogtum Luxemburg - 2015",
+            "description": "Mehrwegquote im Getr\u00e4nkebereich im Gro\u00dfherzogtum Luxemburg - 2015",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-les-emballages-et-dechets-demballage/20170104-092101/mehrwegquote_2015.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Mehrwegquote im Getr\u00e4nkebereich im Gro\u00dfherzogtum Luxemburg - 2013",
+            "description": "Bezugsjahr 2013",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-les-emballages-et-dechets-demballage/20170104-091856/mehrwegquote_2013.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Papier/Karton/Pappe (PKP) - Verpackungsanteile Luxemburg - 2012/2013",
+            "description": "Neben der Absch\u00e4tzung des PKP-Verpackungsanteils und einer m\u00f6glichst weitgehenden Differenzierung der PKP-Verpackungsstruktur innerhalb der PKP-Fraktion bestand das Ziel der Untersuchung ferner in der Ermittlung des Anteils der Nicht-Verpackungen aus PKP (insb.Zeitungen, Zeitschriften, andere Druckerzeugnisse) und des PKP-fremden St\u00f6rstoffgehalts.",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-des-ressources-les-emballages-et-dechets-demballage/20170420-100554/Emballage-_papier_recycle.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Mehrwegquote im Getr\u00e4nkebereich im Gro\u00dfherzogtum Luxemburg - 2011",
+            "description": "Kurzfassung //\nIm Rahmen seiner nationalen und internationalen Berichtspflichten wird das luxemburgische\nNachhaltigkeitsministerium h\u00e4ufig mit der Frage nach der sog. Mehrwegquote mit Bezug auf den\nluxemburgischen Markt konfrontiert.\n\nDa bis 2004 f\u00fcr das Hoheitsgebiet des Gro\u00dfherzogtums Luxemburg keine ad\u00e4quaten und systematisch ermittelten Daten vorlagen, hat die Umweltverwaltung das Studien- und Beratungsb\u00fcro ECO-Conseil S.\u00e0 r.l. im selben Jahr mit der Implementierung einer entsprechenden Studie zwecks Absch\u00e4tzung dieser Quote f\u00fcr die Jahre 2002 und 2003, sp\u00e4ter auch f\u00fcr die Folgejahre 2004 - 2010, beauftragt. Der vorliegende Bericht enth\u00e4lt die Projektfortschreibung mit Bezug auf das Kalenderjahr 2011.",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-des-ressources-les-emballages-et-dechets-demballage/20170420-100939/mehrwegquote_2011.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Mehrwegquote im Getr\u00e4nkebereich im Gro\u00dfherzogtum Luxemburg - 2010",
+            "description": "Kurzfassung //\nDa bis 2004 f\u00fcr das Hoheitsgebiet des Gro\u00dfherzogtums Luxemburg keine ad\u00e4quaten und systematisch ermittelten Daten vorlagen, hat die Umweltverwaltung das Studien- und Beratungsb\u00fcro ECO-Conseil S.\u00e0 r.l. im selben Jahr mit der Implementierung einer entsprechenden Studie zwecks Absch\u00e4tzung dieser Quote f\u00fcr die Jahre 2002 und 2003, sp\u00e4ter auch f\u00fcr die Folgejahre 2004 - 2009, beauftragt. Der vorliegende Bericht enth\u00e4lt die Projektfortschreibung mit Bezug auf das\nKalenderjahr 2010.\n\nIm Rahmen der Ma\u00dfnahme hat ECO-Conseil den Schwerpunkt seiner Aktivit\u00e4ten prim\u00e4r auf die\nErmittlung und Bereitstellung breit gef\u00e4cherter Grunddaten abgestellt, da der Begriff der Mehrwegquote, wie sp\u00e4ter gezeigt wird, unterschiedlich definiert und interpretiert werden kann.",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-des-ressources-les-emballages-et-dechets-demballage/20170420-101151/mehrwegquote_2010.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Die Verwendung von Polyvinylchlorid (PVC) als Bestandteil von Verpackungen, der auf dem luxemburgischen Markt befindlichen Produkte - 2004",
+            "description": "Zum Thema PVC (Polyvinylchlorid) und seinen Auswirkungen auf die menschliche Gesundheit und die Umwelt hat es eine Vielzahl divergierender Stellungnahmen aus Wissenschaft und Technik sowie aus der Wirtschaft gegeben.\n\nUm zun\u00e4chst einen \u00dcberblick dar\u00fcber zu erhalten, welche Waren derzeit in PVC-Verpackungen auf den luxemburgischen Markt kommen, wurde seitens der Umweltverwaltung eine\nUntersuchung mit dem Titel \u201eDie Verwendung von PVC als Bestandteil von Verpackungen der auf dem luxemburgischen Markt befindlichen Produkte\u201c durchgef\u00fchrt.\n",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-des-ressources-les-emballages-et-dechets-demballage/20170420-100042/Die_Verwendung_von_Polyvinylchlorid.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

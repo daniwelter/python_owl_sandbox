@@ -1,0 +1,42 @@
+{
+    "title": "Waste and Ressources - Mineral and synthetic lubrication and industrial oils and waste oils",
+    "description": "Data on mineral and synthetic lubricating and industrial oils and used oils in Luxembourg",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2020-01-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "ANNUAL",
+    "themes": [
+        "REGIONS_AND_CITIES"
+    ],
+    "keywords": [
+        "INDUSTRIAL_OILS",
+        "MINERAL_OILS",
+        "RESSOURCES",
+        "WASTE"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "Mineral and synthetic lubrication and industrial oils and waste oils 2021",
+            "description": "Mineral and synthetic lubrication and industrial oils and waste oils 2021",
+            "access_url": "https://download.data.public.lu/resources/dechets-mineral-and-synthetic-lubrication-and-industrial-oils-and-waste-oils/20230719-115117/oils-2023-v1.0-m21.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Mineral and synthetic lubrication and industrial oils and waste oils 2020",
+            "description": "Mineral and synthetic lubrication and industrial oils and waste oils 2020",
+            "access_url": "https://download.data.public.lu/resources/mineral-and-synthetic-lubrication-and-industrial-oils-and-waste-oils/20220726-105447/min-questionnaire-for-waste-oils.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

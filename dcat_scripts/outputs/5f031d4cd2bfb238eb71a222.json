@@ -1,0 +1,141 @@
+{
+    "title": "Air Quality - Biomonitoring network",
+    "description": "To limit the impact of atmospheric pollution, it is important to assess its emissions and fallout.\n\nLiving organisms such as mosses, kale and grasses are used to assess the impact of pollution in specific locations. Their characteristics make them particularly sensitive to the atmosphere around them. Subjected to excessive pollution, they react or are even likely to disappear in this environment, and can therefore be used as indicators of air quality.\n\nThe specific bioindicators used in Luxembourg detect the presence of organic pollutants and heavy metals in the air by quantitative accumulation. These bioindicators, particularly leafy vegetables, trap these particles, which can only be partially eliminated by washing (rain, tap water before consumption).",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2008-01-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "ANNUAL",
+    "themes": [
+        "ENVIRONMENT"
+    ],
+    "keywords": [
+        "ATMOSPHERIC_POLLUTION",
+        "BIOMONITORING",
+        "HEAVY_METALS"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "2019-biomonitoring-luxembourg-final.pdf",
+            "description": "2019-biomonitoring-luxembourg-final.pdf",
+            "access_url": "https://download.data.public.lu/resources/reseau-de-biosurveillance/20200706-144722/2019-biomonitoring-luxembourg-final.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "2018-biomonitoring-luxembourg-final.pdf",
+            "description": "La biosurveillance est r\u00e9alis\u00e9e surtout dans les zones urbanis\u00e9es \u00e0 proximit\u00e9 des aci\u00e9ries \u00e0 arc \u00e9lectrique. Ces installations repr\u00e9sentent des sources d'\u00e9mission potentielles de compos\u00e9s organiques et m\u00e9talliques transport\u00e9es ensuite par voie a\u00e9rienne vers des zones urbanis\u00e9es. Les compos\u00e9s m\u00e9talliques \u00e9mis par des aci\u00e9ries sont fix\u00e9s par des particules de poussi\u00e8res. Les compos\u00e9s organiques solides, liquides ou gazeux peuvent \u00e9galement s'adsorber ou \u00eatre absorb\u00e9es par ces particules. Les polluants organiques \u00e9tudi\u00e9s dans un r\u00e9seau de biosurveillance sont les dioxines / furanes (PCDD/PCDF), les hydrocarbures aromatiques polycycliques (HAP) et les polychlorobiph\u00e9nyles (PCB). Accessoirement, pour compl\u00e9ter les observations et pour \u00e9tablir des corr\u00e9lations avec les autres polluants, l'accumulation des m\u00e9taux lourds cadmium, chrome, mercure, plomb, vanadium et zinc est \u00e9galement analys\u00e9e. ",
+            "access_url": "https://download.data.public.lu/resources/reseau-de-biosurveillance/20200706-144722/2018-biomonitoring-luxembourg-final.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "2017-biomonitoring-luxembourg-final.pdf",
+            "description": "2017-biomonitoring-luxembourg-final.pdf",
+            "access_url": "https://download.data.public.lu/resources/reseau-de-biosurveillance/20200706-144721/2017-biomonitoring-luxembourg-final.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "2016-biomonitoring-luxembourg-final.pdf",
+            "description": "2016-biomonitoring-luxembourg-final.pdf",
+            "access_url": "https://download.data.public.lu/resources/reseau-de-biosurveillance/20200706-151219/2016-biomonitoring-luxembourg-final.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "2015-biomonitoring-luxembourg-final.pdf",
+            "description": "2015-biomonitoring-luxembourg-final.pdf",
+            "access_url": "https://download.data.public.lu/resources/reseau-de-biosurveillance/20200706-151219/2015-biomonitoring-luxembourg-final.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "2014-biomonitoring-luxembourg-final.pdf",
+            "description": "2014-biomonitoring-luxembourg-final.pdf",
+            "access_url": "https://download.data.public.lu/resources/reseau-de-biosurveillance/20200706-151215/2014-biomonitoring-luxembourg-final.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "2013-biomonitoring-luxembourg-final.pdf",
+            "description": "2013-biomonitoring-luxembourg-final.pdf",
+            "access_url": "https://download.data.public.lu/resources/reseau-de-biosurveillance/20200706-151214/2013-biomonitoring-luxembourg-final.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "2012-biomonitoring-luxembourg-final.pdf",
+            "description": "2012-biomonitoring-luxembourg-final.pdf",
+            "access_url": "https://download.data.public.lu/resources/reseau-de-biosurveillance/20200706-151214/2012-biomonitoring-luxembourg-final.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "2011-biomonitoring-luxembourg-final.pdf",
+            "description": "2011-biomonitoring-luxembourg-final.pdf",
+            "access_url": "https://download.data.public.lu/resources/reseau-de-biosurveillance/20200706-151209/2011-biomonitoring-luxembourg-final.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "2010-biomonitoring-luxembourg-final.pdf",
+            "description": "2010-biomonitoring-luxembourg-final.pdf",
+            "access_url": "https://download.data.public.lu/resources/reseau-de-biosurveillance/20200706-151210/2010-biomonitoring-luxembourg-final.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "2009-biomonitoring-luxembourg-final.pdf",
+            "description": "2009-biomonitoring-luxembourg-final.pdf",
+            "access_url": "https://download.data.public.lu/resources/reseau-de-biosurveillance/20200706-151204/2009-biomonitoring-luxembourg-final.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "2008-biomonitoring-luxembourg-final.pdf",
+            "description": "2008-biomonitoring-luxembourg-final.pdf",
+            "access_url": "https://download.data.public.lu/resources/reseau-de-biosurveillance/20200706-151208/2008-biomonitoring-luxembourg-final.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

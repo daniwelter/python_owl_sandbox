@@ -1,0 +1,81 @@
+{
+    "title": "Waste and Ressources - Waste transfers",
+    "description": "Waste transfer data sets.",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2020-01-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "UNKNOWN",
+    "themes": [
+        "REGIONS_AND_CITIES"
+    ],
+    "keywords": [
+        "RESSOURCES",
+        "WASTE",
+        "WASTE_TRANSFER"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "Basel Convention reporting - 2021",
+            "description": "Basel Convention reporting - 2021",
+            "access_url": "https://download.data.public.lu/resources/transferts-de-dechets/20230719-112449/ers-basel-2021-luxembourg.doc",
+            "file_type": "DOC",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Waste Shipment Regulation reporting - data 2021",
+            "description": "Waste Shipment Regulation reporting - data 2021",
+            "access_url": "https://download.data.public.lu/resources/transferts-de-dechets/20230719-112513/basel-ref2021-table-4-5-6.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Waste Shipment Regulation reporting - questionnaire 2021",
+            "description": "Waste Shipment Regulation reporting - questionnaire 2021",
+            "access_url": "https://download.data.public.lu/resources/transferts-de-dechets/20230719-112537/questionnaire-2008-annex-ix-1013-2006en.doc",
+            "file_type": "DOC",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Waste Shipment Regulation reporting - questionnaire 2020",
+            "description": "Waste Shipment Regulation reporting - questionnaire 2020",
+            "access_url": "https://download.data.public.lu/resources/transferts-de-dechets/20220520-153229/questionnaire-2008-annex-ix-1013-2006en.doc",
+            "file_type": "DOC",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Waste Shipment Regulation reporting - data 2020",
+            "description": "Waste Shipment Regulation reporting - data 2020",
+            "access_url": "https://download.data.public.lu/resources/transferts-de-dechets/20220520-153208/waste-basel2a-a.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Basel Convention reporting - 2020",
+            "description": "Basel Convention reporting - 2020",
+            "access_url": "https://download.data.public.lu/resources/transferts-de-dechets/20220520-153129/waste-basel1-a-lu-2020.doc",
+            "file_type": "DOC",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

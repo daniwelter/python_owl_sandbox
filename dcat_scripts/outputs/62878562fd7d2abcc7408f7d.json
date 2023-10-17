@@ -1,0 +1,41 @@
+{
+    "title": "Inventory of atmospheric pollutants - Land use change",
+    "description": "This dataset was created to calculate greenhouse gas emissions and removals resulting from land use, land-use change and forestry (LULUCF) activities. It includes land use data for the years 1989, 1999, 2007, 2012, 2015 and 2018. These data have been compiled primarily to estimate land-use change. \nThe calculation method is based on a grid of points, with each point representing 0.25ha. Land use is determined by the allocation of the central point of the grid.",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "1989-01-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "UNKNOWN",
+    "themes": [
+        "REGIONS_AND_CITIES"
+    ],
+    "keywords": [
+        "ATMOSPHERIC_POLLUTION",
+        "LAND_USE",
+        "NATIONAL_INVENTORY_REPORT"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "Rapport final",
+            "description": "Rapport final",
+            "access_url": "https://download.data.public.lu/resources/changement-daffectation-des-terres/20220520-151041/lulucf-final-report-i1.0.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Jeu de donn\u00e9es GIS",
+            "description": "Jeu de donn\u00e9es GIS",
+            "access_url": "https://download.data.public.lu/resources/changement-daffectation-des-terres/20220520-150939/luref.zip",
+            "file_type": "ZIP",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

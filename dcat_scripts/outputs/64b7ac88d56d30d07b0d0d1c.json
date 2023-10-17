@@ -1,0 +1,31 @@
+{
+    "title": "Waste and Ressources - Reuse",
+    "description": "Reuse by product category\n",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2021-01-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "ANNUAL",
+    "themes": [
+        "REGIONS_AND_CITIES"
+    ],
+    "keywords": [
+        "RESSOURCES",
+        "REUSE",
+        "WASTE"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "Reuse reporting 2021",
+            "description": "Reuse reporting 2021",
+            "access_url": "https://download.data.public.lu/resources/dechets-reuse/20230719-112739/reuse-2021.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

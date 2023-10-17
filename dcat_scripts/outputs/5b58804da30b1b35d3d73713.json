@@ -1,0 +1,194 @@
+{
+    "title": "Classified Establishments - Cadastre GSM",
+    "description": "The \"GSM Cadastre\" or \"Hertzian Cadastre\" is integrated into the national geoportal of the Grand Duchy of Luxembourg (direct URL: http://map.geoportail.lu/theme/cadastre_hertzien?version=3&zoom=10&X=690924&Y=6409159&lang=fr&layers=811-802-801&opacities=1-1-1&bgLayer=basemap_2015_global).\nIt provides information on the location and technical characteristics of mobile phone antennas. Users can view the data on different background layers (topographical map, aerial image, road map, cadastral map).",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2018-07-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "IRREGULAR",
+    "themes": [
+        "ENVIRONMENT"
+    ],
+    "keywords": [
+        "CADASTRE",
+        "CADASTRE_HERTZIEN",
+        "ENVIRONNEMENT",
+        "GEOPORTAIL",
+        "GEOPORTAL",
+        "GSM"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "distribution-des-champs-electriques-situation-01-07-2023.pdf",
+            "description": "Ce fichier repr\u00e9sente la distribution des valeurs mesur\u00e9es des champs \u00e9lectriques  sur les points de mesure. Le fichier est actualis\u00e9 tous les 6 mois.",
+            "access_url": "https://download.data.public.lu/resources/cadastre-gsm/20230703-152222/distribution-des-champs-electriques-situation-01-07-2023.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "points-de-mesure-du-champ-electrique-global-situation-31-12-2022.txt",
+            "description": "Ce fichier contient les codes LUREF des emplacements des points de mesure du champ \u00e9lectrique global. Le fichier est actuali\u00e9 1 fois par an.",
+            "access_url": "https://download.data.public.lu/resources/cadastre-gsm/20230104-150526/points-de-mesure-du-champ-electrique-global-situation-31-12-2022.txt",
+            "file_type": "TXT",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "geolist-gsmcoord.csv",
+            "description": "Ce fichier comporend les emplacements LUREF des sites radiotechniques de la t\u00e9l\u00e9phonie mobile. Ce fichier est actualis\u00e9 en continu.",
+            "access_url": "https://download.data.public.lu/resources/classified-establishments-cadastre-gsm/20231005-202009/geolist-gsmcoord.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "geolist-gsmcoordprovider.csv",
+            "description": "Ce fichier comprend les emplacements (LUREF) des sites radiotechniques de t\u00e9l\u00e9phonie mobile par op\u00e9rateur (Post, Proximus, Orange Communications, Luxembourg Online). Ce fichier est actualis\u00e9 en continu.",
+            "access_url": "https://download.data.public.lu/resources/classified-establishments-cadastre-gsm/20231005-202010/geolist-gsmcoordprovider.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "datareport-gsm.csv",
+            "description": "Ce fichier contient les valeurs mesur\u00e9s du champ \u00e9lectrique global aux points de mesures. La valeur mesur\u00e9e est une valeur r\u00e9elle moyenne de l\u2019immission de l\u2019ensemble de la gamme d\u2019ondes attribu\u00e9es au service radiocommunication (791 MHz - 2.680 MHz).Le fichier est actualis\u00e9 continuellement.",
+            "access_url": "https://download.data.public.lu/resources/classified-establishments-cadastre-gsm/20231006-015033/datareport-gsm.csv",
+            "file_type": "CSV",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "points-de-mesure-du-champ-electrique-global-situation-18-08-2022.txt",
+            "description": "Ce fichier contient les codes LUREF des emplacements des points de mesure du champ \u00e9lectrique global. Le fichier est actuali\u00e9 2 fois par an.",
+            "access_url": "https://download.data.public.lu/resources/cadastre-gsm/20220818-163447/points-de-mesure-du-champ-electrique-global-situation-18-08-2022.txt",
+            "file_type": "TXT",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "points-de-mesure-du-champ-electrique-global-situation-06-01-2022.txt",
+            "description": "Ce fichier contient les codes LUREF des emplacements des points de mesure du champ \u00e9lectrique global. Le fichier est actuali\u00e9 2 fois par an.",
+            "access_url": "https://download.data.public.lu/resources/cadastre-gsm/20220106-115552/points-de-mesure-du-champ-electrique-global-situation-06-01-2022.txt",
+            "file_type": "TXT",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Points de mesure du champ \u00e9lectrique global (situation au 31 d\u00e9cembre 2019)",
+            "description": "Ce fichier contient les codes LUREF des emplacements des points de mesure du champ \u00e9lectrique global. Le fichier est actuali\u00e9 2 fois par an.",
+            "access_url": "https://download.data.public.lu/resources/cadastre-gsm/20200113-105412/emplacement-des-points-de-mesure-situation-31-12-2019.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Points de mesure du champ \u00e9lectrique global (situation au 1er juillet 2018)",
+            "description": "Ce fichier contient les codes LUREF des emplacements des points de mesure du champ \u00e9lectrique global.Le fichier est actuali\u00e9 2 fois par an.",
+            "access_url": "https://download.data.public.lu/resources/cadastre-gsm/20180725-155706/emplacement_des_points_de_mesure.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "distribution-des-champs-electriques-situation-31-12-2022.pdf",
+            "description": "Ce fichier repr\u00e9sente la distribution des valeurs mesur\u00e9es des champs \u00e9lectriques  sur les points de mesure. Le fichier est actualis\u00e9 tous les 6 mois.",
+            "access_url": "https://download.data.public.lu/resources/cadastre-gsm/20230104-142939/distribution-des-champs-electriques-situation-31-12-2022.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "distribution-des-champs-electriques-situation-au-18-ao\u00fbt-2022.pdf",
+            "description": "Ce fichier repr\u00e9sente la distribution des valeurs mesur\u00e9es des champs \u00e9lectriques  sur les points de mesure. Le fichier est actualis\u00e9 tous les 6 mois.",
+            "access_url": "https://download.data.public.lu/resources/cadastre-gsm/20220818-162721/distribution-champs-electrique.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "distribution-des-champs-electriques-situation-au-6-janvier-2022.pdf",
+            "description": "Ce fichier repr\u00e9sente la distribution des valeurs mesur\u00e9es des champs \u00e9lectriques  sur les points de mesure. Le fichier est actualis\u00e9 tous les 6 mois.",
+            "access_url": "https://download.data.public.lu/resources/cadastre-gsm/20220106-120435/distribution-des-champs-electriques-situation-au-6-janvier-2022.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "distribution des champs \u00e9lectriques situation au 12 avril 2021",
+            "description": "Ce fichier contient les codes LUREF des emplacements des points de mesure du champ \u00e9lectrique global. Le fichier est actuali\u00e9 2 fois par an.",
+            "access_url": "https://download.data.public.lu/resources/cadastre-gsm/20210412-113025/distribution-des-champs-electriques-situation-12-04-2021.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Distribution des champs \u00e9lectriques (situation au 7 ao\u00fbt 2020)",
+            "description": "Ce fichier contient les codes LUREF des emplacements des points de mesure du champ \u00e9lectrique global. Le fichier est actuali\u00e9 2 fois par an.",
+            "access_url": "https://download.data.public.lu/resources/cadastre-gsm/20201124-110316/distribution-des-champs-electriques-situation-au-7-aout-2020.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "distribution de niveaux de champs electriques (situation au 31 d\u00e9cembre 2019)",
+            "description": "Distribution de niveaux de champs \u00e9lectriques. Ce fichier est actualis\u00e9 deux fois par an.",
+            "access_url": "https://download.data.public.lu/resources/cadastre-gsm/20200113-093814/distribution-des-chaps-electriques-18-12-2019.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "distribution de niveaux de champs electriques (situation au 31 d\u00e9cembre 2018)",
+            "description": "Distribution de niveaux de champs \u00e9lectriques, situation 31 d\u00e9cembre 2018. Ce fichier sera actualis\u00e9 2 fois par an.",
+            "access_url": "https://download.data.public.lu/resources/cadastre-gsm/20181231-104508/distribution-des-chaps-electriques-31-12-2018.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "distribution de niveaux de champs \u00e9lectriques (situation au 1er juillet 2018)",
+            "description": "Distribution de niveaux de champs \u00e9lectriques, situation 1 juillet 2018. Ce fichier sera actualis\u00e9 2 fois par an.",
+            "access_url": "https://download.data.public.lu/resources/cadastre-gsm/20180725-155553/distribution_de_niveau_de_champ_electrique.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

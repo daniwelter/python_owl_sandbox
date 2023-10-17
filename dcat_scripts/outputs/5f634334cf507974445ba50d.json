@@ -1,0 +1,56 @@
+{
+    "title": "Air Quality - Telemetric network (INSPIRE - Annex III Theme Human Health)",
+    "description": "This dataset includes data from telemetric air quality networks.\n\nThe view service of this dataset support time requests. The different WMS shows value of measurements at a precise timestamp.\n\nDescription copied from [catalog.inspire.geoportail.lu](https://catalog.inspire.geoportail.lu/geonetwork/srv/eng/catalog.search#/metadata/2a18c162-b9fd-4097-b367-e47de238f4f5).",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2020-12-11",
+    "rights_statement": "PUBLIC",
+    "periodicity": "UNKNOWN",
+    "themes": [
+        "ENVIRONMENT",
+        "HEALTH"
+    ],
+    "keywords": [
+        "AIR_QUALITY",
+        "HEALTH",
+        "INSPIRE",
+        "POLLUTION",
+        "TELEMETRIC_NETWORK"
+    ],
+    "legal_frameworks": [
+        "INSPIRE"
+    ],
+    "distributions": [
+        {
+            "title": "LU_DataFlow_D_17092019.xml",
+            "description": "LU_DataFlow_D_17092019.xml",
+            "access_url": "https://cdr.eionet.europa.eu/lu/eu/aqd/d/envxydwfq/LU_DataFlow_D_17092019.xml",
+            "file_type": "DOWNLOADURL",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "WMS View Service for LU_DataFlow_D_17092019.xml",
+            "description": "WMS View Service for LU_DataFlow_D_17092019.xml",
+            "access_url": "https://wms.inspire.geoportail.lu/geoserver/hh/wms?service=WMS&version=1.3.0&request=GetCapabilities",
+            "file_type": "WMS",
+            "access_type": "API",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "LU_DataFlow_D_17092019.xml",
+            "description": "LU_DataFlow_D_17092019.xml",
+            "access_url": "https://cdr.eionet.europa.eu/lu/eu/aqd/d/envxydwfq/LU_DataFlow_D_17092019.xml",
+            "file_type": "DOWNLOADURL",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

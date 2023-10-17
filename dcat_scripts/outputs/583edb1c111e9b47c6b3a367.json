@@ -1,0 +1,382 @@
+{
+    "title": "Waste and Ressources - Biowaste",
+    "description": "Biodegradable garden and park waste as well as food and kitchen waste from households, businesses and the food industry that can be recovered by composting or fermentation.",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2010-01-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "UNKNOWN",
+    "themes": [
+        "ENVIRONMENT"
+    ],
+    "keywords": [
+        "BIODEGRADABLE_WASTE",
+        "FOOD_WASTE",
+        "RESSOURCES",
+        "WASTE"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "Mise en d\u00e9charge des d\u00e9chets municipaux biod\u00e9gradables 2021",
+            "description": "Mise en d\u00e9charge des d\u00e9chets municipaux biod\u00e9gradables 2021",
+            "access_url": "https://download.data.public.lu/resources/biodechets/20230719-111651/annexi-cid-2021-1995-fr.docx",
+            "file_type": "DOCX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Quality report on the data on food waste amounts and the data related to food waste prevention 2021",
+            "description": "Quality report on the data on food waste amounts and the data related to food waste prevention 2021",
+            "access_url": "https://download.data.public.lu/resources/dechets-biodechets/20230719-114614/waste-food-a-lu-2021.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "G\u00e9n\u00e9ration et traitement de d\u00e9chets biod\u00e9gradables au Luxembourg 2021 - DASHBOARD",
+            "description": "G\u00e9n\u00e9ration et traitement de d\u00e9chets biod\u00e9gradables au Luxembourg 2021 - DASHBOARD",
+            "access_url": "https://download.data.public.lu/resources/biodechets/20230719-111823/aev-biodechets-2021.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "G\u00e9n\u00e9ration et traitement de d\u00e9chets biod\u00e9gradables au Luxembourg 2021 - DASHBOARD (Annexes)",
+            "description": "G\u00e9n\u00e9ration et traitement de d\u00e9chets biod\u00e9gradables au Luxembourg 2021 - DASHBOARD (Annexes)",
+            "access_url": "https://download.data.public.lu/resources/biodechets/20230719-111902/aev-biodechets-2021-annexe.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "G\u00e9n\u00e9ration et traitement de d\u00e9chets biod\u00e9gradables au Luxembourg 2020 - DASHBOARD",
+            "description": "G\u00e9n\u00e9ration et traitement de d\u00e9chets biod\u00e9gradables au Luxembourg 2020 - DASHBOARD",
+            "access_url": "https://download.data.public.lu/resources/biodechets/20230308-120238/aev-biodechets-2020.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Quality report on the data on food waste amounts and the data related to food waste prevention 2020",
+            "description": "Quality report on the data on food waste amounts and the data related to food waste prevention 2020",
+            "access_url": "https://download.data.public.lu/resources/biodechets/20220726-093728/waste-foodwaste-a-lu-2020.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Mise en d\u00e9charge des d\u00e9chets municipaux biod\u00e9gradables 2020",
+            "description": "Mod\u00e8le de pr\u00e9sentation des donn\u00e9es sur la mise en d\u00e9charge des d\u00e9chets municipaux biod\u00e9gradables au Luxembourg",
+            "access_url": "https://download.data.public.lu/resources/biodechets/20220726-093059/annexi-cid-2020-1885-fr.docx",
+            "file_type": "DOCX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Quality report on the data on food waste amounts and the data related to food waste prevention 2019",
+            "description": "Quality report on the data on food waste amounts and the data related to food waste prevention 2019",
+            "access_url": "https://download.data.public.lu/resources/biodechets/20210728-133031/waste-foodwaste-a-lu-2019.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Jahresbericht der luxemburgischen Kofermentationsanlagen 2019",
+            "description": "Jahresbericht der luxemburgischen Kofermentationsanlagen 2019",
+            "access_url": "https://download.data.public.lu/resources/biodechets/20201029-112119/bericht-anonymisiert-koferm-2019.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Vergleichende Betrachtung des Inputs sowie der Produktionsmengen und Qualit\u00e4ten von Kompost der luxemburgischen Kompostierungsanlagen  2000 - 2019",
+            "description": "Vergleichende Betrachtung des Inputs sowie der Produktionsmengen und Qualit\u00e4ten von Kompost der luxemburgischen Kompostierungsanlagen  2000 - 2019",
+            "access_url": "https://download.data.public.lu/resources/biodechets/20201029-111958/synthesebericht-kompostierung-2000-2019.docx",
+            "file_type": "DOCX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Zusammenfassung der Jahresberichte 2019 der luxemburgischen Kompostierungsanlagen",
+            "description": "Zusammenfassung der Jahresberichte 2019 der luxemburgischen Kompostierungsanlagen",
+            "access_url": "https://download.data.public.lu/resources/biodechets/20201029-111633/bericht-kompostierung-2019-def.docx",
+            "file_type": "DOCX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Quality report on the data on food waste amounts and the data related to food waste prevention 2018",
+            "description": "Quality report on the data on food waste amounts and the data related to food waste prevention 2018",
+            "access_url": "https://download.data.public.lu/resources/biodechets/20200721-140919/waste-foodwaste-a-lu-2018.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Jahresbericht der luxemburgischen Kofermentationsanlagen 2018 (Word-Dokument)",
+            "description": "Jahresbericht der luxemburgischen Kofermentationsanlagen 2018 (Word-Dokument)",
+            "access_url": "https://download.data.public.lu/resources/biodechets/20191203-164404/bericht-anonymisiert-koferm-2018.docx",
+            "file_type": "DOCX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Vergleichende Betrachtung des Inputs sowie der Produktionsmengen und Qualit\u00e4ten von Kompost der luxemburgischen Kompostierungsanlagen 2000 - 2018",
+            "description": "Vergleichende Betrachtung des Inputs sowie der Produktionsmengen und Qualit\u00e4ten von Kompost der luxemburgischen Kompostierungsanlagen 2000 - 2018",
+            "access_url": "https://download.data.public.lu/resources/biodechets/20191122-150947/synthesebericht-komp-2000-2018-def.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Zusammenfassung der Jahresberichte der luxemburgischen Kompostierungsanlagen 2018",
+            "description": "Die Betreiber der nach dem Abfallwirtschaftgesetz (Loi modifi\u00e9e du 21 mars 2012 relative aux d\u00e9chets) genehmigten Kompostierungsanlagen f\u00fcr organische Abf\u00e4lle sind verpflichtet, einen detaillierten Jahresbericht zu erstellen und der Administration de l\u2019environnement bis zum 31. M\u00e4rz des nachfolgenden Jahres vorzulegen.\nDer Bericht soll Angaben und Informationen insbesondere zu folgenden Punkten enthalten:\n- Art, Herkunft und Menge der angenommenen organischen Abf\u00e4lle\n- Art, Menge, Verwertungs- bzw. Entsorgungswege der nicht kompostierbaren St\u00f6rstoffe\n- Art und Menge der erzeugten Komposte\n- Qualit\u00e4t (Analyseergebnisse) der erzeugten Komposte\n- Verantwortliche Personen f\u00fcr den Anlagenbetrieb\n- Schulungen und Fortbildungen der Anlagenmitarbeiter\n- Betriebsst\u00f6rungen und Unf\u00e4lle auf der Anlage\n- Abnehmer der erzeugten Komposte",
+            "access_url": "https://download.data.public.lu/resources/biodechets/20191122-150759/bericht-kompostierung-2018-def.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Jahresbericht der luxemburgischen Kofermentationsanlagen 2017 ",
+            "description": "Jahresbericht der luxemburgischen Kofermentationsanlagen 2017 ",
+            "access_url": "https://download.data.public.lu/resources/biodechets/20181029-104904/bericht-anonymisiert-koferm2017-3.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Jahresbericht der luxemburgischen Kofermentationsanlagen 2017 (Word-Dokument)",
+            "description": "Jahresbericht der luxemburgischen Kofermentationsanlagen 2017 (Word-Dokument)",
+            "access_url": "https://download.data.public.lu/resources/biodechets/20181029-104921/bericht-anonymisiert-koferm2017-3.docx",
+            "file_type": "DOCX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Vergleichende Betrachtung des Inputs sowie der Produktionsmengen und Qualit\u00e4ten von Kompost der luxemburgischen Kompostierungsanlagen 2000 - 2017",
+            "description": "Die folgende synoptische Darstellung zeigt, soweit Angaben vorliegen, f\u00fcr die Jahre 2000 bis 2017 in Form von Grafiken In- und Output der Kompostierungsanlagen sowie ausgew\u00e4hlte Qualit\u00e4tsparameter der erzeugten Komposte.",
+            "access_url": "https://download.data.public.lu/resources/biodechets/20181008-135523/synthesebericht-komp-2000-2017-2.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Zusammenfassung der Jahresberichte der luxemburgischen Kompostierungsanlagen 2017 ",
+            "description": "Die Betreiber der nach dem Abfallwirtschaftgesetz (Loi modifi\u00e9e du 21 mars 2012 relative aux d\u00e9chets) genehmigten Kompostierungsanlagen f\u00fcr organische Abf\u00e4lle sind verpflichtet, einen detaillierten Jahresbericht zu erstellen und der Administration de l\u2019environnement bis zum 31. M\u00e4rz des nachfolgenden Jahres vorzulegen.\nDer Bericht soll Angaben und Informationen insbesondere zu folgenden Punkten enthalten:\n- Art, Herkunft und Menge der angenommenen organischen Abf\u00e4lle\n- Art, Menge, Verwertungs- bzw. Entsorgungswege der nicht kompostierbaren St\u00f6rstoffe\n- Art und Menge der erzeugten Komposte\n- Qualit\u00e4t (Analyseergebnisse) der erzeugten Komposte\n- Verantwortliche Personen f\u00fcr den Anlagenbetrieb\n- Schulungen und Fortbildungen der Anlagenmitarbeiter\n- Betriebsst\u00f6rungen und Unf\u00e4lle auf der Anlage\n- Abnehmer der erzeugten Komposte",
+            "access_url": "https://download.data.public.lu/resources/biodechets/20181008-135330/bericht-kompostierung-2017-2.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Zusammenfassung der Jahresberichte der luxemburgischen Kompostierungsanlagen 2017 (Word-Dokument)",
+            "description": "Zusammenfassung der Jahresberichte der luxemburgischen Kompostierungsanlagen 2017 (Word-Dokument)",
+            "access_url": "https://download.data.public.lu/resources/biodechets/20181008-135633/bericht-kompostierung-2017-2.docx",
+            "file_type": "DOCX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Anonymisierte tabellarische und grafische Zusammenfassung ausgew\u00e4hlter Daten der Jahresberichte der luxemburgischen Kofermentationsanlagen 2016 ",
+            "description": "Anonymisierte tabellarische und grafische Zusammenfassung ausgew\u00e4hlter Daten der Jahresberichte der luxemburgischen Kofermentationsanlagen 2016 ",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-biodechets/20171121-132947/Bericht_anonymisiert_Koferm2016.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Zusammenfassung der Jahresberichte der luxemburgischen Kompostierungsanlagen 2016 ",
+            "description": "Die Betreiber der nach dem Abfallwirtschaftgesetz (Loi modifi\u00e9e du 21 mars 2012 relative aux d\u00e9chets) genehmigten Kompostierungsanlagen f\u00fcr organische Abf\u00e4lle sind verpflichtet, einen detaillierten Jahresbericht zu erstellen und der Administration de l\u2019environnement bis zum 31. M\u00e4rz des nachfolgenden Jahres vorzulegen.",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-biodechets/20171121-132538/Bericht_Kompostierung_2016.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Aufkommen, Behandlung und Vermeidung von Lebensmittelabf\u00e4llen im Gro\u00dfherzogtum Luxemburg (Studie) - 2016",
+            "description": "Aufkommen, Behandlung und Vermeidung von Lebensmittelabf\u00e4llen im Gro\u00dfherzogtum Luxemburg (Studie) - 2016",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-biodechets/20161130-150054/Studie_Lebensmittelabfall_0316.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Monet\u00e4re Bewertung der im Gro\u00dfherzogtum Luxemburg von Privat-haushalten im Rahmen der \u00f6ffentlichen Abfuhr \u00fcber die \u201egraue Tonne\u201c entsorgten vermeidbaren Lebensmittelabf\u00e4lle - 2015",
+            "description": "Datensch\u00e4tzung",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-biodechets/20161130-150503/04-FoodWert-2015_p.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Anonymisierte tabellarische und grafische Zusammenfassung ausgew\u00e4hlter Daten der Jahresberichte der luxemburgischen Kofermentationsanlagen 2015",
+            "description": "Anonymisierte tabellarische und grafische Zusammenfassung ausgew\u00e4hlter Daten der Jahresberichte der luxemburgischen Kofermentationsanlagen 2015",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-biodechets/20171121-133233/fermentation_2015.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Zusammenfassung der Jahresberichte der luxemburgischen Kompostierungsanlagen 2015 ",
+            "description": "Zusammenfassung der Jahresberichte der luxemburgischen Kompostierungsanlagen 2015 ",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-biodechets/20171121-133312/compostage_2015.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Anonymisierte tabellarische und grafische Zusammenfassung ausgew\u00e4hlter Daten der Jahresberichte der luxemburgischen Kofermentationsanlagen 2014",
+            "description": "Anonymisierte tabellarische und grafische Zusammenfassung ausgew\u00e4hlter Daten der Jahresberichte der luxemburgischen Kofermentationsanlagen 2014",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-biodechets/20161130-150721/fermentation_2014.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Zusammenfassung der Jahresberichte  der luxemburgischen Kompostierungsanlagen 2014",
+            "description": "Zusammenfassung der Jahresberichte  der luxemburgischen Kompostierungsanlagen 2014",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-biodechets/20161130-150615/compostage_2014.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Anonymisierte tabellarische und grafische Zusammenfassung ausgew\u00e4hlter Daten der Jahresberichte der luxemburgischen Kofermentationsanlagen 2013",
+            "description": "Anonymisierte tabellarische und grafische Zusammenfassung ausgew\u00e4hlter Daten der Jahresberichte der luxemburgischen Kofermentationsanlagen 2013",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-biodechets/20161130-150800/fermentation_2013.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Zusammenfassung der Jahresberichte der luxemburgischen Kompostierungsanlagen 2013",
+            "description": "Zusammenfassung der Jahresberichte der luxemburgischen Kompostierungsanlagen 2013",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-biodechets/20161130-151125/compostage_2013.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Anonymisierte tabellarische und grafische Zusammenfassung ausgew\u00e4hlter Daten der Jahresberichte der luxemburgischen Kofermentationsanlagen 2012",
+            "description": "Anonymisierte tabellarische und grafische Zusammenfassung ausgew\u00e4hlter Daten der Jahresberichte der luxemburgischen Kofermentationsanlagen 2012",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-biodechets/20161130-150831/fermentation_2012.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Zusammenfassung der Jahresberichte der luxemburgischen Kompostierungsanlagen 2012",
+            "description": "Zusammenfassung der Jahresberichte der luxemburgischen Kompostierungsanlagen 2012",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-biodechets/20161130-151137/compostage_2012.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Anonymisierte tabellarische und grafische Zusammenfassung ausgew\u00e4hlter Daten der Jahresberichte der luxemburgischen Kofermentationsanlagen 2011 ",
+            "description": "Anonymisierte tabellarische und grafische Zusammenfassung ausgew\u00e4hlter Daten der Jahresberichte der luxemburgischen Kofermentationsanlagen 2011 ",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-biodechets/20161130-150859/fermentation_2011.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Zusammenfassung der Jahresberichte der luxemburgischen Kompostierungsanlagen 2011",
+            "description": "Zusammenfassung der Jahresberichte der luxemburgischen Kompostierungsanlagen 2011",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-biodechets/20161130-151155/compostage_2011.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Anonymisierte tabellarische und grafische Zusammenfassung ausgew\u00e4hlter Daten der Jahresberichte der luxemburgischen Kofermentationsanlagen 2010 ",
+            "description": "Anonymisierte tabellarische und grafische Zusammenfassung ausgew\u00e4hlter Daten der Jahresberichte der luxemburgischen Kofermentationsanlagen 2010 ",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-biodechets/20161130-150924/fermentation_2010.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Zusammenfassung der Jahresberichte der luxemburgischen Kompostierungsanlagen 2010",
+            "description": "Zusammenfassung der Jahresberichte der luxemburgischen Kompostierungsanlagen 2010",
+            "access_url": "https://download.data.public.lu/resources/gestion-des-dechets-et-ressources-biodechets/20161130-151210/compostage_2010.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Electric field measurements (INSPIRE - Annex III Theme Human Health)",
+    "description": "This dataset includes data from electric field measurement networks.\n\nThe view service of this dataset support time requests. The different wms shows value of measurements at a precise timestamp.\n\nDescription copied from [catalog.inspire.geoportail.lu](https://catalog.inspire.geoportail.lu/geonetwork/srv/eng/catalog.search#/metadata/9c21525a-af86-4fc8-8edd-1e7723faa6e4).",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2020-12-11",
+    "rights_statement": "PUBLIC",
+    "periodicity": "UNKNOWN",
+    "themes": [
+        "HEALTH",
+        "ENVIRONMENT",
+        "JUSTICE_LEGAL_SYSTEM_AND_PUBLIC_SAFETY"
+    ],
+    "keywords": [
+        "ELECTRIC_FIELD",
+        "INSPIRE",
+        "MEASUREMENTS"
+    ],
+    "legal_frameworks": [
+        "INSPIRE"
+    ],
+    "distributions": [
+        {
+            "title": "WMS View Service for HH.EnvHealthDeterminantMeasure_EFObservation",
+            "description": "WMS View Service for HH.EnvHealthDeterminantMeasure_EFObservation",
+            "access_url": "https://wms.inspire.geoportail.lu/geoserver/hh/wms?service=WMS&version=1.3.0&request=GetCapabilities",
+            "file_type": "WMS",
+            "access_type": "API",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "hh.envhealthdeterminantmeasure-efobservation.gml",
+            "description": "hh.envhealthdeterminantmeasure-efobservation.gml",
+            "access_url": "https://download.data.public.lu/resources/inspire-annex-iii-theme-human-health-electric-field-measurements/20201211-114918/hh.envhealthdeterminantmeasure-efobservation.gml",
+            "file_type": "GML",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

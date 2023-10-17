@@ -1,0 +1,38 @@
+{
+    "title": "Waste and Ressources - Cumulative data on waste and resource management",
+    "description": "Data concerning the generation and treatment of waste and resources from Luxembourg.",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2016-01-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "IRREGULAR",
+    "themes": [
+        "ENVIRONMENT"
+    ],
+    "keywords": [
+        "DECHETS",
+        "DONNEES",
+        "ENVIRONMENT",
+        "ENVIRONNEMENT",
+        "LUXEMBOURG",
+        "LUXEMBURG",
+        "RESSOURCES",
+        "STATISTICS",
+        "STATISTIQUES",
+        "WASTE"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "G\u00e9n\u00e9ration et traitement de d\u00e9chets",
+            "description": "Donn\u00e9es cumul\u00e9es \u00e0 partir de 2016",
+            "access_url": "https://download.data.public.lu/resources/donnees-cumulees-concernant-la-gestion-des-dechets-et-des-ressources/20230719-112414/gener-treat.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

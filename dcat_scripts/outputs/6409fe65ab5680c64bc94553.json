@@ -1,0 +1,130 @@
+{
+    "title": "Environmental Noise - Noise action plans",
+    "description": "Noise action plans set out the national strategy for the prevention and remediation of noise pollution in our environment, based on strategic noise maps.",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2010-01-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "QUINQUENNIAL",
+    "themes": [
+        "REGIONS_AND_CITIES"
+    ],
+    "keywords": [
+        "ACTION_PLAN",
+        "NOISE"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "PAB a\u00e9roportuaire (3e cycle, 2021)",
+            "description": "Plan d\u2018action contre le bruit de l\u2018a\u00e9roport de Luxembourg",
+            "access_url": "https://download.data.public.lu/resources/bruit-environnemental-plans-daction-contre-le-bruit/20230309-164252/plan-action-bruit-aeroport-2021.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "PAB agglom\u00e9ration (3e cycle, 2021)",
+            "description": "Plan d\u2018action contre le bruit dans l\u2018agglom\u00e9ration de Luxembourg",
+            "access_url": "https://download.data.public.lu/resources/bruit-environnemental-plans-daction-contre-le-bruit/20230309-164250/plan-action-bruit-agglo-2021.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "PAB ferroviaire (3e cycle, 2021)",
+            "description": "Plan d\u2018action contre le bruit des grands axes ferroviaires de plus de trente mille passages par an",
+            "access_url": "https://download.data.public.lu/resources/bruit-environnemental-plans-daction-contre-le-bruit/20230309-164255/plan-action-bruit-ferro-2021.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "PAB routier (3e cycle, 2021)",
+            "description": "Plan d\u2018action contre le bruit des grands axes routiers de plus de trois millions de passage de v\u00e9hicules par an",
+            "access_url": "https://download.data.public.lu/resources/bruit-environnemental-plans-daction-contre-le-bruit/20230309-164247/plan-action-bruit-route-2021.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "PAB a\u00e9roportuaire (2e cycle, 2014)",
+            "description": "Plan d\u2018action contre le bruit de l\u2018a\u00e9roport de Luxembourg",
+            "access_url": "https://download.data.public.lu/resources/bruit-environnemental-plans-daction-contre-le-bruit/20230511-111141/plan-action-bruit-aero-2014.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "PAB agglom\u00e9ration (2e cycle, 2014)",
+            "description": "PAB agglom\u00e9ration (2e cycle, 2014)",
+            "access_url": "https://download.data.public.lu/resources/bruit-environnemental-plans-daction-contre-le-bruit/20230511-111145/plan-action-bruit-agglo-2014.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "PAB ferroviaire (2e cycle, 2014)",
+            "description": "PAB ferroviaire (2e cycle, 2014)",
+            "access_url": "https://download.data.public.lu/resources/bruit-environnemental-plans-daction-contre-le-bruit/20230511-111152/plan-action-bruit-rail-2014.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "PAB routier (2e cycle, 2014)",
+            "description": "PAB routier (2e cycle, 2014)",
+            "access_url": "https://download.data.public.lu/resources/bruit-environnemental-plans-daction-contre-le-bruit/20230511-111207/plan-action-bruit-road-2014.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "PAB a\u00e9roportuaire (1er cycle, 2010)",
+            "description": "Plan d\u2018action contre le bruit de l\u2018a\u00e9roport de Luxembourg",
+            "access_url": "https://download.data.public.lu/resources/bruit-environnemental-plans-daction-contre-le-bruit/20230511-111138/plan-action-bruit-aero-2010.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "PAB ferroviaire (1er cycle, 2010)",
+            "description": "PAB ferroviaire (1er cycle, 2010)",
+            "access_url": "https://download.data.public.lu/resources/bruit-environnemental-plans-daction-contre-le-bruit/20230511-111149/plan-action-bruit-rail-2010.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "PAB routier (1er cycle, 2010)",
+            "description": "PAB routier (1er cycle, 2010)",
+            "access_url": "https://download.data.public.lu/resources/bruit-environnemental-plans-daction-contre-le-bruit/20230511-111201/plan-action-bruit-road-2010.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

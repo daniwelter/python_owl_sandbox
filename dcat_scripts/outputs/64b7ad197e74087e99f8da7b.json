@@ -1,0 +1,41 @@
+{
+    "title": "Waste and Ressources - End-of-life vehicles",
+    "description": "Description of data submitted in accordance with Commission Decision 2005/293/EC on the monitoring of the targets for the reuse/recovery and reuse/recycling of ELVs",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2021-01-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "ANNUAL",
+    "themes": [
+        "REGIONS_AND_CITIES"
+    ],
+    "keywords": [
+        "END_OF_LIFE_VEHICLES",
+        "RESSOURCES",
+        "WASTE"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "Annual reporting of end-of-life vehicles (methodology) 2021",
+            "description": "Annual reporting of end-of-life vehicles (methodology) 2021",
+            "access_url": "https://download.data.public.lu/resources/dechets-end-of-life-vehicles/20230719-113008/waste-elvmeth-a-lu-2021.docx",
+            "file_type": "DOCX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Annual reporting of end-of-life-vehicles (data) 2021",
+            "description": "Annual reporting of end-of-life-vehicles (data) 2021",
+            "access_url": "https://download.data.public.lu/resources/dechets-end-of-life-vehicles/20230719-115344/waste-elvdat-a-lu-2021.xlsx",
+            "file_type": "XLSX",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

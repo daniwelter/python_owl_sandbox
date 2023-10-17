@@ -1,0 +1,65 @@
+{
+    "title": "Environmental Noise - Potential quiet urban oases",
+    "description": "The relatively quiet urban oases include public green areas and open spaces with a high quality of living space and an appropriate design as compensation areas within walking distance of residential and work locations. Due to their inner-city location, they do not, or do not completely, meet the above-mentioned criteria of a quiet area, e. g. by showing an increased noise level or being significantly lower. However, the urban planning context of the areas has noise-reducing properties, which lead to the fact that the urban oases in their core areas are considerably calmer than their surroundings. These areas make it possible, for example, to take short walks for those seeking peace and quietness in the immediate vicinity of their homes or workplaces.",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2018-04-06",
+    "rights_statement": "PUBLIC",
+    "periodicity": "UNKNOWN",
+    "themes": [
+        "ENVIRONMENT",
+        "ENERGY",
+        "REGIONS_AND_CITIES"
+    ],
+    "keywords": [
+        "PUBLIC_SPACE",
+        "QUIET_AREAS",
+        "QUIETNESS",
+        "SPATIAL_PLANNING",
+        "URBAN"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "report-potential-quiet-urban-areas-oases-sud.pdf",
+            "description": "report-potential-quiet-urban-areas-oases-sud.pdf",
+            "access_url": "https://download.data.public.lu/resources/potential-quiet-urban-oases/20200526-154857/report-potential-quiet-urban-areas-oases-sud.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "report-potential-quiet-urban-areas-oases-agglo.pdf",
+            "description": "report-potential-quiet-urban-areas-oases-agglo.pdf",
+            "access_url": "https://download.data.public.lu/resources/potential-quiet-urban-oases/20200526-154814/report-potential-quiet-urban-areas-oases-agglo.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "potential-quiet-urban-oases-shapefile.zip",
+            "description": "potential-quiet-urban-oases-shapefile.zip",
+            "access_url": "https://download.data.public.lu/resources/potential-quiet-urban-oases/20200526-151945/potential-quiet-urban-oases-shapefile.zip",
+            "file_type": "ZIP",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "potential-quiet-urban-oases.geojson",
+            "description": "potential-quiet-urban-oases.geojson",
+            "access_url": "https://download.data.public.lu/resources/potential-quiet-urban-oases/20200526-151950/potential-quiet-urban-oases.geojson",
+            "file_type": "GEOJSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

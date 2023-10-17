@@ -1,0 +1,786 @@
+{
+    "title": "Air Quality - Telemetric network",
+    "description": "The telemetric network comprises fixed and mobile measuring stations across Luxembourg, in rural, urban and urban-traffic areas. The network measures air quality in real time and tracks changes in levels of the main pollutants, including nitrogen dioxide, ozone and fine particles. This network serves as a basis for informing and alerting the population, especially sensitive individuals, in the event of pollution peaks. An air quality application has also been developed as part of the drive to improve public information.",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2018-01-01",
+    "rights_statement": "PUBLIC",
+    "periodicity": "HOURLY",
+    "themes": [
+        "ENVIRONMENT",
+        "HEALTH",
+        "REGIONS_AND_CITIES"
+    ],
+    "keywords": [
+        "AIR_QUALITY",
+        "FINE_PARTICLES",
+        "NITROGEN_DIOXIDE",
+        "OZONE",
+        "POLLUTION",
+        "URBAN"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "lux-data-atmo-1hour-202309.json",
+            "description": "lux-data-atmo-1hour-202309.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040827/lux-data-atmo-1hour-202309.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202308.json",
+            "description": "lux-data-atmo-1hour-202308.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040823/lux-data-atmo-1hour-202308.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202307.json",
+            "description": "lux-data-atmo-1hour-202307.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040820/lux-data-atmo-1hour-202307.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202306.json",
+            "description": "lux-data-atmo-1hour-202306.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040816/lux-data-atmo-1hour-202306.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202305.json",
+            "description": "lux-data-atmo-1hour-202305.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040813/lux-data-atmo-1hour-202305.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202304.json",
+            "description": "lux-data-atmo-1hour-202304.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040809/lux-data-atmo-1hour-202304.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202303.json",
+            "description": "lux-data-atmo-1hour-202303.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040805/lux-data-atmo-1hour-202303.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202302.json",
+            "description": "lux-data-atmo-1hour-202302.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040801/lux-data-atmo-1hour-202302.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202301.json",
+            "description": "lux-data-atmo-1hour-202301.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040757/lux-data-atmo-1hour-202301.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202212.json",
+            "description": "lux-data-atmo-1hour-202212.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040754/lux-data-atmo-1hour-202212.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202208.json",
+            "description": "lux-data-atmo-1hour-202208.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040739/lux-data-atmo-1hour-202208.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202204.json",
+            "description": "lux-data-atmo-1hour-202204.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040723/lux-data-atmo-1hour-202204.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202202.json",
+            "description": "lux-data-atmo-1hour-202202.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040716/lux-data-atmo-1hour-202202.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202112.json",
+            "description": "lux-data-atmo-1hour-202112.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040709/lux-data-atmo-1hour-202112.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202111.json",
+            "description": "lux-data-atmo-1hour-202111.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040705/lux-data-atmo-1hour-202111.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202102.json",
+            "description": "lux-data-atmo-1hour-202102.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040632/lux-data-atmo-1hour-202102.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202010.json",
+            "description": "lux-data-atmo-1hour-202010.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040618/lux-data-atmo-1hour-202010.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202009.json",
+            "description": "lux-data-atmo-1hour-202009.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040615/lux-data-atmo-1hour-202009.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202004.json",
+            "description": "lux-data-atmo-1hour-202004.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040556/lux-data-atmo-1hour-202004.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202001.json",
+            "description": "lux-data-atmo-1hour-202001.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040545/lux-data-atmo-1hour-202001.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-201911.json",
+            "description": "lux-data-atmo-1hour-201911.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20230123-030447/lux-data-atmo-1hour-201911.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-201910.json",
+            "description": "lux-data-atmo-1hour-201910.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040535/lux-data-atmo-1hour-201910.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-201909.json",
+            "description": "lux-data-atmo-1hour-201909.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040531/lux-data-atmo-1hour-201909.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-201812.json",
+            "description": "lux-data-atmo-1hour-201812.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040512/lux-data-atmo-1hour-201812.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202212.json",
+            "description": "lux-data-atmo-1hour-202212.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20230122-030802/lux-data-atmo-1hour-202212.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202211.json",
+            "description": "lux-data-atmo-1hour-202211.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040750/lux-data-atmo-1hour-202211.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202210.json",
+            "description": "lux-data-atmo-1hour-202210.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040746/lux-data-atmo-1hour-202210.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202209.json",
+            "description": "lux-data-atmo-1hour-202209.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040743/lux-data-atmo-1hour-202209.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202208.json",
+            "description": "lux-data-atmo-1hour-202208.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20230122-030741/lux-data-atmo-1hour-202208.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202207.json",
+            "description": "lux-data-atmo-1hour-202207.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040735/lux-data-atmo-1hour-202207.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202206.json",
+            "description": "lux-data-atmo-1hour-202206.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040731/lux-data-atmo-1hour-202206.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202205.json",
+            "description": "lux-data-atmo-1hour-202205.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040727/lux-data-atmo-1hour-202205.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202204.json",
+            "description": "lux-data-atmo-1hour-202204.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20230122-030722/lux-data-atmo-1hour-202204.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202203.json",
+            "description": "lux-data-atmo-1hour-202203.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040720/lux-data-atmo-1hour-202203.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202202.json",
+            "description": "lux-data-atmo-1hour-202202.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20230122-030713/lux-data-atmo-1hour-202202.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202201.json",
+            "description": "lux-data-atmo-1hour-202201.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040713/lux-data-atmo-1hour-202201.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202112.json",
+            "description": "lux-data-atmo-1hour-202112.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20230122-030703/lux-data-atmo-1hour-202112.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202111.json",
+            "description": "lux-data-atmo-1hour-202111.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20230122-030658/lux-data-atmo-1hour-202111.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202110.json",
+            "description": "lux-data-atmo-1hour-202110.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040701/lux-data-atmo-1hour-202110.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202109.json",
+            "description": "lux-data-atmo-1hour-202109.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040657/lux-data-atmo-1hour-202109.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202108.json",
+            "description": "lux-data-atmo-1hour-202108.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040654/lux-data-atmo-1hour-202108.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202107.json",
+            "description": "lux-data-atmo-1hour-202107.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040650/lux-data-atmo-1hour-202107.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202106.json",
+            "description": "lux-data-atmo-1hour-202106.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040646/lux-data-atmo-1hour-202106.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202105.json",
+            "description": "lux-data-atmo-1hour-202105.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040643/lux-data-atmo-1hour-202105.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-201910.json",
+            "description": "lux-data-atmo-1hour-201910.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20210521-105903/lux-data-atmo-1hour-201910.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-201908.json",
+            "description": "lux-data-atmo-1hour-201908.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040528/lux-data-atmo-1hour-201908.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-201906.json",
+            "description": "lux-data-atmo-1hour-201906.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040522/lux-data-atmo-1hour-201906.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-201905.json",
+            "description": "lux-data-atmo-1hour-201905.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20210521-105520/lux-data-atmo-1hour-201905.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202009.json",
+            "description": "lux-data-atmo-1hour-202009.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20210521-103031/lux-data-atmo-1hour-202009.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202008.json",
+            "description": "lux-data-atmo-1hour-202008.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040611/lux-data-atmo-1hour-202008.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202104.json",
+            "description": "lux-data-atmo-1hour-202104.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040639/lux-data-atmo-1hour-202104.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202103.json",
+            "description": "lux-data-atmo-1hour-202103.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040636/lux-data-atmo-1hour-202103.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202102.json",
+            "description": "lux-data-atmo-1hour-202102.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20230122-030615/lux-data-atmo-1hour-202102.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202101.json",
+            "description": "lux-data-atmo-1hour-202101.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040629/lux-data-atmo-1hour-202101.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202012.json",
+            "description": "lux-data-atmo-1hour-202012.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040625/lux-data-atmo-1hour-202012.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202011.json",
+            "description": "lux-data-atmo-1hour-202011.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040621/lux-data-atmo-1hour-202011.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202010.json",
+            "description": "lux-data-atmo-1hour-202010.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20230122-030557/lux-data-atmo-1hour-202010.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202009.json",
+            "description": "lux-data-atmo-1hour-202009.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20230122-030551/lux-data-atmo-1hour-202009.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202008.json",
+            "description": "lux-data-atmo-1hour-202008.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20210520-041035/lux-data-atmo-1hour-202008.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202007.json",
+            "description": "lux-data-atmo-1hour-202007.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040607/lux-data-atmo-1hour-202007.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202006.json",
+            "description": "lux-data-atmo-1hour-202006.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040603/lux-data-atmo-1hour-202006.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202005.json",
+            "description": "lux-data-atmo-1hour-202005.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040559/lux-data-atmo-1hour-202005.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202004.json",
+            "description": "lux-data-atmo-1hour-202004.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20230122-030526/lux-data-atmo-1hour-202004.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202003.json",
+            "description": "lux-data-atmo-1hour-202003.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040552/lux-data-atmo-1hour-202003.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202002.json",
+            "description": "lux-data-atmo-1hour-202002.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040549/lux-data-atmo-1hour-202002.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-202001.json",
+            "description": "lux-data-atmo-1hour-202001.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20230122-030513/lux-data-atmo-1hour-202001.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-201912.json",
+            "description": "lux-data-atmo-1hour-201912.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040542/lux-data-atmo-1hour-201912.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-201911.json",
+            "description": "lux-data-atmo-1hour-201911.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040538/lux-data-atmo-1hour-201911.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-201910.json",
+            "description": "lux-data-atmo-1hour-201910.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20230122-030459/lux-data-atmo-1hour-201910.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-201909.json",
+            "description": "lux-data-atmo-1hour-201909.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20230122-030454/lux-data-atmo-1hour-201909.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-201908.json",
+            "description": "lux-data-atmo-1hour-201908.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20210520-040946/lux-data-atmo-1hour-201908.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-201907.json",
+            "description": "lux-data-atmo-1hour-201907.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040525/lux-data-atmo-1hour-201907.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-201906.json",
+            "description": "lux-data-atmo-1hour-201906.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20210520-040938/lux-data-atmo-1hour-201906.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-201905.json",
+            "description": "lux-data-atmo-1hour-201905.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040518/lux-data-atmo-1hour-201905.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-201904.json",
+            "description": "lux-data-atmo-1hour-201904.json",
+            "access_url": "https://download.data.public.lu/resources/air-quality-telemetric-network/20231006-040515/lux-data-atmo-1hour-201904.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "lux-data-atmo-1hour-201812.json",
+            "description": "lux-data-atmo-1hour-201812.json",
+            "access_url": "https://download.data.public.lu/resources/qualite-air-reseau-telemetrique/20230122-030425/lux-data-atmo-1hour-201812.json",
+            "file_type": "JSON",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

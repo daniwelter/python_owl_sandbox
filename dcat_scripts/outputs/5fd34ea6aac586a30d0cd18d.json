@@ -1,0 +1,44 @@
+{
+    "title": "Air Quality - Non-telemetric network (INSPIRE - Annex III Theme Human Health)",
+    "description": "This dataset includes data from non-telemetric air quality networks:\n- Dust fallout network\n- Fine dust collection network according to the filter reference method\n\nThe view service of this dataset support time requests. The different wms shows value of measurements at a precise timestamp.\n\nDescription copied from [catalog.inspire.geoportail.lu](https://catalog.inspire.geoportail.lu/geonetwork/srv/eng/catalog.search#/metadata/cfc4eeae-bc18-42a1-9a77-10b19efc9dce).",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2020-09-17",
+    "rights_statement": "PUBLIC",
+    "periodicity": "UNKNOWN",
+    "themes": [
+        "ENVIRONMENT"
+    ],
+    "keywords": [
+        "AIR_QUALITY",
+        "FINE_DUST",
+        "INSPIRE",
+        "NON_TELEMETRIC_NETWORK"
+    ],
+    "legal_frameworks": [
+        "INSPIRE"
+    ],
+    "distributions": [
+        {
+            "title": "WMS View Service for HH.EnvHealthDeterminantMeasure_AQNonTelemetric",
+            "description": "WMS View Service for HH.EnvHealthDeterminantMeasure_AQNonTelemetric",
+            "access_url": "https://wms.inspire.geoportail.lu/geoserver/hh/wms?service=WMS&version=1.3.0&request=GetCapabilities",
+            "file_type": "WMS",
+            "access_type": "API",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "hh.envhealthdeterminantmeasure-aqnontelemetric.gml",
+            "description": "hh.envhealthdeterminantmeasure-aqnontelemetric.gml",
+            "access_url": "https://download.data.public.lu/resources/inspire-annex-iii-theme-human-health-air-quality-non-telemetric-network/20201211-114912/hh.envhealthdeterminantmeasure-aqnontelemetric.gml",
+            "file_type": "GML",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}

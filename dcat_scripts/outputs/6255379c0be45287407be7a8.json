@@ -1,0 +1,42 @@
+{
+    "title": "Climate and Energy - The climate ecology situation in Luxembourg",
+    "description": "The present climate analysis focuses in particular on the cold air balance and the small-scale summer thermal stress situation of the population both during the day and at night (protected good of \"human health\"). The Luxembourg regional climate, which forms during a low-exchange radiation weather situation in summer, was investigated with the help of high-resolution computer-aided modeling.\nThe rectangular study area used for climate modeling covers an area of about 5,170 km\u00b2 (approximately 60.8 km x 85 km), so that elevation differences and land use in the surrounding area that influence the Luxembourg regional climate can be taken into account.\nThe study consists of the following parts:\n1. the study report \"Climate Ecological Situation in Luxembourg, Model-based Regional Climate Analysis - La situation au Luxembourg en mati\u00e8re d'\u00e9cologie climatique\", prepared 2/2021 by LIST (Luxembourg Institute of Science and Technology) in collaboration with GEO-NET Umweltconsulting GmbH on behalf of the Administration de l'Environnement.\n2. 6 high-resolution maps of the study report (format A0) as PDF, 2 of them also in French (ZIP),\n3. the GIS datasets with map templates (ZIP).\n\n\nIt should be emphasized that the use and interpretation of the maps under 2) and the GIS datasets under 3) must always be done in conjunction with and with reference to the study report under 1).\n\n",
+    "creator_name": "Administration de l'environnement",
+    "creator_email": "infos@aev.etat.lu",
+    "time_period_start": "2021-02-26",
+    "rights_statement": "PUBLIC",
+    "periodicity": "UNKNOWN",
+    "themes": [
+        "REGIONS_AND_CITIES"
+    ],
+    "keywords": [
+        "CLIMATE",
+        "ENVIRONMENT",
+        "SPATIAL_PLANNING",
+        "URBAN"
+    ],
+    "legal_frameworks": [],
+    "distributions": [
+        {
+            "title": "Bericht - Klimaokologische Situation in Luxemburg - Modellbasierte regionale Klimaanalyse",
+            "description": "L\u2019\u00e9tude comprend les parties suivantes:\n\n1) Le rapport d'\u00e9tude \u201eKlima\u00f6kologische Situation in Luxemburg, Modellbasierte regionale Klimaanalyse - La situation au Luxembourg en mati\u00e8re d'\u00e9cologie climatique\" \u00e9tabli en 2/2021 par le LIST (Luxembourg Institute of Science and Technology) en collaboration avec la soci\u00e9t\u00e9 GEO-NET Umweltconsulting GmbH pour le compte de l'Administration de l'environnement.\n2) Les 6 cartes du rapport d\u2019\u00e9tude \u00e0 haute r\u00e9solution (format A0) en PDF, dont 2 aussi en fran\u00e7ais (ZIP),\n3) Les jeux de donn\u00e9es SIG avec des mod\u00e8les de cartes (ZIP).\n\nIl faut souligner que l\u2019usage et l\u2019interpr\u00e9tation des cartes sous le point 2) ainsi que des jeux de donn\u00e9es SIG sous 3), doit se faire toujours en relation avec le rapport d\u2019\u00e9tude sous 1) et en faisant r\u00e9f\u00e9rence \u00e0 ce dernier. ",
+            "access_url": "https://download.data.public.lu/resources/klimaokologische-situation-in-luxemburg-modellbasierte-regionale-klimaanalyse/20220412-103016/etude-klimaokologische-situation-in-luxemburg-modellbasierte-regionale-klimaanalyse-aev-02-2021-1-.zip",
+            "file_type": "ZIP",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        },
+        {
+            "title": "Klimaanalyse Bericht ",
+            "description": "Klimaanalyse Bericht ",
+            "access_url": "https://download.data.public.lu/resources/klimaokologische-situation-in-luxemburg-la-situation-au-luxembourg-en-matiere-decologie-climatique/20220414-112912/aev-luxemburg-klimaanalyse-bericht-final.pdf",
+            "file_type": "PDF",
+            "access_type": "DOWNLOAD",
+            "languages": [
+                "ENGLISH"
+            ]
+        }
+    ],
+    "dataset_type": "RAW_DATA"
+}
