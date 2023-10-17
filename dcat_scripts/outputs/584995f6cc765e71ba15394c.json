@@ -11,7 +11,7 @@
     ],
     "keywords": [
         "RECYCLING",
-        "RESSOURCES",
+        "RESOURCES",
         "WASTE",
         "WASTE_COLLECTION",
         "WASTE_TREATMENT"
@@ -42,7 +42,7 @@
             "title": "recycling-centers.shp.zip",
             "description": "recycling-centers.shp.zip",
             "access_url": "https://download.data.public.lu/resources/centres-de-recyclage/20200129-144722/2018-recycling-centers.shp.zip",
-            "file_type": "SHP.ZIP",
+            "file_type": "SHP_ZIP",
             "access_type": "DOWNLOAD",
             "languages": [
                 "ENGLISH"
